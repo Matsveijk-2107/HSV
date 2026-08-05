@@ -5,7 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import plotly.express as px
 import streamlit as st
-from utils import CATEGORICAL_SEQUENCE, LOGO_PATH, load_csv, page_header
+from utils import CATEGORICAL_SEQUENCE, LOGO_PATH, download_csv_button, load_csv, page_header
 
 st.set_page_config(page_title="Opponent Playmaker Impact", page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else None, layout="wide")
 page_header(
@@ -59,7 +59,6 @@ st.caption("Even within goalkeepers specifically there's real spread: some get p
 # Was re-deriving from the unfiltered `df` here, ignoring the role_filter applied to `confident`
 # above -- the two charts respected the "Filter by role" dropdown but this table silently didn't,
 # so picking e.g. "Center Back" filtered the charts but left every role in the table below them.
-st.dataframe(
-    confident.sort_values("role_adjusted_dist")[["player_name", "role", "touches", "matches", "avg_x_m", "role_adjusted_dist"]].round(2),
-    width="stretch", hide_index=True,
-)
+playmaker_table = confident.sort_values("role_adjusted_dist")[["player_name", "role", "touches", "matches", "avg_x_m", "role_adjusted_dist"]].round(2)
+st.dataframe(playmaker_table, width="stretch", hide_index=True)
+download_csv_button(playmaker_table, "Download table (CSV)", "opponent_playmaker_impact.csv")

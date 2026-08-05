@@ -6,7 +6,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-from utils import DIMENSIONS, DIMENSION_LABELS, EXPLORATORY_COLOR, LOGO_PATH, VALIDATED_COLOR, load_app_csv, load_csv, page_header
+from utils import DIMENSIONS, DIMENSION_LABELS, EXPLORATORY_COLOR, LOGO_PATH, VALIDATED_COLOR, download_csv_button, load_app_csv, load_csv, page_header
 
 st.set_page_config(page_title="Player Weakness Finder", page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else None, layout="wide")
 page_header(
@@ -82,10 +82,9 @@ if player_names:
 
 tab1, tab2 = st.tabs(["Confident", "Exploratory (below confidence bar)"])
 with tab1:
-    st.dataframe(
-        confident[["player_name", "times_flagged", "matches", "avg_breakdown_gap_m", "avg_baseline_gap_m", "diff_m"]].round(2),
-        width="stretch", hide_index=True,
-    )
+    confident_table = confident[["player_name", "times_flagged", "matches", "avg_breakdown_gap_m", "avg_baseline_gap_m", "diff_m"]].round(2)
+    st.dataframe(confident_table, width="stretch", hide_index=True)
+    download_csv_button(confident_table, "Download confident-tier table (CSV)", f"weakness_finder_{group.replace(' ', '_').lower()}.csv")
 with tab2:
     st.caption("Real data, smaller sample: treat as suggestive, not confirmed.")
     st.dataframe(

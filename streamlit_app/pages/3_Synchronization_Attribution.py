@@ -5,7 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import plotly.express as px
 import streamlit as st
-from utils import HSV_COLOR, LOGO_PATH, load_csv, page_header
+from utils import HSV_COLOR, LOGO_PATH, download_csv_button, load_csv, page_header
 
 st.set_page_config(page_title="Synchronization Attribution", page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else None, layout="wide")
 page_header(
@@ -54,6 +54,10 @@ if group == "HSV squad":
 st.dataframe(
     confident[["player_name", "times_responsible", "matches", "avg_deviation_cm_s"]].round(1),
     width="stretch", hide_index=True,
+)
+download_csv_button(
+    confident[["player_name", "times_responsible", "matches", "avg_deviation_cm_s"]].round(1),
+    "Download confident-tier table (CSV)", f"synchronization_attribution_{group.replace(' ', '_').lower()}.csv",
 )
 
 with st.expander("The metric itself was rebuilt after a direct challenge: methodology and robustness"):

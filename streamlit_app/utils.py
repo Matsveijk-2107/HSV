@@ -216,12 +216,56 @@ def load_app_csv(name: str) -> pd.DataFrame:
     return pd.read_csv(APP_DATA_DIR / name)
 
 
+GLOSSARY_TERMS = [
+    (
+        "Percentile",
+        "Where a value ranks against everything else in its comparison group, from 0 (lowest) to "
+        "100 (highest). A defender at the 80th percentile for closing speed is faster than 80% of "
+        "the defenders being compared.",
+    ),
+    (
+        "Shift",
+        "The change in percentile rank between two conditions, for example before vs. after a "
+        "trigger, or HSV vs. the league average. A positive shift means the metric moved up in "
+        "rank; a negative shift means it moved down.",
+    ),
+    (
+        "p-value",
+        "The probability of seeing a difference this large just by chance if there were really no "
+        "effect at all. Below 0.05 is this app's cutoff for calling a difference statistically "
+        "real rather than noise.",
+    ),
+    (
+        "Validated vs. exploratory",
+        "Validated findings passed a formal, baseline-controlled statistical test (p < 0.05), not "
+        "just an eyeballed difference. Exploratory findings are descriptive patterns worth a "
+        "closer look, not yet proven.",
+    ),
+    (
+        "Confident vs. exploratory tier",
+        "In player-level tables: confident-tier rows have enough matches or events behind them to "
+        "trust the number. Exploratory-tier rows rest on too few observations to draw conclusions "
+        "from directly.",
+    ),
+]
+
+
 def page_header(title: str, caption: str = ""):
     apply_theme()
-    st.title(title)
+    col1, col2 = st.columns([6, 1])
+    with col1:
+        st.title(title)
+    with col2:
+        with st.popover("How to read this", width="stretch"):
+            for term, definition in GLOSSARY_TERMS:
+                st.markdown(f"**{term}**  \n{definition}")
     if caption:
         st.caption(caption)
 
 
 def confidence_badge(is_validated: bool) -> str:
     return "Statistically validated" if is_validated else "Exploratory / descriptive only"
+
+
+def download_csv_button(df: pd.DataFrame, label: str, file_name: str, key: str | None = None):
+    st.download_button(label, df.to_csv(index=False).encode("utf-8"), file_name=file_name, mime="text/csv", key=key)

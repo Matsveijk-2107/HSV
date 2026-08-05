@@ -5,7 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import plotly.express as px
 import streamlit as st
-from utils import LOGO_PATH, load_csv, page_header
+from utils import LOGO_PATH, download_csv_button, load_csv, page_header
 
 st.set_page_config(page_title="Best Defender", page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else None, layout="wide")
 page_header(
@@ -78,10 +78,9 @@ if group == "Opponents":
 
 tab1, tab2 = st.tabs(["Confident", "Exploratory (below confidence bar)"])
 with tab1:
-    st.dataframe(
-        confident[["player_name", "times_best", "matches", "avg_breakdown_gap_m", "avg_baseline_gap_m", "diff_m"]].round(2),
-        width="stretch", hide_index=True,
-    )
+    confident_table = confident[["player_name", "times_best", "matches", "avg_breakdown_gap_m", "avg_baseline_gap_m", "diff_m"]].round(2)
+    st.dataframe(confident_table, width="stretch", hide_index=True)
+    download_csv_button(confident_table, "Download confident-tier table (CSV)", f"best_defender_{group.replace(' ', '_').lower()}.csv")
 with tab2:
     st.caption("Real data, smaller sample: treat as suggestive, not confirmed.")
     st.dataframe(

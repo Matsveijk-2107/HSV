@@ -6,16 +6,67 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-from utils import CRITICAL_COLOR, EXPLORATORY_COLOR, HSV_COLOR, LOGO_PATH, VALIDATED_COLOR, load_app_csv, load_csv, page_header
+from scipy.stats import linregress
+from utils import CRITICAL_COLOR, EXPLORATORY_COLOR, HSV_COLOR, INK_MUTED, LOGO_PATH, VALIDATED_COLOR, download_csv_button, load_app_csv, load_csv, page_header
 
 st.set_page_config(page_title="Season Patterns", page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else None, layout="wide")
-page_header("Season-Level Patterns", "Team-level, season-wide pressing trends: home/away, fatigue, game state, weather.")
+page_header("Season-Level Patterns", "Team-level, season-wide pressing trends: matchday, home/away, fatigue, game state, weather.")
 
 RESULT_COLORS = {"Win": VALIDATED_COLOR, "Draw": EXPLORATORY_COLOR, "Loss": CRITICAL_COLOR}
 
 # Real findings first, null results (confound-elimination housekeeping, not presentation
 # material) last -- Home/Away and Weather are both "checked and ruled out," not actionable.
-tab2, tab3, tab1, tab4 = st.tabs(["Fatigue & Game State", "Compactness", "Home vs. Away", "Weather"])
+# Season Trend leads: it answers the single most-asked "is this getting better or worse"
+# question, and a null result there is still the answer, not a reason to bury it.
+tab0, tab2, tab3, tab1, tab4 = st.tabs(["Season Trend", "Fatigue & Game State", "Compactness", "Home vs. Away", "Weather"])
+
+with tab0:
+    st.markdown(
+        "Is HSV's pressing trending up or down over the season? HSV's own average defending "
+        "TPR and Synchronization, in chronological matchday order across all 34 league matches."
+    )
+    trend = load_csv("season_trend_by_matchday.csv").sort_values("matchday")
+    tpr_fit = linregress(trend["matchday"], trend["avg_tpr"])
+    sync_fit = linregress(trend["matchday"], trend["avg_synchronization"])
+    x_range = [trend["matchday"].min(), trend["matchday"].max()]
+
+    fig_tpr = go.Figure()
+    fig_tpr.add_trace(go.Scatter(
+        x=trend["matchday"], y=trend["avg_tpr"], mode="lines+markers", name="TPR",
+        line=dict(color=HSV_COLOR), marker=dict(color=HSV_COLOR),
+        customdata=trend[["opponent", "date"]],
+        hovertemplate="MD %{x}: TPR %{y:.3f}<br>%{customdata[0]} (%{customdata[1]})<extra></extra>",
+    ))
+    fig_tpr.add_trace(go.Scatter(
+        x=x_range, y=[tpr_fit.intercept + tpr_fit.slope * x for x in x_range],
+        mode="lines", name="Trend (OLS)", line=dict(color=INK_MUTED, dash="dash"), hoverinfo="skip",
+    ))
+    fig_tpr.update_layout(title="TPR by matchday", xaxis_title="Matchday", yaxis_title="Mean defending TPR", height=350)
+    st.plotly_chart(fig_tpr, width="stretch")
+
+    fig_sync = go.Figure()
+    fig_sync.add_trace(go.Scatter(
+        x=trend["matchday"], y=trend["avg_synchronization"], mode="lines+markers", name="Synchronization",
+        line=dict(color=VALIDATED_COLOR), marker=dict(color=VALIDATED_COLOR),
+        customdata=trend[["opponent", "date"]],
+        hovertemplate="MD %{x}: Sync %{y:.3f}<br>%{customdata[0]} (%{customdata[1]})<extra></extra>",
+    ))
+    fig_sync.add_trace(go.Scatter(
+        x=x_range, y=[sync_fit.intercept + sync_fit.slope * x for x in x_range],
+        mode="lines", name="Trend (OLS)", line=dict(color=INK_MUTED, dash="dash"), hoverinfo="skip",
+    ))
+    fig_sync.update_layout(title="Synchronization by matchday (the one validated dimension)", xaxis_title="Matchday", yaxis_title="Mean Synchronization", height=350)
+    st.plotly_chart(fig_sync, width="stretch")
+
+    c1, c2 = st.columns(2)
+    c1.metric("TPR trend", f"r = {tpr_fit.rvalue:.3f}", f"p = {tpr_fit.pvalue:.3f} (not significant)", delta_color="off")
+    c2.metric("Synchronization trend", f"r = {sync_fit.rvalue:.3f}", f"p = {sync_fit.pvalue:.3f} (not significant)", delta_color="off")
+    st.caption(
+        "Null result: neither trend is statistically significant (p > 0.05). Pressing intensity "
+        "and synchronization are flat across the season, no evidence of systematic improvement "
+        "or decline over the 34 matches."
+    )
+    download_csv_button(trend, "Download season trend data (CSV)", "hsv_season_trend_by_matchday.csv")
 
 with tab1:
     st.markdown("HSV's own average TPR while defending, by venue. **Null result**: venue doesn't meaningfully affect pressing intensity.")
