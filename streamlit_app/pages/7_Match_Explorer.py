@@ -24,15 +24,13 @@ from utils import (
 
 import frame_diagnostics as fd
 
-# This page's data lives one level up from the rest of the dashboard
-# (machine_learning/hsv_pipeline/results/, not .../hsv_player_attribution/results/)
-# -- it's the one thing in this app that isn't a pre-validated finding CSV,
+# It's the one thing in this app that isn't a pre-validated finding CSV --
 # it's a live per-minute reslice of the checkpoint data, built by
-# machine_learning/hsv_pipeline/build_scrubber_data.py. Kept self-contained
-# here rather than routed through utils.load_csv, which is hardcoded to
-# this app's own results/ directory.
-PROJECT_ROOT = Path(__file__).resolve().parents[4]
-SCRUBBER_JSON = PROJECT_ROOT / "machine_learning/hsv_pipeline/results/scrubber_data.json"
+# machine_learning/hsv_pipeline/build_scrubber_data.py in the original
+# project. Kept self-contained here rather than routed through
+# utils.load_csv, which is hardcoded to this app's own results/ directory
+# (scrubber_data.json happens to live in that same results/ dir here).
+SCRUBBER_JSON = Path(__file__).resolve().parents[2] / "results" / "scrubber_data.json"
 
 REASON_LABELS = {
     "velocity_outlier_against_majority": "moving against team's direction (Synchronization)",
