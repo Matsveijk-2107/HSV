@@ -144,13 +144,43 @@ h2, h3 {{
     color: {INK_PRIMARY} !important;
 }}
 
-/* Tabs: a cleaner underline instead of Streamlit's default heavy bar */
+/* Tabs: distinct pill-shaped buttons with real spacing and padding, not
+   plain text running together -- Streamlit's own defaults give each tab
+   almost no horizontal padding and no background, so a row of longer
+   labels reads as one continuous sentence instead of separate clickable
+   controls. */
 .stTabs [data-baseweb="tab-list"] {{
-    gap: 4px;
+    gap: 6px;
+    border-bottom: 2px solid {GRIDLINE};
 }}
 .stTabs [data-baseweb="tab"] {{
-    height: 40px;
+    height: 44px;
+    padding: 0 20px;
+    margin-bottom: -2px;
     border-radius: 8px 8px 0 0;
+    background: {CHART_SURFACE};
+    border: 1px solid {GRIDLINE};
+    border-bottom: none;
+    font-weight: 500;
+    white-space: nowrap;
+}}
+.stTabs [data-baseweb="tab"] p {{
+    font-size: 0.95rem;
+}}
+.stTabs [data-baseweb="tab"][aria-selected="true"] {{
+    background: #ffffff;
+    border-color: {HSV_COLOR};
+    box-shadow: inset 0 3px 0 {HSV_COLOR};
+}}
+.stTabs [data-baseweb="tab"][aria-selected="true"] p {{
+    color: {HSV_COLOR} !important;
+    font-weight: 700;
+}}
+.stTabs [data-baseweb="tab-highlight"] {{
+    background-color: transparent;
+}}
+.stTabs [data-baseweb="tab-border"] {{
+    display: none;
 }}
 
 /* Expanders and alert boxes: rounded, consistent with the rest */
