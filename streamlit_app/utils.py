@@ -125,7 +125,12 @@ h2, h3 {{
     font-weight: 700 !important;
 }}
 
-/* Metric tiles: card-like, not bare numbers floating on the page */
+/* Metric tiles: card-like, not bare numbers floating on the page. Value
+   color set explicitly, not left to inherit -- .streamlit/config.toml
+   pins the app to a light theme, but if that config is ever missing
+   (e.g. a copy that dropped it) the tile background here still forces
+   near-white, and an inherited dark-theme white value text would be
+   invisible against it rather than just off-brand. */
 [data-testid="stMetric"] {{
     background: {CHART_SURFACE};
     border: 1px solid {GRIDLINE};
@@ -134,6 +139,9 @@ h2, h3 {{
 }}
 [data-testid="stMetricLabel"] {{
     color: {INK_SECONDARY} !important;
+}}
+[data-testid="stMetricValue"] {{
+    color: {INK_PRIMARY} !important;
 }}
 
 /* Tabs: a cleaner underline instead of Streamlit's default heavy bar */
