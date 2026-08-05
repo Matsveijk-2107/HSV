@@ -1,0 +1,360 @@
+object_id,player_name,is_hsv,phase,pressure,compactness,lpc,pos,anticipation,synchronization,total_flagged
+DFL-OBJ-00002T,Pascal Groß,False,high_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,False,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0000NB,Danny Vieira da Costa,False,transition,0.5,1.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,False,low_press,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+DFL-OBJ-00012Y,Lukas Kübler,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-00012Y,Lukas Kübler,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-00017V,Christian Günter,False,low_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-00017V,Christian Günter,False,mid_press,1.5,0.0,0.0,0.5,1.0,0.0,3.0
+DFL-OBJ-00018O,Michael Gregoritsch,False,low_press,3.0,0.0,0.0,0.0,0.0,3.0,6.0
+DFL-OBJ-00018O,Michael Gregoritsch,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0001E5,Jonas Hofmann,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0001E6,Vincenzo Grifo,False,transition,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-0001V0,Ihlas Bebou,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,True,low_press,5.5,0.0,1.0,1.0,1.5,3.0,12.0
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,True,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0002FX,Christopher Trimmel,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0002FX,Christopher Trimmel,False,low_press,1.5,0.0,1.0,1.0,0.5,3.0,7.0
+DFL-OBJ-0002FX,Christopher Trimmel,False,mid_press,0.0,0.0,1.0,0.0,0.0,2.0,3.0
+DFL-OBJ-0002FX,Christopher Trimmel,False,transition,1.0,1.0,0.0,0.0,0.0,4.0,6.0
+DFL-OBJ-0002IG,Marius Wolf,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0002IG,Marius Wolf,False,low_press,0.5,0.0,0.0,0.0,0.5,2.0,3.0
+DFL-OBJ-0002IG,Marius Wolf,False,mid_press,0.0,1.0,0.0,1.0,0.0,1.0,3.0
+DFL-OBJ-0002IG,Marius Wolf,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0002JT,Marnon-Thomas Busch,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0002JT,Marnon-Thomas Busch,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0002JT,Marnon-Thomas Busch,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0002LI,Nadiem Amiri,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-0002LI,Nadiem Amiri,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0025AD,Maximilian Mittelstädt,False,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-0025J3,Grischa Prömel,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002651,Benedikt Steffen Gimber,False,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-00266E,Jonas Föhrenbach,False,high_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-00266E,Jonas Föhrenbach,False,low_press,2.5,1.0,0.0,0.0,0.5,1.0,5.0
+DFL-OBJ-00266E,Jonas Föhrenbach,False,mid_press,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-0026MA,Pascal Stenzel,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0026TU,Andrej Kramarić,False,low_press,1.0,0.0,1.0,0.0,1.0,2.0,5.0
+DFL-OBJ-0026TU,Andrej Kramarić,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-0026TU,Andrej Kramarić,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0026VB,Phillip Tietz,False,low_press,1.0,0.0,1.0,0.0,1.0,0.0,3.0
+DFL-OBJ-002706,Florian Christian Neuhaus,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-00278Q,Phillipp Mwene,False,low_press,0.5,0.0,2.0,1.0,1.5,1.0,6.0
+DFL-OBJ-00278Q,Phillipp Mwene,False,mid_press,1.0,1.0,0.0,0.0,0.0,1.0,3.0
+DFL-OBJ-00278Q,Phillipp Mwene,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0027AT,Bakery Jatta,True,high_press,1.0,1.0,0.0,0.0,0.0,0.0,2.0
+DFL-OBJ-0027AT,Bakery Jatta,True,low_press,5.5,1.0,1.0,1.0,3.5,8.0,20.0
+DFL-OBJ-0027AT,Bakery Jatta,True,mid_press,0.5,1.0,0.0,1.0,0.5,0.0,3.0
+DFL-OBJ-0027AT,Bakery Jatta,True,transition,2.0,2.0,1.0,0.0,0.0,0.0,5.0
+DFL-OBJ-0027B9,Lucas Höler,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-0027BH,Marco Friedl,False,transition,1.0,1.0,0.0,0.0,0.0,0.0,2.0
+DFL-OBJ-0027FW,Oliver Jasen Burke,False,low_press,1.3333333333333333,0.0,2.0,0.3333333333333333,0.3333333333333333,1.0,5.0
+DFL-OBJ-0027G6,Serge David Gnabry,False,low_press,1.0,0.0,1.0,0.0,1.0,0.0,3.0
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,True,low_press,8.0,0.0,1.0,0.0,4.0,8.0,21.0
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,True,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,True,transition,1.0,0.0,1.0,0.0,0.0,0.0,2.0
+DFL-OBJ-0027IT,David Raum,False,high_press,0.5,1.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-0027IT,David Raum,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0027JU,Jordan Torunarigha,True,low_press,0.0,1.0,0.0,0.0,0.0,3.0,4.0
+DFL-OBJ-0027JU,Jordan Torunarigha,True,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0027RM,Robin Hack,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0027RM,Robin Hack,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0027T1,Konrad Laimer,False,low_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-0027YK,Deniz Undav,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0027YK,Deniz Undav,False,low_press,2.5,0.0,0.0,0.5,1.0,3.0,7.0
+DFL-OBJ-0028B6,Jan-Niklas Beste,False,high_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0028B6,Jan-Niklas Beste,False,low_press,2.0,0.0,0.0,0.0,2.0,1.0,5.0
+DFL-OBJ-0028B6,Jan-Niklas Beste,False,mid_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-0028BD,Linton Maina,False,high_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-0028BD,Linton Maina,False,low_press,0.5,0.0,1.0,0.0,0.5,1.0,3.0
+DFL-OBJ-0028BD,Linton Maina,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,False,low_press,5.5,0.0,1.0,0.0,1.5,2.0,10.0
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,False,low_press,4.5,0.0,2.0,0.0,0.5,2.0,9.0
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0028I9,Chris Jan Führich,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0028I9,Chris Jan Führich,False,transition,1.0,0.0,1.0,0.0,0.0,0.0,2.0
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,False,high_press,0.0,0.0,0.0,0.5,0.5,0.0,1.0
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,False,transition,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-0028NR,Marius Bülter,False,low_press,1.0,0.0,0.0,0.0,0.0,2.0,3.0
+DFL-OBJ-0028P3,Philipp Sander,False,transition,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0028QV,Mathias Honsak,False,low_press,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-0028RM,Julian Ryerson,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0028RM,Julian Ryerson,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0028RM,Julian Ryerson,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0028RM,Julian Ryerson,False,transition,1.0,0.0,0.0,0.0,1.0,2.0,4.0
+DFL-OBJ-0028T0,Marvin Pieringer,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-0028T0,Marvin Pieringer,False,low_press,1.5,0.0,0.0,0.0,1.5,1.0,4.0
+DFL-OBJ-0028TI,Tom Krauß,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-0028TI,Tom Krauß,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,False,low_press,1.5,0.0,0.0,0.0,0.5,2.0,4.0
+DFL-OBJ-002FVR,Wooyeong Jeong,False,low_press,0.0,0.0,0.0,0.0,0.0,3.0,3.0
+DFL-OBJ-002FVR,Wooyeong Jeong,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002FW5,Amos Pieper,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002FX2,Romano Christian Schmid,False,low_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-002FX2,Romano Christian Schmid,False,mid_press,0.5,0.0,1.0,0.0,0.5,0.0,2.0
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,False,low_press,1.0,0.0,1.0,0.0,0.0,0.0,2.0
+DFL-OBJ-002G41,Jamie Leweling,False,low_press,1.0,1.0,0.0,0.0,0.0,1.0,3.0
+DFL-OBJ-002G4W,Philipp Treu,False,low_press,1.0,1.0,1.0,0.0,0.0,0.0,3.0
+DFL-OBJ-002G4W,Philipp Treu,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G4W,Philipp Treu,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-002G56,Stefan Schimmer,False,low_press,2.0,0.0,0.0,0.0,0.0,4.0,6.0
+DFL-OBJ-002G56,Stefan Schimmer,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002G5B,Paul Nebel,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002G5S,Ramy Bensebaini,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,True,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G6U,Patrik Schick,False,low_press,3.5,0.0,0.0,0.0,2.5,3.0,9.0
+DFL-OBJ-002G7P,Maximilian Beier,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G7P,Maximilian Beier,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G7P,Maximilian Beier,False,transition,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,True,high_press,0.0,0.0,0.0,1.5,0.5,0.0,2.0
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,True,low_press,24.0,1.0,10.0,4.5,16.5,36.0,92.0
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,True,mid_press,1.8333333333333333,1.0,0.0,0.3333333333333333,0.8333333333333333,0.0,4.0
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,True,transition,0.0,0.0,0.0,0.0,0.0,4.0,4.0
+DFL-OBJ-002G8E,Eren Sami Dinkçi,False,low_press,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-002G8E,Eren Sami Dinkçi,False,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GBW,Tim Lemperle,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002GBW,Tim Lemperle,False,low_press,2.5,0.0,2.0,0.0,1.5,2.0,8.0
+DFL-OBJ-002GBW,Tim Lemperle,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GC0,Rocco Reitz,False,low_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-002GC7,Luca Netz,False,high_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GC7,Luca Netz,False,low_press,1.0,0.0,0.0,0.0,0.0,2.0,3.0
+DFL-OBJ-002GC7,Luca Netz,False,mid_press,1.0,0.0,0.0,1.0,1.0,1.0,4.0
+DFL-OBJ-002GC7,Luca Netz,False,transition,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-002GCU,Malik Leon Tillman,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,False,low_press,4.0,0.0,2.0,0.0,0.0,0.0,6.0
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,False,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GEY,Ermedin Demirović,False,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GG4,Jens Castrop,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,False,high_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GJN,Ritsu Dōan,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GKG,Ansgar Knauff,False,low_press,2.5,0.0,0.0,0.0,2.5,0.0,5.0
+DFL-OBJ-002GKG,Ansgar Knauff,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-002GKG,Ansgar Knauff,False,transition,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-002GMV,Igor Matanović,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-002GN3,Fisnik Asllani,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-002GNN,Joseph Michael Scally,False,low_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,False,low_press,1.0,0.0,0.0,0.5,1.5,3.0,6.0
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,False,mid_press,0.3333333333333333,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,1.0
+DFL-OBJ-J00ZZ3,Harry Edward Kane,False,low_press,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-J0117M,Haris Tabaković,False,low_press,4.0,1.0,2.0,0.0,1.0,8.0,16.0
+DFL-OBJ-J0117M,Haris Tabaković,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J0117M,Haris Tabaković,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J0133P,Vladimir Coufal,False,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J0133P,Vladimir Coufal,False,low_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J0133P,Vladimir Coufal,False,transition,0.5,0.0,1.0,0.0,0.5,2.0,4.0
+DFL-OBJ-J0157X,Manolis Saliakas,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,False,low_press,3.0,0.0,0.0,0.5,0.5,0.0,4.0
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,True,high_press,0.3333333333333333,2.0,0.0,0.3333333333333333,0.3333333333333333,1.0,4.0
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,True,low_press,27.166666666666668,1.0,6.0,3.1666666666666665,12.666666666666666,24.0,74.0
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,True,mid_press,3.0,0.0,0.0,0.0,1.0,1.0,5.0
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,True,transition,2.5,3.0,0.0,1.0,0.5,5.0,12.0
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,False,low_press,0.5,0.0,2.0,0.0,0.5,1.0,4.0
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,False,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,False,transition,0.3333333333333333,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,1.0
+DFL-OBJ-J01860,Aleix García Serrano,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,False,low_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,False,transition,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,False,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J019ZE,Jonas Older Wind,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,True,low_press,1.5,0.0,0.0,0.0,0.5,1.0,3.0
+DFL-OBJ-J01AUU,Adrian Beck,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,False,mid_press,1.0,0.0,0.0,0.0,0.0,2.0,3.0
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,False,transition,1.5,0.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,False,low_press,1.5,0.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J01BGD,Danel Sinani,False,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01BGD,Danel Sinani,False,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01BKL,Han-Noah Massengo,False,high_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J01C0A,Andreas Skov Olsen,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,False,mid_press,0.0,1.0,1.0,0.0,0.0,1.0,3.0
+DFL-OBJ-J01D4G,Franck Honorat,False,low_press,3.0,0.0,0.0,0.0,0.0,0.0,3.0
+DFL-OBJ-J01D4G,Franck Honorat,False,mid_press,0.3333333333333333,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,1.0
+DFL-OBJ-J01D4G,Franck Honorat,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01D90,Wouter Burger,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01D9B,Ramon Hendriks,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,False,low_press,0.3333333333333333,0.0,0.0,0.3333333333333333,0.3333333333333333,1.0,2.0
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01DCO,Yukinari Sugawara,False,high_press,1.0,0.0,1.0,0.0,0.0,0.0,2.0
+DFL-OBJ-J01DCO,Yukinari Sugawara,False,low_press,1.0,0.0,1.0,0.0,0.0,1.0,3.0
+DFL-OBJ-J01DCO,Yukinari Sugawara,False,mid_press,0.3333333333333333,1.0,0.0,0.3333333333333333,2.333333333333333,1.0,5.0
+DFL-OBJ-J01DKU,Benedict Hollerbach,False,low_press,2.5,0.0,0.0,0.0,0.5,9.0,12.0
+DFL-OBJ-J01DKU,Benedict Hollerbach,False,mid_press,0.3333333333333333,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,1.0
+DFL-OBJ-J01DNM,Nathaniel Brown,False,low_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J01DNM,Nathaniel Brown,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01DOV,Castello Junior Lukeba,False,transition,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01E9X,Karim David Adeyemi,False,low_press,2.0,0.0,0.0,0.0,0.0,1.0,3.0
+DFL-OBJ-J01E9X,Karim David Adeyemi,False,transition,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,False,low_press,2.5,0.0,0.0,0.0,2.5,1.0,6.0
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,False,low_press,1.0,0.0,0.0,0.0,1.0,3.0,5.0
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,False,high_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,False,low_press,1.0,0.0,0.0,0.0,0.0,2.0,3.0
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,False,transition,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,True,high_press,1.0,0.0,1.0,0.0,1.0,1.0,4.0
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,True,low_press,9.666666666666666,0.0,2.0,1.1666666666666665,9.166666666666666,4.0,26.0
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,True,mid_press,0.5,0.0,0.0,0.0,0.5,1.0,2.0
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,True,transition,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,False,low_press,3.0,0.0,1.0,1.0,2.0,0.0,7.0
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,False,transition,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,False,low_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01G0J,Adam Hložek,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01G5F,Warmed Omari,True,low_press,0.5,0.0,0.0,0.0,0.5,1.0,2.0
+DFL-OBJ-J01G5F,Warmed Omari,True,mid_press,1.5,0.0,0.0,0.0,1.5,0.0,3.0
+DFL-OBJ-J01G5F,Warmed Omari,True,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01G82,Fabian Rieder,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,True,high_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,True,low_press,5.0,0.0,2.0,0.0,2.0,2.0,11.0
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,True,high_press,1.0,0.0,0.0,0.0,2.0,2.0,5.0
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,True,low_press,7.333333333333333,1.0,6.0,0.3333333333333333,9.333333333333334,9.0,33.0
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,True,mid_press,0.5,0.0,0.0,1.5,2.0,1.0,5.0
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,True,transition,0.0,2.0,0.0,0.0,0.0,1.0,3.0
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,False,low_press,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,False,mid_press,2.0,0.0,0.0,0.0,0.0,0.0,2.0
+DFL-OBJ-J01IB3,Yannik Engelhardt,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01IB3,Yannik Engelhardt,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01ISO,Elias Saad,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01ISO,Elias Saad,False,mid_press,0.3333333333333333,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,1.0
+DFL-OBJ-J01IZ9,Nicolai Remberg,True,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01IZ9,Nicolai Remberg,True,transition,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01K2X,Anton Kade,False,low_press,2.5,0.0,1.0,0.0,0.5,2.0,6.0
+DFL-OBJ-J01K2X,Anton Kade,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01K33,Patrick Wimmer,False,low_press,2.0,0.0,2.0,1.0,0.0,3.0,8.0
+DFL-OBJ-J01K33,Patrick Wimmer,False,mid_press,0.5,0.0,0.0,0.0,0.5,1.0,2.0
+DFL-OBJ-J01KA5,Max Moerstedt,False,high_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01KA5,Max Moerstedt,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,False,low_press,3.0,0.0,0.0,1.0,2.0,2.0,8.0
+DFL-OBJ-J01KAL,Lukas Ullrich,False,low_press,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-J01KAL,Lukas Ullrich,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01KAS,Aaron Zehnter,False,low_press,2.0,0.0,0.0,0.0,0.0,1.0,3.0
+DFL-OBJ-J01KEB,Dženan Pejčinović,False,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01KEB,Dženan Pejčinović,False,low_press,1.0,1.0,0.0,0.0,1.0,1.0,4.0
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,False,low_press,0.0,1.0,0.0,0.0,1.0,2.0,4.0
+DFL-OBJ-J01KEV,Mert Kömür,False,low_press,1.0,0.0,0.0,0.0,1.0,1.0,3.0
+DFL-OBJ-J01KEV,Mert Kömür,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,False,low_press,2.0,0.0,0.0,0.0,0.0,0.0,2.0
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01KLU,Nicolas Jackson,False,low_press,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,False,low_press,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+DFL-OBJ-J01LB6,Youssoupha Niang,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,False,mid_press,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+DFL-OBJ-J01N5U,William Mikelbrencis,True,high_press,2.5,1.0,0.0,1.0,0.5,0.0,5.0
+DFL-OBJ-J01N5U,William Mikelbrencis,True,low_press,19.666666666666668,1.0,9.0,0.6666666666666666,7.666666666666667,24.0,62.0
+DFL-OBJ-J01N5U,William Mikelbrencis,True,mid_press,2.3333333333333335,1.0,0.0,3.8333333333333335,2.8333333333333335,1.0,11.0
+DFL-OBJ-J01N5U,William Mikelbrencis,True,transition,3.0,2.0,0.0,0.0,1.0,3.0,9.0
+DFL-OBJ-J01N62,Badredine Bouanani,False,low_press,2.5,0.0,0.0,0.0,0.5,0.0,3.0
+DFL-OBJ-J01NAE,Jan Bürger,False,low_press,0.0,0.0,1.0,0.0,0.0,1.0,2.0
+DFL-OBJ-J01NAE,Jan Bürger,False,transition,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,False,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01OYX,Daniel Elfadli,True,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01QPG,Damion Lamar Downs,True,high_press,1.5,0.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J01QPG,Damion Lamar Downs,True,low_press,2.0,0.0,0.0,0.0,2.0,1.0,5.0
+DFL-OBJ-J01QPQ,Ibrahim Maza,False,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,False,low_press,0.0,0.0,1.0,0.0,0.0,3.0,4.0
+DFL-OBJ-J01QSK,Otto Emerson Stange,True,low_press,0.0,0.0,1.0,0.0,1.0,2.0,4.0
+DFL-OBJ-J01QSK,Otto Emerson Stange,True,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,False,low_press,0.0,0.0,1.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J01R3R,Michael Akpovie Olise,False,low_press,3.0,0.0,1.0,0.0,2.0,4.0,10.0
+DFL-OBJ-J01RF2,Bilal El Khannouss,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01RKL,Joel Chima Fujita,False,low_press,1.5,0.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J01S1Y,Hennes Behrens,False,mid_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01T3R,Cenk Özkacar,False,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01TMV,Robin Hranáč,False,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01TMV,Robin Hranáč,False,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J01TOV,Yuito Suzuki,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,False,low_press,0.0,0.0,0.0,0.5,0.5,0.0,1.0
+DFL-OBJ-J01TR0,Olivier Deman,False,transition,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01U8K,Adam Daghim,False,low_press,5.0,0.0,0.0,1.0,1.0,2.0,9.0
+DFL-OBJ-J01U8K,Adam Daghim,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,False,low_press,1.5,0.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,False,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01UD5,Lennart Karl,False,low_press,1.0,0.0,0.0,0.5,0.5,0.0,2.0
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01US3,Eliesse Ben Seghir,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,True,high_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,True,low_press,8.0,0.0,5.0,0.0,4.0,5.0,22.0
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,True,mid_press,2.0,0.0,1.0,0.0,2.0,0.0,5.0
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,True,transition,1.0,0.0,0.0,0.0,1.0,1.0,3.0
+DFL-OBJ-J01VYC,Livan Baha Burcu,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01VYC,Livan Baha Burcu,False,transition,0.0,0.0,0.0,0.5,0.5,0.0,1.0
+DFL-OBJ-J01VZA,Jovan Milošević,False,low_press,0.0,0.0,1.0,0.0,0.0,2.0,3.0
+DFL-OBJ-J01W5Q,Louis Oppie,False,high_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J01W5Q,Louis Oppie,False,low_press,1.0,0.0,0.0,0.0,2.0,0.0,3.0
+DFL-OBJ-J01W5Q,Louis Oppie,False,transition,2.0,0.0,0.0,0.0,0.0,0.0,2.0
+DFL-OBJ-J01W6J,Rayan Philippe,True,low_press,6.5,1.0,5.0,0.0,5.5,8.0,26.0
+DFL-OBJ-J01W6J,Rayan Philippe,True,mid_press,0.5,0.0,0.0,0.0,0.5,3.0,4.0
+DFL-OBJ-J01W6J,Rayan Philippe,True,transition,2.5,0.0,0.0,0.0,1.5,2.0,6.0
+DFL-OBJ-J01WS3,Ilyas Ansah,False,low_press,1.0,0.0,1.0,0.0,1.0,1.0,4.0
+DFL-OBJ-J01WX3,Johan Manzambi,False,low_press,1.0,0.0,0.0,0.0,1.0,1.0,3.0
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,False,mid_press,0.0,1.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-J01XKB,William Cole Campbell,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J01ZQD,Saïd El Mala,False,low_press,3.0,0.0,1.0,0.0,0.0,0.0,4.0
+DFL-OBJ-J01ZQD,Saïd El Mala,False,mid_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,False,low_press,0.5,0.0,0.0,0.5,0.0,1.0,2.0
+DFL-OBJ-J020IH,Luka Vušković,True,low_press,0.0,1.0,0.0,0.0,1.0,2.0,4.0
+DFL-OBJ-J020YN,Marco Grüll,False,low_press,1.0,0.0,0.0,0.0,1.0,2.0,4.0
+DFL-OBJ-J020YN,Marco Grüll,False,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J020YN,Marco Grüll,False,transition,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+DFL-OBJ-J02110,Albian Hajdari,False,low_press,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J021AR,Martijn Kaars,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J021AR,Martijn Kaars,False,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,False,low_press,0.0,0.0,1.0,0.0,0.0,1.0,2.0
+DFL-OBJ-J021EE,Kaishu Sano,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,False,low_press,3.5,0.0,2.0,0.0,3.5,1.0,10.0
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,False,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,True,high_press,0.5,1.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,True,low_press,5.0,1.0,0.0,0.5,2.5,4.0,13.0
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,True,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,True,transition,0.0,0.0,0.0,0.0,0.0,3.0,3.0
+DFL-OBJ-J021ZE,Andrej Ilić,False,low_press,4.0,0.0,1.0,0.0,2.0,3.0,10.0
+DFL-OBJ-J021ZE,Andrej Ilić,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J02270,Emir Sahiti,True,low_press,1.5,0.0,1.0,0.0,0.5,0.0,3.0
+DFL-OBJ-J0231Z,Bazoumana Toure,False,low_press,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+DFL-OBJ-J0231Z,Bazoumana Toure,False,mid_press,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J0231Z,Bazoumana Toure,False,transition,1.0,0.0,0.0,0.0,0.0,3.0,4.0
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,True,low_press,1.8333333333333333,0.0,1.0,0.3333333333333333,3.833333333333333,8.0,15.0
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,True,mid_press,0.5,1.0,0.0,0.0,0.5,0.0,2.0
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,True,transition,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J0244R,Ricky-Jade Jones,False,low_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J02452,Mathias Pereira Lage,False,low_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J02471,Vinicius de Souza Costa,False,low_press,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,False,low_press,1.0,0.0,1.0,0.0,0.0,0.0,2.0
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,False,mid_press,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J024A2,Christian Michel Kofane,False,low_press,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+DFL-OBJ-J024CC,Yan Diomande,False,low_press,1.0,1.0,1.0,0.0,1.0,1.0,5.0
+DFL-OBJ-J024CC,Yan Diomande,False,transition,0.5,0.0,0.0,0.0,1.5,0.0,2.0
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,False,low_press,3.5,0.0,0.0,1.0,0.5,1.0,6.0
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,False,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,False,transition,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J024Z8,Philip Porwei Otele,True,low_press,11.0,0.0,2.0,0.5,3.5,4.0,21.0
+DFL-OBJ-J024Z8,Philip Porwei Otele,True,mid_press,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+DFL-OBJ-J024Z8,Philip Porwei Otele,True,transition,2.5,0.0,0.0,0.0,0.5,0.0,3.0
+DFL-OBJ-J0258E,Kento Shiogai,False,transition,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,True,high_press,0.5,0.0,0.0,0.0,0.5,0.0,1.0
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,True,low_press,0.5,0.0,3.0,0.0,1.5,1.0,6.0
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,True,mid_press,0.0,0.0,1.0,0.0,1.0,1.0,3.0
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,True,transition,0.0,1.0,0.0,0.0,0.0,0.0,1.0

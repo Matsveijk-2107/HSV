@@ -1,0 +1,2087 @@
+object_id,player_name,dimension,times_flagged,matches,side,confident,frames_present_total,mistakes_per_1000_frames
+DFL-OBJ-0001QT,Jonas Meffert,anticipation,451,4,hsv,True,5246,85.97
+DFL-OBJ-0001QT,Jonas Meffert,compactness,22,3,hsv,True,5246,4.19
+DFL-OBJ-0001QT,Jonas Meffert,lpc,515,4,hsv,True,5246,98.17
+DFL-OBJ-0001QT,Jonas Meffert,pos,150,4,hsv,True,5246,28.59
+DFL-OBJ-0001QT,Jonas Meffert,pressure,299,4,hsv,True,5246,57.0
+DFL-OBJ-0001QT,Jonas Meffert,synchronization,513,4,hsv,True,5246,97.79
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,anticipation,2943,15,hsv,True,13428,219.17
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,compactness,1686,15,hsv,True,13428,125.56
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,lpc,2387,15,hsv,True,13428,177.76
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,pos,935,15,hsv,True,13428,69.63
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,pressure,685,15,hsv,True,13428,51.01
+DFL-OBJ-0002F6,Yussuf Yurary Poulsen,synchronization,1773,15,hsv,True,13428,132.04
+DFL-OBJ-0027AT,Bakery Jatta,anticipation,2302,15,hsv,True,28330,81.26
+DFL-OBJ-0027AT,Bakery Jatta,compactness,6275,15,hsv,True,28330,221.5
+DFL-OBJ-0027AT,Bakery Jatta,lpc,2183,15,hsv,True,28330,77.06
+DFL-OBJ-0027AT,Bakery Jatta,pos,454,15,hsv,True,28330,16.03
+DFL-OBJ-0027AT,Bakery Jatta,pressure,755,15,hsv,True,28330,26.65
+DFL-OBJ-0027AT,Bakery Jatta,synchronization,3300,15,hsv,True,28330,116.48
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,anticipation,4076,19,hsv,True,21029,193.83
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,compactness,2865,19,hsv,True,21029,136.24
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,lpc,3394,19,hsv,True,21029,161.4
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,pos,1471,18,hsv,True,21029,69.95
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,pressure,995,19,hsv,True,21029,47.32
+DFL-OBJ-0027HO,Robert-Nesta Glatzel,synchronization,2601,19,hsv,True,21029,123.69
+DFL-OBJ-0027JU,Jordan Torunarigha,anticipation,3824,24,hsv,True,64903,58.92
+DFL-OBJ-0027JU,Jordan Torunarigha,compactness,1785,24,hsv,True,64903,27.5
+DFL-OBJ-0027JU,Jordan Torunarigha,lpc,2991,24,hsv,True,64903,46.08
+DFL-OBJ-0027JU,Jordan Torunarigha,pos,233,24,hsv,True,64903,3.59
+DFL-OBJ-0027JU,Jordan Torunarigha,pressure,904,24,hsv,True,64903,13.93
+DFL-OBJ-0027JU,Jordan Torunarigha,synchronization,4139,24,hsv,True,64903,63.77
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,anticipation,287,6,hsv,True,1928,148.86
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,compactness,77,5,hsv,True,1928,39.94
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,lpc,313,6,hsv,True,1928,162.34
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,pos,114,6,hsv,True,1928,59.13
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,pressure,133,6,hsv,True,1928,68.98
+DFL-OBJ-002G5Y,Immanuël-Johannes Pherai,synchronization,311,6,hsv,True,1928,161.31
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,anticipation,14864,33,hsv,True,75265,197.49
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,compactness,12473,33,hsv,True,75265,165.72
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,lpc,10902,33,hsv,True,75265,144.85
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,pos,5365,33,hsv,True,75265,71.28
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,pressure,3499,33,hsv,True,75265,46.49
+DFL-OBJ-002G8B,Ransford-Yeboah Königsdörffer,synchronization,8667,33,hsv,True,75265,115.15
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,anticipation,5319,20,hsv,True,36714,144.88
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,compactness,13124,20,hsv,True,36714,357.47
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,lpc,3980,20,hsv,True,36714,108.41
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,pos,1825,20,hsv,True,36714,49.71
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,pressure,1271,20,hsv,True,36714,34.62
+DFL-OBJ-J017PC,Jean-Luc Mamadou Diarra Dompé,synchronization,4221,20,hsv,True,36714,114.97
+DFL-OBJ-J019DF,Guilherme Magro Pires Ramos,anticipation,175,8,hsv,True,3020,57.95
+DFL-OBJ-J019DF,Guilherme Magro Pires Ramos,compactness,73,6,hsv,True,3020,24.17
+DFL-OBJ-J019DF,Guilherme Magro Pires Ramos,lpc,224,8,hsv,True,3020,74.17
+DFL-OBJ-J019DF,Guilherme Magro Pires Ramos,pos,16,4,hsv,True,3020,5.3
+DFL-OBJ-J019DF,Guilherme Magro Pires Ramos,pressure,38,7,hsv,True,3020,12.58
+DFL-OBJ-J019DF,Guilherme Magro Pires Ramos,synchronization,347,8,hsv,True,3020,114.9
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,anticipation,5501,26,hsv,True,57644,95.43
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,compactness,693,24,hsv,True,57644,12.02
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,lpc,6247,26,hsv,True,57644,108.37
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,pos,1427,26,hsv,True,57644,24.76
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,pressure,2793,26,hsv,True,57644,48.45
+DFL-OBJ-J01A3I,Albert-Mboyo Sambi Lokonga,synchronization,5120,26,hsv,True,57644,88.82
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,anticipation,9484,29,hsv,True,72307,131.16
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,compactness,7950,29,hsv,True,72307,109.95
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,lpc,8169,29,hsv,True,72307,112.98
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,pos,3527,29,hsv,True,72307,48.78
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,pressure,3223,29,hsv,True,72307,44.57
+DFL-OBJ-J01FRO,Fábio Daniel Ferreira Vieira,synchronization,7325,29,hsv,True,72307,101.3
+DFL-OBJ-J01G5F,Warmed Omari,anticipation,2926,20,hsv,True,54570,53.62
+DFL-OBJ-J01G5F,Warmed Omari,compactness,1965,20,hsv,True,54570,36.01
+DFL-OBJ-J01G5F,Warmed Omari,lpc,3030,20,hsv,True,54570,55.53
+DFL-OBJ-J01G5F,Warmed Omari,pos,281,20,hsv,True,54570,5.15
+DFL-OBJ-J01G5F,Warmed Omari,pressure,851,20,hsv,True,54570,15.59
+DFL-OBJ-J01G5F,Warmed Omari,synchronization,3940,20,hsv,True,54570,72.2
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,anticipation,4385,26,hsv,True,65817,66.62
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,compactness,2454,26,hsv,True,65817,37.29
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,lpc,4555,26,hsv,True,65817,69.21
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,pos,764,26,hsv,True,65817,11.61
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,pressure,1651,26,hsv,True,65817,25.08
+DFL-OBJ-J01H5G,Nicolas Capaldo Taboas,synchronization,5948,26,hsv,True,65817,90.37
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,anticipation,6423,29,hsv,True,81957,78.37
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,compactness,7825,29,hsv,True,81957,95.48
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,lpc,5775,29,hsv,True,81957,70.46
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,pos,1125,29,hsv,True,81957,13.73
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,pressure,2121,29,hsv,True,81957,25.88
+DFL-OBJ-J01HP7,Miro Max Maria Muheim,synchronization,9164,29,hsv,True,81957,111.81
+DFL-OBJ-J01IZ9,Nicolai Remberg,anticipation,6657,32,hsv,True,97991,67.93
+DFL-OBJ-J01IZ9,Nicolai Remberg,compactness,686,30,hsv,True,97991,7.0
+DFL-OBJ-J01IZ9,Nicolai Remberg,lpc,8201,32,hsv,True,97991,83.69
+DFL-OBJ-J01IZ9,Nicolai Remberg,pos,1466,32,hsv,True,97991,14.96
+DFL-OBJ-J01IZ9,Nicolai Remberg,pressure,3646,32,hsv,True,97991,37.21
+DFL-OBJ-J01IZ9,Nicolai Remberg,synchronization,8930,32,hsv,True,97991,91.13
+DFL-OBJ-J01N5U,William Mikelbrencis,anticipation,3902,26,hsv,True,47485,82.17
+DFL-OBJ-J01N5U,William Mikelbrencis,compactness,10138,26,hsv,True,47485,213.5
+DFL-OBJ-J01N5U,William Mikelbrencis,lpc,3684,26,hsv,True,47485,77.58
+DFL-OBJ-J01N5U,William Mikelbrencis,pos,772,26,hsv,True,47485,16.26
+DFL-OBJ-J01N5U,William Mikelbrencis,pressure,1245,26,hsv,True,47485,26.22
+DFL-OBJ-J01N5U,William Mikelbrencis,synchronization,5112,26,hsv,True,47485,107.66
+DFL-OBJ-J01OYX,Daniel Elfadli,anticipation,2104,21,hsv,True,43136,48.78
+DFL-OBJ-J01OYX,Daniel Elfadli,compactness,502,19,hsv,True,43136,11.64
+DFL-OBJ-J01OYX,Daniel Elfadli,lpc,2213,21,hsv,True,43136,51.3
+DFL-OBJ-J01OYX,Daniel Elfadli,pos,213,21,hsv,True,43136,4.94
+DFL-OBJ-J01OYX,Daniel Elfadli,pressure,730,21,hsv,True,43136,16.92
+DFL-OBJ-J01OYX,Daniel Elfadli,synchronization,3876,21,hsv,True,43136,89.86
+DFL-OBJ-J01QPG,Damion Lamar Downs,anticipation,3625,12,hsv,True,19063,190.16
+DFL-OBJ-J01QPG,Damion Lamar Downs,compactness,3097,11,hsv,True,19063,162.46
+DFL-OBJ-J01QPG,Damion Lamar Downs,lpc,3007,12,hsv,True,19063,157.74
+DFL-OBJ-J01QPG,Damion Lamar Downs,pos,1633,12,hsv,True,19063,85.66
+DFL-OBJ-J01QPG,Damion Lamar Downs,pressure,798,12,hsv,True,19063,41.86
+DFL-OBJ-J01QPG,Damion Lamar Downs,synchronization,2101,12,hsv,True,19063,110.21
+DFL-OBJ-J01QSK,Otto Emerson Stange,anticipation,1933,9,hsv,True,11153,173.32
+DFL-OBJ-J01QSK,Otto Emerson Stange,compactness,1755,9,hsv,True,11153,157.36
+DFL-OBJ-J01QSK,Otto Emerson Stange,lpc,1797,10,hsv,True,11153,161.12
+DFL-OBJ-J01QSK,Otto Emerson Stange,pos,933,9,hsv,True,11153,83.65
+DFL-OBJ-J01QSK,Otto Emerson Stange,pressure,632,9,hsv,True,11153,56.67
+DFL-OBJ-J01QSK,Otto Emerson Stange,synchronization,1636,10,hsv,True,11153,146.69
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,anticipation,2180,24,hsv,True,34472,63.24
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,compactness,6158,24,hsv,True,34472,178.64
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,lpc,2393,24,hsv,True,34472,69.42
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,pos,433,23,hsv,True,34472,12.56
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,pressure,755,24,hsv,True,34472,21.9
+DFL-OBJ-J01VXC,Giorgi Gocholeishvili,synchronization,3697,24,hsv,True,34472,107.25
+DFL-OBJ-J01W6J,Rayan Philippe,anticipation,6389,28,hsv,True,43026,148.49
+DFL-OBJ-J01W6J,Rayan Philippe,compactness,7676,28,hsv,True,43026,178.4
+DFL-OBJ-J01W6J,Rayan Philippe,lpc,5808,28,hsv,True,43026,134.99
+DFL-OBJ-J01W6J,Rayan Philippe,pos,2640,28,hsv,True,43026,61.36
+DFL-OBJ-J01W6J,Rayan Philippe,pressure,2005,28,hsv,True,43026,46.6
+DFL-OBJ-J01W6J,Rayan Philippe,synchronization,5402,28,hsv,True,43026,125.55
+DFL-OBJ-J020IH,Luka Vušković,anticipation,4183,28,hsv,True,83587,50.04
+DFL-OBJ-J020IH,Luka Vušković,compactness,1785,28,hsv,True,83587,21.35
+DFL-OBJ-J020IH,Luka Vušković,lpc,3334,28,hsv,True,83587,39.89
+DFL-OBJ-J020IH,Luka Vušković,pos,236,28,hsv,True,83587,2.82
+DFL-OBJ-J020IH,Luka Vušković,pressure,951,28,hsv,True,83587,11.38
+DFL-OBJ-J020IH,Luka Vušković,synchronization,7098,28,hsv,True,83587,84.92
+DFL-OBJ-J020S3,Louis Pepe Lemke,anticipation,4,1,hsv,False,50,80.0
+DFL-OBJ-J020S3,Louis Pepe Lemke,lpc,6,1,hsv,False,50,120.0
+DFL-OBJ-J020S3,Louis Pepe Lemke,synchronization,12,1,hsv,False,50,240.0
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,anticipation,2193,16,hsv,True,16596,132.14
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,compactness,3273,16,hsv,True,16596,197.22
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,lpc,1768,16,hsv,True,16596,106.53
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,pos,649,15,hsv,True,16596,39.11
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,pressure,530,16,hsv,True,16596,31.94
+DFL-OBJ-J021LJ,Fabio Amado Uri Baldé,synchronization,2083,16,hsv,True,16596,125.51
+DFL-OBJ-J02270,Emir Sahiti,anticipation,504,2,hsv,False,3839,131.28
+DFL-OBJ-J02270,Emir Sahiti,compactness,722,2,hsv,False,3839,188.07
+DFL-OBJ-J02270,Emir Sahiti,lpc,574,2,hsv,False,3839,149.52
+DFL-OBJ-J02270,Emir Sahiti,pos,207,2,hsv,False,3839,53.92
+DFL-OBJ-J02270,Emir Sahiti,pressure,174,2,hsv,False,3839,45.32
+DFL-OBJ-J02270,Emir Sahiti,synchronization,511,2,hsv,False,3839,133.11
+DFL-OBJ-J02321,Aboubaka Soumahoro,anticipation,341,4,hsv,True,4696,72.61
+DFL-OBJ-J02321,Aboubaka Soumahoro,compactness,196,4,hsv,True,4696,41.74
+DFL-OBJ-J02321,Aboubaka Soumahoro,lpc,285,4,hsv,True,4696,60.69
+DFL-OBJ-J02321,Aboubaka Soumahoro,pos,33,4,hsv,True,4696,7.03
+DFL-OBJ-J02321,Aboubaka Soumahoro,pressure,131,4,hsv,True,4696,27.9
+DFL-OBJ-J02321,Aboubaka Soumahoro,synchronization,480,4,hsv,True,4696,102.21
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,anticipation,2411,11,hsv,True,12417,194.17
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,compactness,2831,11,hsv,True,12417,227.99
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,lpc,2007,11,hsv,True,12417,161.63
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,pos,784,11,hsv,True,12417,63.14
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,pressure,491,11,hsv,True,12417,39.54
+DFL-OBJ-J02322,Alexander Rössing-Lelesiit,synchronization,1743,11,hsv,True,12417,140.37
+DFL-OBJ-J024Z8,Philip Porwei Otele,anticipation,2606,9,hsv,True,14717,177.07
+DFL-OBJ-J024Z8,Philip Porwei Otele,compactness,3350,9,hsv,True,14717,227.63
+DFL-OBJ-J024Z8,Philip Porwei Otele,lpc,1897,9,hsv,True,14717,128.9
+DFL-OBJ-J024Z8,Philip Porwei Otele,pos,721,9,hsv,True,14717,48.99
+DFL-OBJ-J024Z8,Philip Porwei Otele,pressure,548,9,hsv,True,14717,37.24
+DFL-OBJ-J024Z8,Philip Porwei Otele,synchronization,1664,9,hsv,True,14717,113.07
+DFL-OBJ-J0255S,Shafiq Bello Nandja,anticipation,51,2,hsv,False,630,80.95
+DFL-OBJ-J0255S,Shafiq Bello Nandja,compactness,34,2,hsv,False,630,53.97
+DFL-OBJ-J0255S,Shafiq Bello Nandja,lpc,36,2,hsv,False,630,57.14
+DFL-OBJ-J0255S,Shafiq Bello Nandja,pos,1,1,hsv,False,630,1.59
+DFL-OBJ-J0255S,Shafiq Bello Nandja,pressure,5,1,hsv,False,630,7.94
+DFL-OBJ-J0255S,Shafiq Bello Nandja,synchronization,81,2,hsv,False,630,128.57
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,anticipation,1693,7,hsv,True,16288,103.94
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,compactness,2266,7,hsv,True,16288,139.12
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,lpc,1586,7,hsv,True,16288,97.37
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,pos,483,7,hsv,True,16288,29.65
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,pressure,610,7,hsv,True,16288,37.45
+DFL-OBJ-J02594,Albert Grønbæk Erlykke,synchronization,1941,7,hsv,True,16288,119.17
+DFL-OBJ-00001R,Stefan Bell,anticipation,43,1,opponent,False,794,54.16
+DFL-OBJ-00001R,Stefan Bell,compactness,3,1,opponent,False,794,3.78
+DFL-OBJ-00001R,Stefan Bell,lpc,31,1,opponent,False,794,39.04
+DFL-OBJ-00001R,Stefan Bell,pos,2,1,opponent,False,794,2.52
+DFL-OBJ-00001R,Stefan Bell,pressure,11,1,opponent,False,794,13.85
+DFL-OBJ-00001R,Stefan Bell,synchronization,80,1,opponent,False,794,100.76
+DFL-OBJ-00002T,Pascal Groß,anticipation,281,1,opponent,False,2596,108.24
+DFL-OBJ-00002T,Pascal Groß,compactness,72,1,opponent,False,2596,27.73
+DFL-OBJ-00002T,Pascal Groß,lpc,307,1,opponent,False,2596,118.26
+DFL-OBJ-00002T,Pascal Groß,pos,49,1,opponent,False,2596,18.88
+DFL-OBJ-00002T,Pascal Groß,pressure,90,1,opponent,False,2596,34.67
+DFL-OBJ-00002T,Pascal Groß,synchronization,320,1,opponent,False,2596,123.27
+DFL-OBJ-0000D9,Nicolas Höfler,anticipation,151,2,opponent,True,1421,106.26
+DFL-OBJ-0000D9,Nicolas Höfler,compactness,55,1,opponent,False,1421,38.71
+DFL-OBJ-0000D9,Nicolas Höfler,lpc,108,2,opponent,True,1421,76.0
+DFL-OBJ-0000D9,Nicolas Höfler,pos,22,2,opponent,True,1421,15.48
+DFL-OBJ-0000D9,Nicolas Höfler,pressure,35,2,opponent,True,1421,24.63
+DFL-OBJ-0000D9,Nicolas Höfler,synchronization,130,2,opponent,True,1421,91.48
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,anticipation,201,1,opponent,False,1276,157.52
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,compactness,171,1,opponent,False,1276,134.01
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,lpc,119,1,opponent,False,1276,93.26
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,pos,58,1,opponent,False,1276,45.45
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,pressure,34,1,opponent,False,1276,26.65
+DFL-OBJ-0000DT,Leonardo Jesus Loureiro Bittencourt,synchronization,166,1,opponent,False,1276,130.09
+DFL-OBJ-0000HO,Willi Thomas Orbán,anticipation,164,2,opponent,True,5555,29.52
+DFL-OBJ-0000HO,Willi Thomas Orbán,compactness,90,2,opponent,True,5555,16.2
+DFL-OBJ-0000HO,Willi Thomas Orbán,lpc,210,2,opponent,True,5555,37.8
+DFL-OBJ-0000HO,Willi Thomas Orbán,pos,11,2,opponent,True,5555,1.98
+DFL-OBJ-0000HO,Willi Thomas Orbán,pressure,58,2,opponent,True,5555,10.44
+DFL-OBJ-0000HO,Willi Thomas Orbán,synchronization,362,2,opponent,True,5555,65.17
+DFL-OBJ-0000NB,Danny Vieira da Costa,anticipation,262,2,opponent,True,5730,45.72
+DFL-OBJ-0000NB,Danny Vieira da Costa,compactness,415,2,opponent,True,5730,72.43
+DFL-OBJ-0000NB,Danny Vieira da Costa,lpc,303,2,opponent,True,5730,52.88
+DFL-OBJ-0000NB,Danny Vieira da Costa,pos,36,2,opponent,True,5730,6.28
+DFL-OBJ-0000NB,Danny Vieira da Costa,pressure,111,2,opponent,True,5730,19.37
+DFL-OBJ-0000NB,Danny Vieira da Costa,synchronization,493,2,opponent,True,5730,86.04
+DFL-OBJ-0000XU,Dominique Heintz,anticipation,135,1,opponent,False,1054,128.08
+DFL-OBJ-0000XU,Dominique Heintz,compactness,31,1,opponent,False,1054,29.41
+DFL-OBJ-0000XU,Dominique Heintz,lpc,70,1,opponent,False,1054,66.41
+DFL-OBJ-0000XU,Dominique Heintz,pos,1,1,opponent,False,1054,0.95
+DFL-OBJ-0000XU,Dominique Heintz,pressure,7,1,opponent,False,1054,6.64
+DFL-OBJ-0000XU,Dominique Heintz,synchronization,98,1,opponent,False,1054,92.98
+DFL-OBJ-0000Y4,Maximilian Arnold,anticipation,290,2,opponent,True,3992,72.65
+DFL-OBJ-0000Y4,Maximilian Arnold,compactness,28,2,opponent,True,3992,7.01
+DFL-OBJ-0000Y4,Maximilian Arnold,lpc,281,2,opponent,True,3992,70.39
+DFL-OBJ-0000Y4,Maximilian Arnold,pos,38,2,opponent,True,3992,9.52
+DFL-OBJ-0000Y4,Maximilian Arnold,pressure,89,2,opponent,True,3992,22.29
+DFL-OBJ-0000Y4,Maximilian Arnold,synchronization,391,2,opponent,True,3992,97.95
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,anticipation,294,2,opponent,True,5102,57.62
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,compactness,252,2,opponent,True,5102,49.39
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,lpc,233,2,opponent,True,5102,45.67
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,pos,27,2,opponent,True,5102,5.29
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,pressure,51,2,opponent,True,5102,10.0
+DFL-OBJ-0000ZS,Matthias Lukas Ginter,synchronization,384,2,opponent,True,5102,75.26
+DFL-OBJ-00012T,Emre Can,anticipation,199,1,opponent,False,2850,69.82
+DFL-OBJ-00012T,Emre Can,compactness,159,1,opponent,False,2850,55.79
+DFL-OBJ-00012T,Emre Can,lpc,70,1,opponent,False,2850,24.56
+DFL-OBJ-00012T,Emre Can,pos,3,1,opponent,False,2850,1.05
+DFL-OBJ-00012T,Emre Can,pressure,21,1,opponent,False,2850,7.37
+DFL-OBJ-00012T,Emre Can,synchronization,203,1,opponent,False,2850,71.23
+DFL-OBJ-00012Y,Lukas Kübler,anticipation,292,2,opponent,True,4949,59.0
+DFL-OBJ-00012Y,Lukas Kübler,compactness,649,2,opponent,True,4949,131.14
+DFL-OBJ-00012Y,Lukas Kübler,lpc,307,2,opponent,True,4949,62.03
+DFL-OBJ-00012Y,Lukas Kübler,pos,25,2,opponent,True,4949,5.05
+DFL-OBJ-00012Y,Lukas Kübler,pressure,125,2,opponent,True,4949,25.26
+DFL-OBJ-00012Y,Lukas Kübler,synchronization,571,2,opponent,True,4949,115.38
+DFL-OBJ-00015H,Dominik Kohr,anticipation,237,2,opponent,True,3750,63.2
+DFL-OBJ-00015H,Dominik Kohr,compactness,131,2,opponent,True,3750,34.93
+DFL-OBJ-00015H,Dominik Kohr,lpc,225,2,opponent,True,3750,60.0
+DFL-OBJ-00015H,Dominik Kohr,pos,25,2,opponent,True,3750,6.67
+DFL-OBJ-00015H,Dominik Kohr,pressure,69,2,opponent,True,3750,18.4
+DFL-OBJ-00015H,Dominik Kohr,synchronization,352,2,opponent,True,3750,93.87
+DFL-OBJ-000172,Kevin Stöger,anticipation,297,1,opponent,False,1873,158.57
+DFL-OBJ-000172,Kevin Stöger,compactness,41,1,opponent,False,1873,21.89
+DFL-OBJ-000172,Kevin Stöger,lpc,318,1,opponent,False,1873,169.78
+DFL-OBJ-000172,Kevin Stöger,pos,108,1,opponent,False,1873,57.66
+DFL-OBJ-000172,Kevin Stöger,pressure,96,1,opponent,False,1873,51.25
+DFL-OBJ-000172,Kevin Stöger,synchronization,273,1,opponent,False,1873,145.76
+DFL-OBJ-00017V,Christian Günter,anticipation,173,1,opponent,False,2829,61.15
+DFL-OBJ-00017V,Christian Günter,compactness,813,1,opponent,False,2829,287.38
+DFL-OBJ-00017V,Christian Günter,lpc,223,1,opponent,False,2829,78.83
+DFL-OBJ-00017V,Christian Günter,pos,26,1,opponent,False,2829,9.19
+DFL-OBJ-00017V,Christian Günter,pressure,48,1,opponent,False,2829,16.97
+DFL-OBJ-00017V,Christian Günter,synchronization,290,1,opponent,False,2829,102.51
+DFL-OBJ-00018O,Michael Gregoritsch,anticipation,656,1,opponent,False,3114,210.66
+DFL-OBJ-00018O,Michael Gregoritsch,compactness,576,1,opponent,False,3114,184.97
+DFL-OBJ-00018O,Michael Gregoritsch,lpc,606,1,opponent,False,3114,194.61
+DFL-OBJ-00018O,Michael Gregoritsch,pos,239,1,opponent,False,3114,76.75
+DFL-OBJ-00018O,Michael Gregoritsch,pressure,104,1,opponent,False,3114,33.4
+DFL-OBJ-00018O,Michael Gregoritsch,synchronization,393,1,opponent,False,3114,126.2
+DFL-OBJ-00019U,Anthony Jung,anticipation,114,2,opponent,True,2454,46.45
+DFL-OBJ-00019U,Anthony Jung,compactness,178,2,opponent,True,2454,72.53
+DFL-OBJ-00019U,Anthony Jung,lpc,129,2,opponent,True,2454,52.57
+DFL-OBJ-00019U,Anthony Jung,pos,4,2,opponent,False,2454,1.63
+DFL-OBJ-00019U,Anthony Jung,pressure,25,2,opponent,True,2454,10.19
+DFL-OBJ-00019U,Anthony Jung,synchronization,246,2,opponent,True,2454,100.24
+DFL-OBJ-0001E5,Jonas Hofmann,anticipation,195,1,opponent,False,1053,185.19
+DFL-OBJ-0001E5,Jonas Hofmann,compactness,151,1,opponent,False,1053,143.4
+DFL-OBJ-0001E5,Jonas Hofmann,lpc,140,1,opponent,False,1053,132.95
+DFL-OBJ-0001E5,Jonas Hofmann,pos,37,1,opponent,False,1053,35.14
+DFL-OBJ-0001E5,Jonas Hofmann,pressure,34,1,opponent,False,1053,32.29
+DFL-OBJ-0001E5,Jonas Hofmann,synchronization,116,1,opponent,False,1053,110.16
+DFL-OBJ-0001E6,Vincenzo Grifo,anticipation,502,2,opponent,True,4663,107.66
+DFL-OBJ-0001E6,Vincenzo Grifo,compactness,398,2,opponent,True,4663,85.35
+DFL-OBJ-0001E6,Vincenzo Grifo,lpc,422,2,opponent,True,4663,90.5
+DFL-OBJ-0001E6,Vincenzo Grifo,pos,159,2,opponent,True,4663,34.1
+DFL-OBJ-0001E6,Vincenzo Grifo,pressure,129,2,opponent,True,4663,27.66
+DFL-OBJ-0001E6,Vincenzo Grifo,synchronization,377,2,opponent,True,4663,80.85
+DFL-OBJ-0001EA,Rani Khedira,anticipation,732,2,opponent,True,6633,110.36
+DFL-OBJ-0001EA,Rani Khedira,compactness,88,2,opponent,True,6633,13.27
+DFL-OBJ-0001EA,Rani Khedira,lpc,686,2,opponent,True,6633,103.42
+DFL-OBJ-0001EA,Rani Khedira,pos,160,2,opponent,True,6633,24.12
+DFL-OBJ-0001EA,Rani Khedira,pressure,277,2,opponent,True,6633,41.76
+DFL-OBJ-0001EA,Rani Khedira,synchronization,625,2,opponent,True,6633,94.23
+DFL-OBJ-0001EW,Robert Andrich,anticipation,140,2,opponent,True,4539,30.84
+DFL-OBJ-0001EW,Robert Andrich,compactness,56,2,opponent,True,4539,12.34
+DFL-OBJ-0001EW,Robert Andrich,lpc,185,2,opponent,True,4539,40.76
+DFL-OBJ-0001EW,Robert Andrich,pos,13,2,opponent,True,4539,2.86
+DFL-OBJ-0001EW,Robert Andrich,pressure,44,2,opponent,True,4539,9.69
+DFL-OBJ-0001EW,Robert Andrich,synchronization,312,2,opponent,True,4539,68.74
+DFL-OBJ-0001HJ,Niklas Stark,anticipation,50,1,opponent,False,490,102.04
+DFL-OBJ-0001HJ,Niklas Stark,lpc,13,1,opponent,False,490,26.53
+DFL-OBJ-0001HJ,Niklas Stark,pressure,3,1,opponent,False,490,6.12
+DFL-OBJ-0001HJ,Niklas Stark,synchronization,28,1,opponent,False,490,57.14
+DFL-OBJ-0001K8,Patrick Mainka,anticipation,383,2,opponent,True,5978,64.07
+DFL-OBJ-0001K8,Patrick Mainka,compactness,130,2,opponent,True,5978,21.75
+DFL-OBJ-0001K8,Patrick Mainka,lpc,322,2,opponent,True,5978,53.86
+DFL-OBJ-0001K8,Patrick Mainka,pos,25,2,opponent,True,5978,4.18
+DFL-OBJ-0001K8,Patrick Mainka,pressure,95,2,opponent,True,5978,15.89
+DFL-OBJ-0001K8,Patrick Mainka,synchronization,578,2,opponent,True,5978,96.69
+DFL-OBJ-0001UP,Jonathan Glao Tah,anticipation,95,2,opponent,True,3462,27.44
+DFL-OBJ-0001UP,Jonathan Glao Tah,compactness,111,2,opponent,True,3462,32.06
+DFL-OBJ-0001UP,Jonathan Glao Tah,lpc,141,2,opponent,True,3462,40.73
+DFL-OBJ-0001UP,Jonathan Glao Tah,pos,2,1,opponent,False,3462,0.58
+DFL-OBJ-0001UP,Jonathan Glao Tah,pressure,57,2,opponent,True,3462,16.46
+DFL-OBJ-0001UP,Jonathan Glao Tah,synchronization,327,2,opponent,True,3462,94.45
+DFL-OBJ-0001V0,Ihlas Bebou,anticipation,35,1,opponent,False,495,70.71
+DFL-OBJ-0001V0,Ihlas Bebou,compactness,153,1,opponent,False,495,309.09
+DFL-OBJ-0001V0,Ihlas Bebou,lpc,66,1,opponent,False,495,133.33
+DFL-OBJ-0001V0,Ihlas Bebou,pos,12,1,opponent,False,495,24.24
+DFL-OBJ-0001V0,Ihlas Bebou,pressure,10,1,opponent,False,495,20.2
+DFL-OBJ-0001V0,Ihlas Bebou,synchronization,65,1,opponent,False,495,131.31
+DFL-OBJ-0001V4,Yannick Gerhardt,anticipation,205,1,opponent,False,2089,98.13
+DFL-OBJ-0001V4,Yannick Gerhardt,compactness,15,1,opponent,False,2089,7.18
+DFL-OBJ-0001V4,Yannick Gerhardt,lpc,200,1,opponent,False,2089,95.74
+DFL-OBJ-0001V4,Yannick Gerhardt,pos,29,1,opponent,False,2089,13.88
+DFL-OBJ-0001V4,Yannick Gerhardt,pressure,88,1,opponent,False,2089,42.13
+DFL-OBJ-0001V4,Yannick Gerhardt,synchronization,200,1,opponent,False,2089,95.74
+DFL-OBJ-00021P,Mahmoud Dahoud,anticipation,224,1,opponent,False,2839,78.9
+DFL-OBJ-00021P,Mahmoud Dahoud,compactness,42,1,opponent,False,2839,14.79
+DFL-OBJ-00021P,Mahmoud Dahoud,lpc,288,1,opponent,False,2839,101.44
+DFL-OBJ-00021P,Mahmoud Dahoud,pos,38,1,opponent,False,2839,13.38
+DFL-OBJ-00021P,Mahmoud Dahoud,pressure,109,1,opponent,False,2839,38.39
+DFL-OBJ-00021P,Mahmoud Dahoud,synchronization,259,1,opponent,False,2839,91.23
+DFL-OBJ-000280,Julian Brandt,anticipation,10,1,opponent,False,26,384.62
+DFL-OBJ-000280,Julian Brandt,lpc,7,1,opponent,False,26,269.23
+DFL-OBJ-000280,Julian Brandt,pressure,2,1,opponent,False,26,76.92
+DFL-OBJ-000280,Julian Brandt,synchronization,4,1,opponent,False,26,153.85
+DFL-OBJ-0002AD,Lukas Manuel Klostermann,anticipation,21,1,opponent,False,228,92.11
+DFL-OBJ-0002AD,Lukas Manuel Klostermann,compactness,20,1,opponent,False,228,87.72
+DFL-OBJ-0002AD,Lukas Manuel Klostermann,lpc,11,1,opponent,False,228,48.25
+DFL-OBJ-0002AD,Lukas Manuel Klostermann,pos,2,1,opponent,False,228,8.77
+DFL-OBJ-0002AD,Lukas Manuel Klostermann,pressure,3,1,opponent,False,228,13.16
+DFL-OBJ-0002AD,Lukas Manuel Klostermann,synchronization,20,1,opponent,False,228,87.72
+DFL-OBJ-0002DW,Janik Haberer,anticipation,274,1,opponent,False,2243,122.16
+DFL-OBJ-0002DW,Janik Haberer,compactness,21,1,opponent,False,2243,9.36
+DFL-OBJ-0002DW,Janik Haberer,lpc,278,1,opponent,False,2243,123.94
+DFL-OBJ-0002DW,Janik Haberer,pos,78,1,opponent,False,2243,34.77
+DFL-OBJ-0002DW,Janik Haberer,pressure,129,1,opponent,False,2243,57.51
+DFL-OBJ-0002DW,Janik Haberer,synchronization,283,1,opponent,False,2243,126.17
+DFL-OBJ-0002F5,Joshua Walter Kimmich,anticipation,499,2,opponent,True,5308,94.01
+DFL-OBJ-0002F5,Joshua Walter Kimmich,compactness,81,2,opponent,True,5308,15.26
+DFL-OBJ-0002F5,Joshua Walter Kimmich,lpc,531,2,opponent,True,5308,100.04
+DFL-OBJ-0002F5,Joshua Walter Kimmich,pos,69,2,opponent,True,5308,13.0
+DFL-OBJ-0002F5,Joshua Walter Kimmich,pressure,205,2,opponent,True,5308,38.62
+DFL-OBJ-0002F5,Joshua Walter Kimmich,synchronization,531,2,opponent,True,5308,100.04
+DFL-OBJ-0002FX,Christopher Trimmel,anticipation,309,2,opponent,True,7237,42.7
+DFL-OBJ-0002FX,Christopher Trimmel,compactness,1627,2,opponent,True,7237,224.82
+DFL-OBJ-0002FX,Christopher Trimmel,lpc,386,2,opponent,True,7237,53.34
+DFL-OBJ-0002FX,Christopher Trimmel,pos,72,2,opponent,True,7237,9.95
+DFL-OBJ-0002FX,Christopher Trimmel,pressure,132,2,opponent,True,7237,18.24
+DFL-OBJ-0002FX,Christopher Trimmel,synchronization,772,2,opponent,True,7237,106.67
+DFL-OBJ-0002IG,Marius Wolf,anticipation,378,1,opponent,False,3114,121.39
+DFL-OBJ-0002IG,Marius Wolf,compactness,437,1,opponent,False,3114,140.33
+DFL-OBJ-0002IG,Marius Wolf,lpc,240,1,opponent,False,3114,77.07
+DFL-OBJ-0002IG,Marius Wolf,pos,27,1,opponent,False,3114,8.67
+DFL-OBJ-0002IG,Marius Wolf,pressure,64,1,opponent,False,3114,20.55
+DFL-OBJ-0002IG,Marius Wolf,synchronization,460,1,opponent,False,3114,147.72
+DFL-OBJ-0002JT,Marnon-Thomas Busch,anticipation,372,2,opponent,True,3990,93.23
+DFL-OBJ-0002JT,Marnon-Thomas Busch,compactness,484,2,opponent,True,3990,121.3
+DFL-OBJ-0002JT,Marnon-Thomas Busch,lpc,277,2,opponent,True,3990,69.42
+DFL-OBJ-0002JT,Marnon-Thomas Busch,pos,43,2,opponent,True,3990,10.78
+DFL-OBJ-0002JT,Marnon-Thomas Busch,pressure,80,2,opponent,True,3990,20.05
+DFL-OBJ-0002JT,Marnon-Thomas Busch,synchronization,423,2,opponent,True,3990,106.02
+DFL-OBJ-0002LI,Nadiem Amiri,anticipation,530,2,opponent,True,5400,98.15
+DFL-OBJ-0002LI,Nadiem Amiri,compactness,545,2,opponent,True,5400,100.93
+DFL-OBJ-0002LI,Nadiem Amiri,lpc,537,2,opponent,True,5400,99.44
+DFL-OBJ-0002LI,Nadiem Amiri,pos,146,2,opponent,True,5400,27.04
+DFL-OBJ-0002LI,Nadiem Amiri,pressure,157,2,opponent,True,5400,29.07
+DFL-OBJ-0002LI,Nadiem Amiri,synchronization,634,2,opponent,True,5400,117.41
+DFL-OBJ-00258B,Maximilian Eggestein,anticipation,439,2,opponent,True,5796,75.74
+DFL-OBJ-00258B,Maximilian Eggestein,compactness,17,2,opponent,True,5796,2.93
+DFL-OBJ-00258B,Maximilian Eggestein,lpc,478,2,opponent,True,5796,82.47
+DFL-OBJ-00258B,Maximilian Eggestein,pos,92,2,opponent,True,5796,15.87
+DFL-OBJ-00258B,Maximilian Eggestein,pressure,188,2,opponent,True,5796,32.44
+DFL-OBJ-00258B,Maximilian Eggestein,synchronization,460,2,opponent,True,5796,79.37
+DFL-OBJ-0025AD,Maximilian Mittelstädt,anticipation,225,2,opponent,True,2935,76.66
+DFL-OBJ-0025AD,Maximilian Mittelstädt,compactness,551,2,opponent,True,2935,187.73
+DFL-OBJ-0025AD,Maximilian Mittelstädt,lpc,180,2,opponent,True,2935,61.33
+DFL-OBJ-0025AD,Maximilian Mittelstädt,pos,22,1,opponent,False,2935,7.5
+DFL-OBJ-0025AD,Maximilian Mittelstädt,pressure,47,1,opponent,False,2935,16.01
+DFL-OBJ-0025AD,Maximilian Mittelstädt,synchronization,400,2,opponent,True,2935,136.29
+DFL-OBJ-0025J3,Grischa Prömel,anticipation,314,2,opponent,True,3260,96.32
+DFL-OBJ-0025J3,Grischa Prömel,compactness,58,2,opponent,True,3260,17.79
+DFL-OBJ-0025J3,Grischa Prömel,lpc,309,2,opponent,True,3260,94.79
+DFL-OBJ-0025J3,Grischa Prömel,pos,62,2,opponent,True,3260,19.02
+DFL-OBJ-0025J3,Grischa Prömel,pressure,124,2,opponent,True,3260,38.04
+DFL-OBJ-0025J3,Grischa Prömel,synchronization,343,2,opponent,True,3260,105.21
+DFL-OBJ-0025RV,Hauke Finn Wahl,anticipation,186,2,opponent,True,6194,30.03
+DFL-OBJ-0025RV,Hauke Finn Wahl,compactness,136,2,opponent,True,6194,21.96
+DFL-OBJ-0025RV,Hauke Finn Wahl,lpc,216,2,opponent,True,6194,34.87
+DFL-OBJ-0025RV,Hauke Finn Wahl,pos,14,2,opponent,True,6194,2.26
+DFL-OBJ-0025RV,Hauke Finn Wahl,pressure,75,2,opponent,True,6194,12.11
+DFL-OBJ-0025RV,Hauke Finn Wahl,synchronization,409,2,opponent,True,6194,66.03
+DFL-OBJ-0025W7,Robin Leon Koch,anticipation,327,2,opponent,True,5669,57.68
+DFL-OBJ-0025W7,Robin Leon Koch,compactness,126,2,opponent,True,5669,22.23
+DFL-OBJ-0025W7,Robin Leon Koch,lpc,259,2,opponent,True,5669,45.69
+DFL-OBJ-0025W7,Robin Leon Koch,pos,21,2,opponent,True,5669,3.7
+DFL-OBJ-0025W7,Robin Leon Koch,pressure,68,2,opponent,True,5669,12.0
+DFL-OBJ-0025W7,Robin Leon Koch,synchronization,511,2,opponent,True,5669,90.14
+DFL-OBJ-00264N,Nico Elvedi,anticipation,280,2,opponent,True,5921,47.29
+DFL-OBJ-00264N,Nico Elvedi,compactness,81,2,opponent,True,5921,13.68
+DFL-OBJ-00264N,Nico Elvedi,lpc,217,2,opponent,True,5921,36.65
+DFL-OBJ-00264N,Nico Elvedi,pos,6,2,opponent,True,5921,1.01
+DFL-OBJ-00264N,Nico Elvedi,pressure,55,2,opponent,True,5921,9.29
+DFL-OBJ-00264N,Nico Elvedi,synchronization,421,2,opponent,True,5921,71.1
+DFL-OBJ-00264T,Waldemar Anton,anticipation,352,2,opponent,True,5370,65.55
+DFL-OBJ-00264T,Waldemar Anton,compactness,359,2,opponent,True,5370,66.85
+DFL-OBJ-00264T,Waldemar Anton,lpc,274,2,opponent,True,5370,51.02
+DFL-OBJ-00264T,Waldemar Anton,pos,29,2,opponent,True,5370,5.4
+DFL-OBJ-00264T,Waldemar Anton,pressure,95,2,opponent,True,5370,17.69
+DFL-OBJ-00264T,Waldemar Anton,synchronization,670,2,opponent,True,5370,124.77
+DFL-OBJ-002651,Benedikt Steffen Gimber,anticipation,255,2,opponent,True,4567,55.84
+DFL-OBJ-002651,Benedikt Steffen Gimber,compactness,88,2,opponent,True,4567,19.27
+DFL-OBJ-002651,Benedikt Steffen Gimber,lpc,184,2,opponent,True,4567,40.29
+DFL-OBJ-002651,Benedikt Steffen Gimber,pos,15,2,opponent,True,4567,3.28
+DFL-OBJ-002651,Benedikt Steffen Gimber,pressure,61,2,opponent,True,4567,13.36
+DFL-OBJ-002651,Benedikt Steffen Gimber,synchronization,351,2,opponent,True,4567,76.86
+DFL-OBJ-002659,Tim Skarke,anticipation,354,2,opponent,True,2660,133.08
+DFL-OBJ-002659,Tim Skarke,compactness,292,2,opponent,True,2660,109.77
+DFL-OBJ-002659,Tim Skarke,lpc,279,2,opponent,True,2660,104.89
+DFL-OBJ-002659,Tim Skarke,pos,95,2,opponent,True,2660,35.71
+DFL-OBJ-002659,Tim Skarke,pressure,80,2,opponent,True,2660,30.08
+DFL-OBJ-002659,Tim Skarke,synchronization,341,2,opponent,True,2660,128.2
+DFL-OBJ-002666,Marcel Sabitzer,anticipation,229,2,opponent,True,1932,118.53
+DFL-OBJ-002666,Marcel Sabitzer,compactness,41,2,opponent,True,1932,21.22
+DFL-OBJ-002666,Marcel Sabitzer,lpc,225,2,opponent,True,1932,116.46
+DFL-OBJ-002666,Marcel Sabitzer,pos,49,2,opponent,True,1932,25.36
+DFL-OBJ-002666,Marcel Sabitzer,pressure,62,2,opponent,True,1932,32.09
+DFL-OBJ-002666,Marcel Sabitzer,synchronization,184,2,opponent,True,1932,95.24
+DFL-OBJ-00266E,Jonas Föhrenbach,anticipation,162,1,opponent,False,2820,57.45
+DFL-OBJ-00266E,Jonas Föhrenbach,compactness,636,1,opponent,False,2820,225.53
+DFL-OBJ-00266E,Jonas Föhrenbach,lpc,149,1,opponent,False,2820,52.84
+DFL-OBJ-00266E,Jonas Föhrenbach,pos,37,1,opponent,False,2820,13.12
+DFL-OBJ-00266E,Jonas Föhrenbach,pressure,63,1,opponent,False,2820,22.34
+DFL-OBJ-00266E,Jonas Föhrenbach,synchronization,328,1,opponent,False,2820,116.31
+DFL-OBJ-002670,Benjamin Paa Kwesi Henrichs,anticipation,27,1,opponent,False,238,113.45
+DFL-OBJ-002670,Benjamin Paa Kwesi Henrichs,compactness,29,1,opponent,False,238,121.85
+DFL-OBJ-002670,Benjamin Paa Kwesi Henrichs,lpc,25,1,opponent,False,238,105.04
+DFL-OBJ-002670,Benjamin Paa Kwesi Henrichs,pos,7,1,opponent,False,238,29.41
+DFL-OBJ-002670,Benjamin Paa Kwesi Henrichs,pressure,7,1,opponent,False,238,29.41
+DFL-OBJ-002670,Benjamin Paa Kwesi Henrichs,synchronization,18,1,opponent,False,238,75.63
+DFL-OBJ-0026MA,Pascal Stenzel,anticipation,82,1,opponent,False,1114,73.61
+DFL-OBJ-0026MA,Pascal Stenzel,compactness,236,1,opponent,False,1114,211.85
+DFL-OBJ-0026MA,Pascal Stenzel,lpc,73,1,opponent,False,1114,65.53
+DFL-OBJ-0026MA,Pascal Stenzel,pos,16,1,opponent,False,1114,14.36
+DFL-OBJ-0026MA,Pascal Stenzel,pressure,23,1,opponent,False,1114,20.65
+DFL-OBJ-0026MA,Pascal Stenzel,synchronization,144,1,opponent,False,1114,129.26
+DFL-OBJ-0026TU,Andrej Kramarić,anticipation,783,2,opponent,True,4295,182.31
+DFL-OBJ-0026TU,Andrej Kramarić,compactness,548,2,opponent,True,4295,127.59
+DFL-OBJ-0026TU,Andrej Kramarić,lpc,499,2,opponent,True,4295,116.18
+DFL-OBJ-0026TU,Andrej Kramarić,pos,163,2,opponent,True,4295,37.95
+DFL-OBJ-0026TU,Andrej Kramarić,pressure,132,2,opponent,True,4295,30.73
+DFL-OBJ-0026TU,Andrej Kramarić,synchronization,527,2,opponent,True,4295,122.7
+DFL-OBJ-0026VB,Phillip Tietz,anticipation,625,1,opponent,False,3337,187.29
+DFL-OBJ-0026VB,Phillip Tietz,compactness,454,1,opponent,False,3337,136.05
+DFL-OBJ-0026VB,Phillip Tietz,lpc,416,1,opponent,False,3337,124.66
+DFL-OBJ-0026VB,Phillip Tietz,pos,199,1,opponent,False,3337,59.63
+DFL-OBJ-0026VB,Phillip Tietz,pressure,164,1,opponent,False,3337,49.15
+DFL-OBJ-0026VB,Phillip Tietz,synchronization,333,1,opponent,False,3337,99.79
+DFL-OBJ-002706,Florian Christian Neuhaus,anticipation,404,2,opponent,True,3329,121.36
+DFL-OBJ-002706,Florian Christian Neuhaus,compactness,228,2,opponent,True,3329,68.49
+DFL-OBJ-002706,Florian Christian Neuhaus,lpc,357,2,opponent,True,3329,107.24
+DFL-OBJ-002706,Florian Christian Neuhaus,pos,161,2,opponent,True,3329,48.36
+DFL-OBJ-002706,Florian Christian Neuhaus,pressure,188,2,opponent,True,3329,56.47
+DFL-OBJ-002706,Florian Christian Neuhaus,synchronization,282,2,opponent,True,3329,84.71
+DFL-OBJ-00278Q,Phillipp Mwene,anticipation,311,2,opponent,True,4624,67.26
+DFL-OBJ-00278Q,Phillipp Mwene,compactness,1501,2,opponent,True,4624,324.61
+DFL-OBJ-00278Q,Phillipp Mwene,lpc,306,2,opponent,True,4624,66.18
+DFL-OBJ-00278Q,Phillipp Mwene,pos,68,2,opponent,True,4624,14.71
+DFL-OBJ-00278Q,Phillipp Mwene,pressure,107,2,opponent,True,4624,23.14
+DFL-OBJ-00278Q,Phillipp Mwene,synchronization,502,2,opponent,True,4624,108.56
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,anticipation,815,2,opponent,True,3692,220.75
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,compactness,662,2,opponent,True,3692,179.31
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,lpc,502,2,opponent,True,3692,135.97
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,pos,152,2,opponent,True,3692,41.17
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,pressure,145,2,opponent,True,3692,39.27
+DFL-OBJ-00278S,Serhou Yadaly Guirassy,synchronization,424,2,opponent,True,3692,114.84
+DFL-OBJ-0027AH,Raphaël Adelino José Guerreiro,anticipation,39,1,opponent,False,527,74.0
+DFL-OBJ-0027AH,Raphaël Adelino José Guerreiro,compactness,107,1,opponent,False,527,203.04
+DFL-OBJ-0027AH,Raphaël Adelino José Guerreiro,lpc,41,1,opponent,False,527,77.8
+DFL-OBJ-0027AH,Raphaël Adelino José Guerreiro,pos,15,1,opponent,False,527,28.46
+DFL-OBJ-0027AH,Raphaël Adelino José Guerreiro,pressure,20,1,opponent,False,527,37.95
+DFL-OBJ-0027AH,Raphaël Adelino José Guerreiro,synchronization,105,1,opponent,False,527,199.24
+DFL-OBJ-0027AX,Florian Kainz,anticipation,246,2,opponent,True,2510,98.01
+DFL-OBJ-0027AX,Florian Kainz,compactness,86,2,opponent,True,2510,34.26
+DFL-OBJ-0027AX,Florian Kainz,lpc,244,2,opponent,True,2510,97.21
+DFL-OBJ-0027AX,Florian Kainz,pos,58,2,opponent,True,2510,23.11
+DFL-OBJ-0027AX,Florian Kainz,pressure,67,2,opponent,True,2510,26.69
+DFL-OBJ-0027AX,Florian Kainz,synchronization,328,2,opponent,True,2510,130.68
+DFL-OBJ-0027B9,Lucas Höler,anticipation,959,2,opponent,True,4662,205.71
+DFL-OBJ-0027B9,Lucas Höler,compactness,443,2,opponent,True,4662,95.02
+DFL-OBJ-0027B9,Lucas Höler,lpc,746,2,opponent,True,4662,160.02
+DFL-OBJ-0027B9,Lucas Höler,pos,242,2,opponent,True,4662,51.91
+DFL-OBJ-0027B9,Lucas Höler,pressure,204,2,opponent,True,4662,43.76
+DFL-OBJ-0027B9,Lucas Höler,synchronization,436,2,opponent,True,4662,93.52
+DFL-OBJ-0027BH,Marco Friedl,anticipation,228,1,opponent,False,3334,68.39
+DFL-OBJ-0027BH,Marco Friedl,compactness,230,1,opponent,False,3334,68.99
+DFL-OBJ-0027BH,Marco Friedl,lpc,168,1,opponent,False,3334,50.39
+DFL-OBJ-0027BH,Marco Friedl,pos,17,1,opponent,False,3334,5.1
+DFL-OBJ-0027BH,Marco Friedl,pressure,60,1,opponent,False,3334,18.0
+DFL-OBJ-0027BH,Marco Friedl,synchronization,259,1,opponent,False,3334,77.68
+DFL-OBJ-0027BI,Niklas Bernd Dorsch,anticipation,359,2,opponent,True,5978,60.05
+DFL-OBJ-0027BI,Niklas Bernd Dorsch,compactness,158,2,opponent,True,5978,26.43
+DFL-OBJ-0027BI,Niklas Bernd Dorsch,lpc,372,2,opponent,True,5978,62.23
+DFL-OBJ-0027BI,Niklas Bernd Dorsch,pos,70,2,opponent,True,5978,11.71
+DFL-OBJ-0027BI,Niklas Bernd Dorsch,pressure,166,2,opponent,True,5978,27.77
+DFL-OBJ-0027BI,Niklas Bernd Dorsch,synchronization,568,2,opponent,True,5978,95.02
+DFL-OBJ-0027FU,Bernardo Fernandes da Silva Junior,anticipation,56,1,opponent,False,1498,37.38
+DFL-OBJ-0027FU,Bernardo Fernandes da Silva Junior,compactness,115,1,opponent,False,1498,76.77
+DFL-OBJ-0027FU,Bernardo Fernandes da Silva Junior,lpc,77,1,opponent,False,1498,51.4
+DFL-OBJ-0027FU,Bernardo Fernandes da Silva Junior,pos,9,1,opponent,False,1498,6.01
+DFL-OBJ-0027FU,Bernardo Fernandes da Silva Junior,pressure,24,1,opponent,False,1498,16.02
+DFL-OBJ-0027FU,Bernardo Fernandes da Silva Junior,synchronization,109,1,opponent,False,1498,72.76
+DFL-OBJ-0027FW,Oliver Jasen Burke,anticipation,303,2,opponent,True,2675,113.27
+DFL-OBJ-0027FW,Oliver Jasen Burke,compactness,509,2,opponent,True,2675,190.28
+DFL-OBJ-0027FW,Oliver Jasen Burke,lpc,253,2,opponent,True,2675,94.58
+DFL-OBJ-0027FW,Oliver Jasen Burke,pos,134,2,opponent,True,2675,50.09
+DFL-OBJ-0027FW,Oliver Jasen Burke,pressure,85,2,opponent,True,2675,31.78
+DFL-OBJ-0027FW,Oliver Jasen Burke,synchronization,329,2,opponent,True,2675,122.99
+DFL-OBJ-0027G6,Serge David Gnabry,anticipation,346,2,opponent,True,3182,108.74
+DFL-OBJ-0027G6,Serge David Gnabry,compactness,290,2,opponent,True,3182,91.14
+DFL-OBJ-0027G6,Serge David Gnabry,lpc,421,2,opponent,True,3182,132.31
+DFL-OBJ-0027G6,Serge David Gnabry,pos,137,2,opponent,True,3182,43.05
+DFL-OBJ-0027G6,Serge David Gnabry,pressure,108,2,opponent,True,3182,33.94
+DFL-OBJ-0027G6,Serge David Gnabry,synchronization,315,2,opponent,True,3182,98.99
+DFL-OBJ-0027IT,David Raum,anticipation,582,2,opponent,True,5555,104.77
+DFL-OBJ-0027IT,David Raum,compactness,906,2,opponent,True,5555,163.1
+DFL-OBJ-0027IT,David Raum,lpc,417,2,opponent,True,5555,75.07
+DFL-OBJ-0027IT,David Raum,pos,88,2,opponent,True,5555,15.84
+DFL-OBJ-0027IT,David Raum,pressure,138,2,opponent,True,5555,24.84
+DFL-OBJ-0027IT,David Raum,synchronization,644,2,opponent,True,5555,115.93
+DFL-OBJ-0027KL,Dayotchanculle Oswald Upamecano,anticipation,206,2,opponent,True,4057,50.78
+DFL-OBJ-0027KL,Dayotchanculle Oswald Upamecano,compactness,182,2,opponent,True,4057,44.86
+DFL-OBJ-0027KL,Dayotchanculle Oswald Upamecano,lpc,152,2,opponent,True,4057,37.47
+DFL-OBJ-0027KL,Dayotchanculle Oswald Upamecano,pos,36,2,opponent,True,4057,8.87
+DFL-OBJ-0027KL,Dayotchanculle Oswald Upamecano,pressure,53,2,opponent,True,4057,13.06
+DFL-OBJ-0027KL,Dayotchanculle Oswald Upamecano,synchronization,348,2,opponent,True,4057,85.78
+DFL-OBJ-0027RM,Robin Hack,anticipation,427,1,opponent,False,2885,148.01
+DFL-OBJ-0027RM,Robin Hack,compactness,760,1,opponent,False,2885,263.43
+DFL-OBJ-0027RM,Robin Hack,lpc,403,1,opponent,False,2885,139.69
+DFL-OBJ-0027RM,Robin Hack,pos,102,1,opponent,False,2885,35.36
+DFL-OBJ-0027RM,Robin Hack,pressure,99,1,opponent,False,2885,34.32
+DFL-OBJ-0027RM,Robin Hack,synchronization,297,1,opponent,False,2885,102.95
+DFL-OBJ-0027T1,Konrad Laimer,anticipation,211,1,opponent,False,2587,81.56
+DFL-OBJ-0027T1,Konrad Laimer,compactness,381,1,opponent,False,2587,147.27
+DFL-OBJ-0027T1,Konrad Laimer,lpc,209,1,opponent,False,2587,80.79
+DFL-OBJ-0027T1,Konrad Laimer,pos,25,1,opponent,False,2587,9.66
+DFL-OBJ-0027T1,Konrad Laimer,pressure,74,1,opponent,False,2587,28.6
+DFL-OBJ-0027T1,Konrad Laimer,synchronization,259,1,opponent,False,2587,100.12
+DFL-OBJ-0027UK,Stefan Posch,anticipation,138,1,opponent,False,3337,41.35
+DFL-OBJ-0027UK,Stefan Posch,compactness,64,1,opponent,False,3337,19.18
+DFL-OBJ-0027UK,Stefan Posch,lpc,120,1,opponent,False,3337,35.96
+DFL-OBJ-0027UK,Stefan Posch,pos,17,1,opponent,False,3337,5.09
+DFL-OBJ-0027UK,Stefan Posch,pressure,33,1,opponent,False,3337,9.89
+DFL-OBJ-0027UK,Stefan Posch,synchronization,260,1,opponent,False,3337,77.91
+DFL-OBJ-0027UO,Elvis Rexhbecaj,anticipation,68,1,opponent,False,776,87.63
+DFL-OBJ-0027UO,Elvis Rexhbecaj,compactness,7,1,opponent,False,776,9.02
+DFL-OBJ-0027UO,Elvis Rexhbecaj,lpc,73,1,opponent,False,776,94.07
+DFL-OBJ-0027UO,Elvis Rexhbecaj,pos,10,1,opponent,False,776,12.89
+DFL-OBJ-0027UO,Elvis Rexhbecaj,pressure,26,1,opponent,False,776,33.51
+DFL-OBJ-0027UO,Elvis Rexhbecaj,synchronization,94,1,opponent,False,776,121.13
+DFL-OBJ-0027UQ,Lars Ritzka,anticipation,5,1,opponent,False,415,12.05
+DFL-OBJ-0027UQ,Lars Ritzka,compactness,8,1,opponent,False,415,19.28
+DFL-OBJ-0027UQ,Lars Ritzka,lpc,15,1,opponent,False,415,36.14
+DFL-OBJ-0027UQ,Lars Ritzka,pos,1,1,opponent,False,415,2.41
+DFL-OBJ-0027UQ,Lars Ritzka,pressure,3,1,opponent,False,415,7.23
+DFL-OBJ-0027UQ,Lars Ritzka,synchronization,35,1,opponent,False,415,84.34
+DFL-OBJ-0027WP,Philipp Lienhart,anticipation,111,2,opponent,True,1917,57.9
+DFL-OBJ-0027WP,Philipp Lienhart,compactness,119,2,opponent,True,1917,62.08
+DFL-OBJ-0027WP,Philipp Lienhart,lpc,59,2,opponent,True,1917,30.78
+DFL-OBJ-0027WP,Philipp Lienhart,pos,4,2,opponent,False,1917,2.09
+DFL-OBJ-0027WP,Philipp Lienhart,pressure,17,2,opponent,True,1917,8.87
+DFL-OBJ-0027WP,Philipp Lienhart,synchronization,169,2,opponent,True,1917,88.16
+DFL-OBJ-0027YK,Deniz Undav,anticipation,636,2,opponent,True,3977,159.92
+DFL-OBJ-0027YK,Deniz Undav,compactness,541,2,opponent,True,3977,136.03
+DFL-OBJ-0027YK,Deniz Undav,lpc,399,2,opponent,True,3977,100.33
+DFL-OBJ-0027YK,Deniz Undav,pos,99,2,opponent,True,3977,24.89
+DFL-OBJ-0027YK,Deniz Undav,pressure,103,2,opponent,True,3977,25.9
+DFL-OBJ-0027YK,Deniz Undav,synchronization,375,2,opponent,True,3977,94.29
+DFL-OBJ-00286V,Nikolas Terkelsen Nartey,anticipation,216,2,opponent,True,2202,98.09
+DFL-OBJ-00286V,Nikolas Terkelsen Nartey,compactness,28,2,opponent,True,2202,12.72
+DFL-OBJ-00286V,Nikolas Terkelsen Nartey,lpc,235,2,opponent,True,2202,106.72
+DFL-OBJ-00286V,Nikolas Terkelsen Nartey,pos,51,2,opponent,True,2202,23.16
+DFL-OBJ-00286V,Nikolas Terkelsen Nartey,pressure,98,2,opponent,True,2202,44.5
+DFL-OBJ-00286V,Nikolas Terkelsen Nartey,synchronization,215,2,opponent,True,2202,97.64
+DFL-OBJ-0028B6,Jan-Niklas Beste,anticipation,260,2,opponent,True,2374,109.52
+DFL-OBJ-0028B6,Jan-Niklas Beste,compactness,628,2,opponent,True,2374,264.53
+DFL-OBJ-0028B6,Jan-Niklas Beste,lpc,241,2,opponent,True,2374,101.52
+DFL-OBJ-0028B6,Jan-Niklas Beste,pos,64,2,opponent,True,2374,26.96
+DFL-OBJ-0028B6,Jan-Niklas Beste,pressure,72,2,opponent,True,2374,30.33
+DFL-OBJ-0028B6,Jan-Niklas Beste,synchronization,271,2,opponent,True,2374,114.15
+DFL-OBJ-0028BD,Linton Maina,anticipation,560,2,opponent,True,3785,147.95
+DFL-OBJ-0028BD,Linton Maina,compactness,614,2,opponent,True,3785,162.22
+DFL-OBJ-0028BD,Linton Maina,lpc,543,2,opponent,True,3785,143.46
+DFL-OBJ-0028BD,Linton Maina,pos,212,2,opponent,True,3785,56.01
+DFL-OBJ-0028BD,Linton Maina,pressure,170,2,opponent,True,3785,44.91
+DFL-OBJ-0028BD,Linton Maina,synchronization,446,2,opponent,True,3785,117.83
+DFL-OBJ-0028BP,Lennard Patrick Maloney,anticipation,22,1,opponent,False,330,66.67
+DFL-OBJ-0028BP,Lennard Patrick Maloney,compactness,11,1,opponent,False,330,33.33
+DFL-OBJ-0028BP,Lennard Patrick Maloney,lpc,31,1,opponent,False,330,93.94
+DFL-OBJ-0028BP,Lennard Patrick Maloney,pos,5,1,opponent,False,330,15.15
+DFL-OBJ-0028BP,Lennard Patrick Maloney,pressure,13,1,opponent,False,330,39.39
+DFL-OBJ-0028BP,Lennard Patrick Maloney,synchronization,55,1,opponent,False,330,166.67
+DFL-OBJ-0028C6,Robin Salvatore Fellhauer,anticipation,486,2,opponent,True,5843,83.18
+DFL-OBJ-0028C6,Robin Salvatore Fellhauer,compactness,135,2,opponent,True,5843,23.1
+DFL-OBJ-0028C6,Robin Salvatore Fellhauer,lpc,598,2,opponent,True,5843,102.34
+DFL-OBJ-0028C6,Robin Salvatore Fellhauer,pos,136,2,opponent,True,5843,23.28
+DFL-OBJ-0028C6,Robin Salvatore Fellhauer,pressure,265,2,opponent,True,5843,45.35
+DFL-OBJ-0028C6,Robin Salvatore Fellhauer,synchronization,573,2,opponent,True,5843,98.07
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,anticipation,424,2,opponent,True,5555,76.33
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,compactness,793,2,opponent,True,5555,142.75
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,lpc,488,2,opponent,True,5555,87.85
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,pos,104,2,opponent,True,5555,18.72
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,pressure,132,2,opponent,True,5555,23.76
+DFL-OBJ-0028CM,Bote Ridle Nzuzi Baku,synchronization,584,2,opponent,True,5555,105.13
+DFL-OBJ-0028D6,Keven Matteo Schlotterbeck,anticipation,294,2,opponent,True,5789,50.79
+DFL-OBJ-0028D6,Keven Matteo Schlotterbeck,compactness,124,2,opponent,True,5789,21.42
+DFL-OBJ-0028D6,Keven Matteo Schlotterbeck,lpc,196,2,opponent,True,5789,33.86
+DFL-OBJ-0028D6,Keven Matteo Schlotterbeck,pos,26,2,opponent,True,5789,4.49
+DFL-OBJ-0028D6,Keven Matteo Schlotterbeck,pressure,76,2,opponent,True,5789,13.13
+DFL-OBJ-0028D6,Keven Matteo Schlotterbeck,synchronization,396,2,opponent,True,5789,68.41
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,anticipation,564,2,opponent,True,4225,133.49
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,compactness,805,2,opponent,True,4225,190.53
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,lpc,441,2,opponent,True,4225,104.38
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,pos,206,2,opponent,True,4225,48.76
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,pressure,170,2,opponent,True,4225,40.24
+DFL-OBJ-0028HA,Sirlord Calvin Conteh,synchronization,324,2,opponent,True,4225,76.69
+DFL-OBJ-0028I9,Chris Jan Führich,anticipation,370,2,opponent,True,2965,124.79
+DFL-OBJ-0028I9,Chris Jan Führich,compactness,365,2,opponent,True,2965,123.1
+DFL-OBJ-0028I9,Chris Jan Führich,lpc,318,2,opponent,True,2965,107.25
+DFL-OBJ-0028I9,Chris Jan Führich,pos,113,2,opponent,True,2965,38.11
+DFL-OBJ-0028I9,Chris Jan Führich,pressure,108,2,opponent,True,2965,36.42
+DFL-OBJ-0028I9,Chris Jan Führich,synchronization,238,2,opponent,True,2965,80.27
+DFL-OBJ-0028KN,Christoph Baumgartner,anticipation,340,2,opponent,True,4937,68.87
+DFL-OBJ-0028KN,Christoph Baumgartner,compactness,53,2,opponent,True,4937,10.74
+DFL-OBJ-0028KN,Christoph Baumgartner,lpc,410,2,opponent,True,4937,83.05
+DFL-OBJ-0028KN,Christoph Baumgartner,pos,70,2,opponent,True,4937,14.18
+DFL-OBJ-0028KN,Christoph Baumgartner,pressure,192,2,opponent,True,4937,38.89
+DFL-OBJ-0028KN,Christoph Baumgartner,synchronization,399,2,opponent,True,4937,80.82
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,anticipation,287,2,opponent,True,2617,109.67
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,compactness,363,2,opponent,True,2617,138.71
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,lpc,234,2,opponent,True,2617,89.42
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,pos,43,2,opponent,True,2617,16.43
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,pressure,92,2,opponent,True,2617,35.15
+DFL-OBJ-0028LS,Josha Mamadou Karaboue Vagnoman,synchronization,323,2,opponent,True,2617,123.42
+DFL-OBJ-0028NR,Marius Bülter,anticipation,355,2,opponent,True,1492,237.94
+DFL-OBJ-0028NR,Marius Bülter,compactness,205,2,opponent,True,1492,137.4
+DFL-OBJ-0028NR,Marius Bülter,lpc,241,2,opponent,True,1492,161.53
+DFL-OBJ-0028NR,Marius Bülter,pos,101,2,opponent,True,1492,67.69
+DFL-OBJ-0028NR,Marius Bülter,pressure,101,2,opponent,True,1492,67.69
+DFL-OBJ-0028NR,Marius Bülter,synchronization,148,2,opponent,True,1492,99.2
+DFL-OBJ-0028P3,Philipp Sander,anticipation,305,2,opponent,True,5518,55.27
+DFL-OBJ-0028P3,Philipp Sander,compactness,101,2,opponent,True,5518,18.3
+DFL-OBJ-0028P3,Philipp Sander,lpc,383,2,opponent,True,5518,69.41
+DFL-OBJ-0028P3,Philipp Sander,pos,61,2,opponent,True,5518,11.05
+DFL-OBJ-0028P3,Philipp Sander,pressure,134,2,opponent,True,5518,24.28
+DFL-OBJ-0028P3,Philipp Sander,synchronization,455,2,opponent,True,5518,82.46
+DFL-OBJ-0028QV,Mathias Honsak,anticipation,36,1,opponent,False,925,38.92
+DFL-OBJ-0028QV,Mathias Honsak,compactness,82,1,opponent,False,925,88.65
+DFL-OBJ-0028QV,Mathias Honsak,lpc,54,1,opponent,False,925,58.38
+DFL-OBJ-0028QV,Mathias Honsak,pos,12,1,opponent,False,925,12.97
+DFL-OBJ-0028QV,Mathias Honsak,pressure,21,1,opponent,False,925,22.7
+DFL-OBJ-0028QV,Mathias Honsak,synchronization,112,1,opponent,False,925,121.08
+DFL-OBJ-0028RJ,Jae-sung Lee,anticipation,543,2,opponent,True,4911,110.57
+DFL-OBJ-0028RJ,Jae-sung Lee,compactness,110,2,opponent,True,4911,22.4
+DFL-OBJ-0028RJ,Jae-sung Lee,lpc,566,2,opponent,True,4911,115.25
+DFL-OBJ-0028RJ,Jae-sung Lee,pos,181,2,opponent,True,4911,36.86
+DFL-OBJ-0028RJ,Jae-sung Lee,pressure,223,2,opponent,True,4911,45.41
+DFL-OBJ-0028RJ,Jae-sung Lee,synchronization,465,2,opponent,True,4911,94.69
+DFL-OBJ-0028RM,Julian Ryerson,anticipation,311,2,opponent,True,5370,57.91
+DFL-OBJ-0028RM,Julian Ryerson,compactness,1329,2,opponent,True,5370,247.49
+DFL-OBJ-0028RM,Julian Ryerson,lpc,394,2,opponent,True,5370,73.37
+DFL-OBJ-0028RM,Julian Ryerson,pos,70,2,opponent,True,5370,13.04
+DFL-OBJ-0028RM,Julian Ryerson,pressure,120,2,opponent,True,5370,22.35
+DFL-OBJ-0028RM,Julian Ryerson,synchronization,683,2,opponent,True,5370,127.19
+DFL-OBJ-0028T0,Marvin Pieringer,anticipation,345,1,opponent,False,1753,196.81
+DFL-OBJ-0028T0,Marvin Pieringer,compactness,309,1,opponent,False,1753,176.27
+DFL-OBJ-0028T0,Marvin Pieringer,lpc,307,1,opponent,False,1753,175.13
+DFL-OBJ-0028T0,Marvin Pieringer,pos,185,1,opponent,False,1753,105.53
+DFL-OBJ-0028T0,Marvin Pieringer,pressure,90,1,opponent,False,1753,51.34
+DFL-OBJ-0028T0,Marvin Pieringer,synchronization,205,1,opponent,False,1753,116.94
+DFL-OBJ-0028T1,Nico Cedric Schlotterbeck,anticipation,260,2,opponent,True,5370,48.42
+DFL-OBJ-0028T1,Nico Cedric Schlotterbeck,compactness,251,2,opponent,True,5370,46.74
+DFL-OBJ-0028T1,Nico Cedric Schlotterbeck,lpc,244,2,opponent,True,5370,45.44
+DFL-OBJ-0028T1,Nico Cedric Schlotterbeck,pos,25,2,opponent,True,5370,4.66
+DFL-OBJ-0028T1,Nico Cedric Schlotterbeck,pressure,39,2,opponent,True,5370,7.26
+DFL-OBJ-0028T1,Nico Cedric Schlotterbeck,synchronization,316,2,opponent,True,5370,58.85
+DFL-OBJ-0028TI,Tom Krauß,anticipation,178,2,opponent,True,3637,48.94
+DFL-OBJ-0028TI,Tom Krauß,compactness,254,2,opponent,True,3637,69.84
+DFL-OBJ-0028TI,Tom Krauß,lpc,238,2,opponent,True,3637,65.44
+DFL-OBJ-0028TI,Tom Krauß,pos,27,2,opponent,True,3637,7.42
+DFL-OBJ-0028TI,Tom Krauß,pressure,73,2,opponent,True,3637,20.07
+DFL-OBJ-0028TI,Tom Krauß,synchronization,329,2,opponent,True,3637,90.46
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,anticipation,294,1,opponent,False,1821,161.45
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,compactness,375,1,opponent,False,1821,205.93
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,lpc,232,1,opponent,False,1821,127.4
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,pos,71,1,opponent,False,1821,38.99
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,pressure,52,1,opponent,False,1821,28.56
+DFL-OBJ-002FU7,Jonathan Michael Burkardt,synchronization,163,1,opponent,False,1821,89.51
+DFL-OBJ-002FVR,Wooyeong Jeong,anticipation,295,2,opponent,True,2855,103.33
+DFL-OBJ-002FVR,Wooyeong Jeong,compactness,367,2,opponent,True,2855,128.55
+DFL-OBJ-002FVR,Wooyeong Jeong,lpc,367,2,opponent,True,2855,128.55
+DFL-OBJ-002FVR,Wooyeong Jeong,pos,164,2,opponent,True,2855,57.44
+DFL-OBJ-002FVR,Wooyeong Jeong,pressure,121,2,opponent,True,2855,42.38
+DFL-OBJ-002FVR,Wooyeong Jeong,synchronization,488,2,opponent,True,2855,170.93
+DFL-OBJ-002FW5,Amos Pieper,anticipation,443,2,opponent,True,6765,65.48
+DFL-OBJ-002FW5,Amos Pieper,compactness,392,2,opponent,True,6765,57.95
+DFL-OBJ-002FW5,Amos Pieper,lpc,278,2,opponent,True,6765,41.09
+DFL-OBJ-002FW5,Amos Pieper,pos,19,2,opponent,True,6765,2.81
+DFL-OBJ-002FW5,Amos Pieper,pressure,76,2,opponent,True,6765,11.23
+DFL-OBJ-002FW5,Amos Pieper,synchronization,624,2,opponent,True,6765,92.24
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,anticipation,315,1,opponent,False,2721,115.77
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,compactness,453,1,opponent,False,2721,166.48
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,lpc,168,1,opponent,False,2721,61.74
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,pos,21,1,opponent,False,2721,7.72
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,pressure,44,1,opponent,False,2721,16.17
+DFL-OBJ-002FWZ,Alphonso Boyle Davies,synchronization,232,1,opponent,False,2721,85.26
+DFL-OBJ-002FX2,Romano Christian Schmid,anticipation,744,2,opponent,True,6765,109.98
+DFL-OBJ-002FX2,Romano Christian Schmid,compactness,634,2,opponent,True,6765,93.72
+DFL-OBJ-002FX2,Romano Christian Schmid,lpc,731,2,opponent,True,6765,108.06
+DFL-OBJ-002FX2,Romano Christian Schmid,pos,213,2,opponent,True,6765,31.49
+DFL-OBJ-002FX2,Romano Christian Schmid,pressure,204,2,opponent,True,6765,30.16
+DFL-OBJ-002FX2,Romano Christian Schmid,synchronization,693,2,opponent,True,6765,102.44
+DFL-OBJ-002FXB,Ozan Muhammed Kabak,anticipation,333,2,opponent,True,5723,58.19
+DFL-OBJ-002FXB,Ozan Muhammed Kabak,compactness,176,2,opponent,True,5723,30.75
+DFL-OBJ-002FXB,Ozan Muhammed Kabak,lpc,209,2,opponent,True,5723,36.52
+DFL-OBJ-002FXB,Ozan Muhammed Kabak,pos,18,2,opponent,True,5723,3.15
+DFL-OBJ-002FXB,Ozan Muhammed Kabak,pressure,41,2,opponent,True,5723,7.16
+DFL-OBJ-002FXB,Ozan Muhammed Kabak,synchronization,413,2,opponent,True,5723,72.16
+DFL-OBJ-002G1U,Xaver Schlager,anticipation,43,1,opponent,False,618,69.58
+DFL-OBJ-002G1U,Xaver Schlager,compactness,5,1,opponent,False,618,8.09
+DFL-OBJ-002G1U,Xaver Schlager,lpc,45,1,opponent,False,618,72.82
+DFL-OBJ-002G1U,Xaver Schlager,pos,7,1,opponent,False,618,11.33
+DFL-OBJ-002G1U,Xaver Schlager,pressure,24,1,opponent,False,618,38.83
+DFL-OBJ-002G1U,Xaver Schlager,synchronization,43,1,opponent,False,618,69.58
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,anticipation,512,1,opponent,False,1621,315.85
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,compactness,310,1,opponent,False,1621,191.24
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,lpc,318,1,opponent,False,1621,196.18
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,pos,126,1,opponent,False,1621,77.73
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,pressure,77,1,opponent,False,1621,47.5
+DFL-OBJ-002G1Y,Sheraldo Rudi Salomo Willem Becker,synchronization,197,1,opponent,False,1621,121.53
+DFL-OBJ-002G41,Jamie Leweling,anticipation,449,2,opponent,True,4036,111.25
+DFL-OBJ-002G41,Jamie Leweling,compactness,845,2,opponent,True,4036,209.37
+DFL-OBJ-002G41,Jamie Leweling,lpc,392,2,opponent,True,4036,97.13
+DFL-OBJ-002G41,Jamie Leweling,pos,62,2,opponent,True,4036,15.36
+DFL-OBJ-002G41,Jamie Leweling,pressure,125,2,opponent,True,4036,30.97
+DFL-OBJ-002G41,Jamie Leweling,synchronization,495,2,opponent,True,4036,122.65
+DFL-OBJ-002G4A,Ellyes Joris Skhiri,anticipation,201,1,opponent,False,1824,110.2
+DFL-OBJ-002G4A,Ellyes Joris Skhiri,compactness,144,1,opponent,False,1824,78.95
+DFL-OBJ-002G4A,Ellyes Joris Skhiri,lpc,104,1,opponent,False,1824,57.02
+DFL-OBJ-002G4A,Ellyes Joris Skhiri,pos,7,1,opponent,False,1824,3.84
+DFL-OBJ-002G4A,Ellyes Joris Skhiri,pressure,29,1,opponent,False,1824,15.9
+DFL-OBJ-002G4A,Ellyes Joris Skhiri,synchronization,183,1,opponent,False,1824,100.33
+DFL-OBJ-002G4G,Patrick Osterhage,anticipation,62,1,opponent,False,1133,54.72
+DFL-OBJ-002G4G,Patrick Osterhage,compactness,49,1,opponent,False,1133,43.25
+DFL-OBJ-002G4G,Patrick Osterhage,lpc,118,1,opponent,False,1133,104.15
+DFL-OBJ-002G4G,Patrick Osterhage,pos,15,1,opponent,False,1133,13.24
+DFL-OBJ-002G4G,Patrick Osterhage,pressure,23,1,opponent,False,1133,20.3
+DFL-OBJ-002G4G,Patrick Osterhage,synchronization,140,1,opponent,False,1133,123.57
+DFL-OBJ-002G4W,Philipp Treu,anticipation,409,2,opponent,True,5143,79.53
+DFL-OBJ-002G4W,Philipp Treu,compactness,899,2,opponent,True,5143,174.8
+DFL-OBJ-002G4W,Philipp Treu,lpc,411,2,opponent,True,5143,79.91
+DFL-OBJ-002G4W,Philipp Treu,pos,91,2,opponent,True,5143,17.69
+DFL-OBJ-002G4W,Philipp Treu,pressure,131,2,opponent,True,5143,25.47
+DFL-OBJ-002G4W,Philipp Treu,synchronization,756,2,opponent,True,5143,147.0
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,anticipation,121,1,opponent,False,719,168.29
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,compactness,20,1,opponent,False,719,27.82
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,lpc,104,1,opponent,False,719,144.65
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,pos,44,1,opponent,False,719,61.2
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,pressure,52,1,opponent,False,719,72.32
+DFL-OBJ-002G4X,Giovanni Alejandro Reyna,synchronization,91,1,opponent,False,719,126.56
+DFL-OBJ-002G56,Stefan Schimmer,anticipation,512,2,opponent,True,2237,228.88
+DFL-OBJ-002G56,Stefan Schimmer,compactness,256,2,opponent,True,2237,114.44
+DFL-OBJ-002G56,Stefan Schimmer,lpc,327,2,opponent,True,2237,146.18
+DFL-OBJ-002G56,Stefan Schimmer,pos,114,2,opponent,True,2237,50.96
+DFL-OBJ-002G56,Stefan Schimmer,pressure,73,2,opponent,True,2237,32.63
+DFL-OBJ-002G56,Stefan Schimmer,synchronization,231,2,opponent,True,2237,103.26
+DFL-OBJ-002G5B,Paul Nebel,anticipation,320,2,opponent,True,2652,120.66
+DFL-OBJ-002G5B,Paul Nebel,compactness,159,2,opponent,True,2652,59.95
+DFL-OBJ-002G5B,Paul Nebel,lpc,337,2,opponent,True,2652,127.07
+DFL-OBJ-002G5B,Paul Nebel,pos,85,2,opponent,True,2652,32.05
+DFL-OBJ-002G5B,Paul Nebel,pressure,97,2,opponent,True,2652,36.58
+DFL-OBJ-002G5B,Paul Nebel,synchronization,285,2,opponent,True,2652,107.47
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,anticipation,364,1,opponent,False,1716,212.12
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,compactness,357,1,opponent,False,1716,208.04
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,lpc,197,1,opponent,False,1716,114.8
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,pos,138,1,opponent,False,1716,80.42
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,pressure,82,1,opponent,False,1716,47.79
+DFL-OBJ-002G5R,Silas Katompa Mvumpa,synchronization,236,1,opponent,False,1716,137.53
+DFL-OBJ-002G5S,Ramy Bensebaini,anticipation,52,1,opponent,False,1096,47.45
+DFL-OBJ-002G5S,Ramy Bensebaini,compactness,57,1,opponent,False,1096,52.01
+DFL-OBJ-002G5S,Ramy Bensebaini,lpc,81,1,opponent,False,1096,73.91
+DFL-OBJ-002G5S,Ramy Bensebaini,pressure,12,1,opponent,False,1096,10.95
+DFL-OBJ-002G5S,Ramy Bensebaini,synchronization,77,1,opponent,False,1096,70.26
+DFL-OBJ-002G6U,Patrik Schick,anticipation,611,1,opponent,False,2909,210.04
+DFL-OBJ-002G6U,Patrik Schick,compactness,484,1,opponent,False,2909,166.38
+DFL-OBJ-002G6U,Patrik Schick,lpc,485,1,opponent,False,2909,166.72
+DFL-OBJ-002G6U,Patrik Schick,pos,122,1,opponent,False,2909,41.94
+DFL-OBJ-002G6U,Patrik Schick,pressure,159,1,opponent,False,2909,54.66
+DFL-OBJ-002G6U,Patrik Schick,synchronization,305,1,opponent,False,2909,104.85
+DFL-OBJ-002G7P,Maximilian Beier,anticipation,645,2,opponent,True,4175,154.49
+DFL-OBJ-002G7P,Maximilian Beier,compactness,488,2,opponent,True,4175,116.89
+DFL-OBJ-002G7P,Maximilian Beier,lpc,588,2,opponent,True,4175,140.84
+DFL-OBJ-002G7P,Maximilian Beier,pos,161,2,opponent,True,4175,38.56
+DFL-OBJ-002G7P,Maximilian Beier,pressure,141,2,opponent,True,4175,33.77
+DFL-OBJ-002G7P,Maximilian Beier,synchronization,486,2,opponent,True,4175,116.41
+DFL-OBJ-002G8E,Eren Sami Dinkçi,anticipation,517,1,opponent,False,3158,163.71
+DFL-OBJ-002G8E,Eren Sami Dinkçi,compactness,244,1,opponent,False,3158,77.26
+DFL-OBJ-002G8E,Eren Sami Dinkçi,lpc,430,1,opponent,False,3158,136.16
+DFL-OBJ-002G8E,Eren Sami Dinkçi,pos,139,1,opponent,False,3158,44.02
+DFL-OBJ-002G8E,Eren Sami Dinkçi,pressure,150,1,opponent,False,3158,47.5
+DFL-OBJ-002G8E,Eren Sami Dinkçi,synchronization,286,1,opponent,False,3158,90.56
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,anticipation,514,2,opponent,True,5592,91.92
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,compactness,45,2,opponent,True,5592,8.05
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,lpc,520,2,opponent,True,5592,92.99
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,pos,142,2,opponent,True,5592,25.39
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,pressure,233,2,opponent,True,5592,41.67
+DFL-OBJ-002G8H,Exequiel Alejandro Palacios,synchronization,469,2,opponent,True,5592,83.87
+DFL-OBJ-002GA9,Jan Schöppner,anticipation,115,1,opponent,False,1988,57.85
+DFL-OBJ-002GA9,Jan Schöppner,compactness,13,1,opponent,False,1988,6.54
+DFL-OBJ-002GA9,Jan Schöppner,lpc,217,1,opponent,False,1988,109.15
+DFL-OBJ-002GA9,Jan Schöppner,pos,33,1,opponent,False,1988,16.6
+DFL-OBJ-002GA9,Jan Schöppner,pressure,87,1,opponent,False,1988,43.76
+DFL-OBJ-002GA9,Jan Schöppner,synchronization,160,1,opponent,False,1988,80.48
+DFL-OBJ-002GAR,Edmond Fayçal Tapsoba,anticipation,298,2,opponent,True,5592,53.29
+DFL-OBJ-002GAR,Edmond Fayçal Tapsoba,compactness,207,2,opponent,True,5592,37.02
+DFL-OBJ-002GAR,Edmond Fayçal Tapsoba,lpc,282,2,opponent,True,5592,50.43
+DFL-OBJ-002GAR,Edmond Fayçal Tapsoba,pos,27,2,opponent,True,5592,4.83
+DFL-OBJ-002GAR,Edmond Fayçal Tapsoba,pressure,45,2,opponent,True,5592,8.05
+DFL-OBJ-002GAR,Edmond Fayçal Tapsoba,synchronization,314,2,opponent,True,5592,56.15
+DFL-OBJ-002GBW,Tim Lemperle,anticipation,1063,2,opponent,True,4939,215.23
+DFL-OBJ-002GBW,Tim Lemperle,compactness,838,2,opponent,True,4939,169.67
+DFL-OBJ-002GBW,Tim Lemperle,lpc,841,2,opponent,True,4939,170.28
+DFL-OBJ-002GBW,Tim Lemperle,pos,222,2,opponent,True,4939,44.95
+DFL-OBJ-002GBW,Tim Lemperle,pressure,202,2,opponent,True,4939,40.9
+DFL-OBJ-002GBW,Tim Lemperle,synchronization,553,2,opponent,True,4939,111.97
+DFL-OBJ-002GC0,Rocco Reitz,anticipation,547,2,opponent,True,5921,92.38
+DFL-OBJ-002GC0,Rocco Reitz,compactness,62,2,opponent,True,5921,10.47
+DFL-OBJ-002GC0,Rocco Reitz,lpc,625,2,opponent,True,5921,105.56
+DFL-OBJ-002GC0,Rocco Reitz,pos,170,2,opponent,True,5921,28.71
+DFL-OBJ-002GC0,Rocco Reitz,pressure,239,2,opponent,True,5921,40.36
+DFL-OBJ-002GC0,Rocco Reitz,synchronization,526,2,opponent,True,5921,88.84
+DFL-OBJ-002GC7,Luca Netz,anticipation,206,2,opponent,True,3683,55.93
+DFL-OBJ-002GC7,Luca Netz,compactness,911,2,opponent,True,3683,247.35
+DFL-OBJ-002GC7,Luca Netz,lpc,254,2,opponent,True,3683,68.97
+DFL-OBJ-002GC7,Luca Netz,pos,35,2,opponent,True,3683,9.5
+DFL-OBJ-002GC7,Luca Netz,pressure,79,2,opponent,True,3683,21.45
+DFL-OBJ-002GC7,Luca Netz,synchronization,476,2,opponent,True,3683,129.24
+DFL-OBJ-002GC8,Jessic Gaïtan Ngankam,anticipation,119,1,opponent,False,456,260.96
+DFL-OBJ-002GC8,Jessic Gaïtan Ngankam,compactness,134,1,opponent,False,456,293.86
+DFL-OBJ-002GC8,Jessic Gaïtan Ngankam,lpc,69,1,opponent,False,456,151.32
+DFL-OBJ-002GC8,Jessic Gaïtan Ngankam,pos,20,1,opponent,False,456,43.86
+DFL-OBJ-002GC8,Jessic Gaïtan Ngankam,pressure,13,1,opponent,False,456,28.51
+DFL-OBJ-002GC8,Jessic Gaïtan Ngankam,synchronization,42,1,opponent,False,456,92.11
+DFL-OBJ-002GCC,Armindo Sieb,anticipation,126,1,opponent,False,794,158.69
+DFL-OBJ-002GCC,Armindo Sieb,compactness,161,1,opponent,False,794,202.77
+DFL-OBJ-002GCC,Armindo Sieb,lpc,100,1,opponent,False,794,125.94
+DFL-OBJ-002GCC,Armindo Sieb,pos,34,1,opponent,False,794,42.82
+DFL-OBJ-002GCC,Armindo Sieb,pressure,38,1,opponent,False,794,47.86
+DFL-OBJ-002GCC,Armindo Sieb,synchronization,60,1,opponent,False,794,75.57
+DFL-OBJ-002GCQ,Angelo Stiller,anticipation,376,2,opponent,True,3693,101.81
+DFL-OBJ-002GCQ,Angelo Stiller,compactness,36,2,opponent,True,3693,9.75
+DFL-OBJ-002GCQ,Angelo Stiller,lpc,387,2,opponent,True,3693,104.79
+DFL-OBJ-002GCQ,Angelo Stiller,pos,77,2,opponent,True,3693,20.85
+DFL-OBJ-002GCQ,Angelo Stiller,pressure,157,2,opponent,True,3693,42.51
+DFL-OBJ-002GCQ,Angelo Stiller,synchronization,298,2,opponent,True,3693,80.69
+DFL-OBJ-002GCR,Jamal Musiala,anticipation,201,1,opponent,False,875,229.71
+DFL-OBJ-002GCR,Jamal Musiala,compactness,70,1,opponent,False,875,80.0
+DFL-OBJ-002GCR,Jamal Musiala,lpc,120,1,opponent,False,875,137.14
+DFL-OBJ-002GCR,Jamal Musiala,pos,37,1,opponent,False,875,42.29
+DFL-OBJ-002GCR,Jamal Musiala,pressure,22,1,opponent,False,875,25.14
+DFL-OBJ-002GCR,Jamal Musiala,synchronization,100,1,opponent,False,875,114.29
+DFL-OBJ-002GCU,Malik Leon Tillman,anticipation,498,2,opponent,True,2533,196.6
+DFL-OBJ-002GCU,Malik Leon Tillman,compactness,166,2,opponent,True,2533,65.53
+DFL-OBJ-002GCU,Malik Leon Tillman,lpc,459,2,opponent,True,2533,181.21
+DFL-OBJ-002GCU,Malik Leon Tillman,pos,157,2,opponent,True,2533,61.98
+DFL-OBJ-002GCU,Malik Leon Tillman,pressure,122,2,opponent,True,2533,48.16
+DFL-OBJ-002GCU,Malik Leon Tillman,synchronization,337,2,opponent,True,2533,133.04
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,anticipation,980,2,opponent,True,4848,202.15
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,compactness,1110,2,opponent,True,4848,228.96
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,lpc,680,2,opponent,True,4848,140.26
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,pos,274,2,opponent,True,4848,56.52
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,pressure,193,2,opponent,True,4848,39.81
+DFL-OBJ-002GDA,Ragnar Prince Friedel Ache,synchronization,443,2,opponent,True,4848,91.38
+DFL-OBJ-002GEY,Ermedin Demirović,anticipation,294,1,opponent,False,2006,146.56
+DFL-OBJ-002GEY,Ermedin Demirović,compactness,156,1,opponent,False,2006,77.77
+DFL-OBJ-002GEY,Ermedin Demirović,lpc,261,1,opponent,False,2006,130.11
+DFL-OBJ-002GEY,Ermedin Demirović,pos,70,1,opponent,False,2006,34.9
+DFL-OBJ-002GEY,Ermedin Demirović,pressure,43,1,opponent,False,2006,21.44
+DFL-OBJ-002GEY,Ermedin Demirović,synchronization,221,1,opponent,False,2006,110.17
+DFL-OBJ-002GG4,Jens Castrop,anticipation,105,2,opponent,True,1122,93.58
+DFL-OBJ-002GG4,Jens Castrop,compactness,38,2,opponent,True,1122,33.87
+DFL-OBJ-002GG4,Jens Castrop,lpc,116,2,opponent,True,1122,103.39
+DFL-OBJ-002GG4,Jens Castrop,pos,48,2,opponent,True,1122,42.78
+DFL-OBJ-002GG4,Jens Castrop,pressure,52,2,opponent,True,1122,46.35
+DFL-OBJ-002GG4,Jens Castrop,synchronization,117,2,opponent,True,1122,104.28
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,anticipation,128,1,opponent,False,2839,45.09
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,compactness,191,1,opponent,False,2839,67.28
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,lpc,152,1,opponent,False,2839,53.54
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,pos,6,1,opponent,False,2839,2.11
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,pressure,41,1,opponent,False,2839,14.44
+DFL-OBJ-002GG7,Pharrell Nnamdi Collins,synchronization,186,1,opponent,False,2839,65.52
+DFL-OBJ-002GHL,Julian Niehues,anticipation,149,1,opponent,False,2233,66.73
+DFL-OBJ-002GHL,Julian Niehues,compactness,6,1,opponent,False,2233,2.69
+DFL-OBJ-002GHL,Julian Niehues,lpc,215,1,opponent,False,2233,96.28
+DFL-OBJ-002GHL,Julian Niehues,pos,60,1,opponent,False,2233,26.87
+DFL-OBJ-002GHL,Julian Niehues,pressure,107,1,opponent,False,2233,47.92
+DFL-OBJ-002GHL,Julian Niehues,synchronization,189,1,opponent,False,2233,84.64
+DFL-OBJ-002GIC,Josip Stanišić,anticipation,290,2,opponent,True,5308,54.63
+DFL-OBJ-002GIC,Josip Stanišić,compactness,691,2,opponent,True,5308,130.18
+DFL-OBJ-002GIC,Josip Stanišić,lpc,286,2,opponent,True,5308,53.88
+DFL-OBJ-002GIC,Josip Stanišić,pos,28,2,opponent,True,5308,5.28
+DFL-OBJ-002GIC,Josip Stanišić,pressure,75,2,opponent,True,5308,14.13
+DFL-OBJ-002GIC,Josip Stanišić,synchronization,543,2,opponent,True,5308,102.3
+DFL-OBJ-002GJN,Ritsu Dōan,anticipation,557,1,opponent,False,2839,196.2
+DFL-OBJ-002GJN,Ritsu Dōan,compactness,401,1,opponent,False,2839,141.25
+DFL-OBJ-002GJN,Ritsu Dōan,lpc,406,1,opponent,False,2839,143.01
+DFL-OBJ-002GJN,Ritsu Dōan,pos,177,1,opponent,False,2839,62.35
+DFL-OBJ-002GJN,Ritsu Dōan,pressure,128,1,opponent,False,2839,45.09
+DFL-OBJ-002GJN,Ritsu Dōan,synchronization,341,1,opponent,False,2839,120.11
+DFL-OBJ-002GKG,Ansgar Knauff,anticipation,648,2,opponent,True,4601,140.84
+DFL-OBJ-002GKG,Ansgar Knauff,compactness,884,2,opponent,True,4601,192.13
+DFL-OBJ-002GKG,Ansgar Knauff,lpc,612,2,opponent,True,4601,133.01
+DFL-OBJ-002GKG,Ansgar Knauff,pos,193,2,opponent,True,4601,41.95
+DFL-OBJ-002GKG,Ansgar Knauff,pressure,144,2,opponent,True,4601,31.3
+DFL-OBJ-002GKG,Ansgar Knauff,synchronization,465,2,opponent,True,4601,101.06
+DFL-OBJ-002GKO,Eric Martel,anticipation,324,2,opponent,True,6340,51.1
+DFL-OBJ-002GKO,Eric Martel,compactness,109,2,opponent,True,6340,17.19
+DFL-OBJ-002GKO,Eric Martel,lpc,399,2,opponent,True,6340,62.93
+DFL-OBJ-002GKO,Eric Martel,pos,38,2,opponent,True,6340,5.99
+DFL-OBJ-002GKO,Eric Martel,pressure,136,2,opponent,True,6340,21.45
+DFL-OBJ-002GKO,Eric Martel,synchronization,609,2,opponent,True,6340,96.06
+DFL-OBJ-002GMV,Igor Matanović,anticipation,783,2,opponent,True,4101,190.93
+DFL-OBJ-002GMV,Igor Matanović,compactness,577,2,opponent,True,4101,140.7
+DFL-OBJ-002GMV,Igor Matanović,lpc,542,2,opponent,True,4101,132.16
+DFL-OBJ-002GMV,Igor Matanović,pos,160,2,opponent,True,4101,39.01
+DFL-OBJ-002GMV,Igor Matanović,pressure,128,2,opponent,True,4101,31.21
+DFL-OBJ-002GMV,Igor Matanović,synchronization,452,2,opponent,True,4101,110.22
+DFL-OBJ-002GN3,Fisnik Asllani,anticipation,512,2,opponent,True,2830,180.92
+DFL-OBJ-002GN3,Fisnik Asllani,compactness,139,2,opponent,True,2830,49.12
+DFL-OBJ-002GN3,Fisnik Asllani,lpc,403,2,opponent,True,2830,142.4
+DFL-OBJ-002GN3,Fisnik Asllani,pos,124,2,opponent,True,2830,43.82
+DFL-OBJ-002GN3,Fisnik Asllani,pressure,114,2,opponent,True,2830,40.28
+DFL-OBJ-002GN3,Fisnik Asllani,synchronization,273,2,opponent,True,2830,96.47
+DFL-OBJ-002GN4,Adam Dźwigała,anticipation,127,2,opponent,True,4818,26.36
+DFL-OBJ-002GN4,Adam Dźwigała,compactness,127,2,opponent,True,4818,26.36
+DFL-OBJ-002GN4,Adam Dźwigała,lpc,139,2,opponent,True,4818,28.85
+DFL-OBJ-002GN4,Adam Dźwigała,pos,5,2,opponent,True,4818,1.04
+DFL-OBJ-002GN4,Adam Dźwigała,pressure,55,2,opponent,True,4818,11.42
+DFL-OBJ-002GN4,Adam Dźwigała,synchronization,297,2,opponent,True,4818,61.64
+DFL-OBJ-002GNL,Eric Anders Smith,anticipation,239,2,opponent,True,6194,38.59
+DFL-OBJ-002GNL,Eric Anders Smith,compactness,158,2,opponent,True,6194,25.51
+DFL-OBJ-002GNL,Eric Anders Smith,lpc,321,2,opponent,True,6194,51.82
+DFL-OBJ-002GNL,Eric Anders Smith,pos,55,2,opponent,True,6194,8.88
+DFL-OBJ-002GNL,Eric Anders Smith,pressure,120,2,opponent,True,6194,19.37
+DFL-OBJ-002GNL,Eric Anders Smith,synchronization,369,2,opponent,True,6194,59.57
+DFL-OBJ-002GNN,Joseph Michael Scally,anticipation,333,2,opponent,True,5921,56.24
+DFL-OBJ-002GNN,Joseph Michael Scally,compactness,991,2,opponent,True,5921,167.37
+DFL-OBJ-002GNN,Joseph Michael Scally,lpc,337,2,opponent,True,5921,56.92
+DFL-OBJ-002GNN,Joseph Michael Scally,pos,55,2,opponent,True,5921,9.29
+DFL-OBJ-002GNN,Joseph Michael Scally,pressure,148,2,opponent,True,5921,25.0
+DFL-OBJ-002GNN,Joseph Michael Scally,synchronization,665,2,opponent,True,5921,112.31
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,anticipation,588,2,opponent,True,3843,153.01
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,compactness,919,2,opponent,True,3843,239.14
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,lpc,465,2,opponent,True,3843,121.0
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,pos,120,2,opponent,True,3843,31.23
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,pressure,96,2,opponent,True,3843,24.98
+DFL-OBJ-002GPZ,Justin Gideon Njinmah,synchronization,481,2,opponent,True,3843,125.16
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,anticipation,822,2,opponent,True,5625,146.13
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,compactness,223,2,opponent,True,5625,39.64
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,lpc,771,2,opponent,True,5625,137.07
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,pos,255,2,opponent,True,5625,45.33
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,pressure,246,2,opponent,True,5625,43.73
+DFL-OBJ-J00W7B,Christian Dannemann Eriksen,synchronization,633,2,opponent,True,5625,112.53
+DFL-OBJ-J00ZZ3,Harry Edward Kane,anticipation,774,2,opponent,True,4609,167.93
+DFL-OBJ-J00ZZ3,Harry Edward Kane,compactness,381,2,opponent,True,4609,82.66
+DFL-OBJ-J00ZZ3,Harry Edward Kane,lpc,484,2,opponent,True,4609,105.01
+DFL-OBJ-J00ZZ3,Harry Edward Kane,pos,176,2,opponent,True,4609,38.19
+DFL-OBJ-J00ZZ3,Harry Edward Kane,pressure,173,2,opponent,True,4609,37.54
+DFL-OBJ-J00ZZ3,Harry Edward Kane,synchronization,395,2,opponent,True,4609,85.7
+DFL-OBJ-J0117M,Haris Tabaković,anticipation,1318,2,opponent,True,5279,249.67
+DFL-OBJ-J0117M,Haris Tabaković,compactness,1129,2,opponent,True,5279,213.87
+DFL-OBJ-J0117M,Haris Tabaković,lpc,942,2,opponent,True,5279,178.44
+DFL-OBJ-J0117M,Haris Tabaković,pos,549,2,opponent,True,5279,104.0
+DFL-OBJ-J0117M,Haris Tabaković,pressure,273,2,opponent,True,5279,51.71
+DFL-OBJ-J0117M,Haris Tabaković,synchronization,663,2,opponent,True,5279,125.59
+DFL-OBJ-J0133P,Vladimir Coufal,anticipation,350,2,opponent,True,5433,64.42
+DFL-OBJ-J0133P,Vladimir Coufal,compactness,1201,2,opponent,True,5433,221.06
+DFL-OBJ-J0133P,Vladimir Coufal,lpc,450,2,opponent,True,5433,82.83
+DFL-OBJ-J0133P,Vladimir Coufal,pos,68,2,opponent,True,5433,12.52
+DFL-OBJ-J0133P,Vladimir Coufal,pressure,108,2,opponent,True,5433,19.88
+DFL-OBJ-J0133P,Vladimir Coufal,synchronization,727,2,opponent,True,5433,133.81
+DFL-OBJ-J014L2,Jackson Alexander Irvine,anticipation,84,1,opponent,False,961,87.41
+DFL-OBJ-J014L2,Jackson Alexander Irvine,lpc,98,1,opponent,False,961,101.98
+DFL-OBJ-J014L2,Jackson Alexander Irvine,pos,20,1,opponent,False,961,20.81
+DFL-OBJ-J014L2,Jackson Alexander Irvine,pressure,52,1,opponent,False,961,54.11
+DFL-OBJ-J014L2,Jackson Alexander Irvine,synchronization,82,1,opponent,False,961,85.33
+DFL-OBJ-J0157X,Manolis Saliakas,anticipation,141,1,opponent,False,1227,114.91
+DFL-OBJ-J0157X,Manolis Saliakas,compactness,282,1,opponent,False,1227,229.83
+DFL-OBJ-J0157X,Manolis Saliakas,lpc,101,1,opponent,False,1227,82.31
+DFL-OBJ-J0157X,Manolis Saliakas,pos,32,1,opponent,False,1227,26.08
+DFL-OBJ-J0157X,Manolis Saliakas,pressure,36,1,opponent,False,1227,29.34
+DFL-OBJ-J0157X,Manolis Saliakas,synchronization,139,1,opponent,False,1227,113.28
+DFL-OBJ-J0159A,Joakim Barut Mæhle Pedersen,anticipation,50,1,opponent,False,351,142.45
+DFL-OBJ-J0159A,Joakim Barut Mæhle Pedersen,compactness,12,1,opponent,False,351,34.19
+DFL-OBJ-J0159A,Joakim Barut Mæhle Pedersen,lpc,34,1,opponent,False,351,96.87
+DFL-OBJ-J0159A,Joakim Barut Mæhle Pedersen,pos,4,1,opponent,False,351,11.4
+DFL-OBJ-J0159A,Joakim Barut Mæhle Pedersen,pressure,19,1,opponent,False,351,54.13
+DFL-OBJ-J0159A,Joakim Barut Mæhle Pedersen,synchronization,47,1,opponent,False,351,133.9
+DFL-OBJ-J015AU,Karol Mets,anticipation,67,1,opponent,False,3196,20.96
+DFL-OBJ-J015AU,Karol Mets,compactness,64,1,opponent,False,3196,20.03
+DFL-OBJ-J015AU,Karol Mets,lpc,82,1,opponent,False,3196,25.66
+DFL-OBJ-J015AU,Karol Mets,pos,3,1,opponent,False,3196,0.94
+DFL-OBJ-J015AU,Karol Mets,pressure,31,1,opponent,False,3196,9.7
+DFL-OBJ-J015AU,Karol Mets,synchronization,248,1,opponent,False,3196,77.6
+DFL-OBJ-J0164X,Lucas Vázquez Iglesias,anticipation,55,1,opponent,False,424,129.72
+DFL-OBJ-J0164X,Lucas Vázquez Iglesias,compactness,37,1,opponent,False,424,87.26
+DFL-OBJ-J0164X,Lucas Vázquez Iglesias,lpc,82,1,opponent,False,424,193.4
+DFL-OBJ-J0164X,Lucas Vázquez Iglesias,pos,14,1,opponent,False,424,33.02
+DFL-OBJ-J0164X,Lucas Vázquez Iglesias,pressure,14,1,opponent,False,424,33.02
+DFL-OBJ-J0164X,Lucas Vázquez Iglesias,synchronization,81,1,opponent,False,424,191.04
+DFL-OBJ-J0165W,Mattias Olof Svanberg,anticipation,130,1,opponent,False,948,137.13
+DFL-OBJ-J0165W,Mattias Olof Svanberg,compactness,48,1,opponent,False,948,50.63
+DFL-OBJ-J0165W,Mattias Olof Svanberg,lpc,139,1,opponent,False,948,146.62
+DFL-OBJ-J0165W,Mattias Olof Svanberg,pos,61,1,opponent,False,948,64.35
+DFL-OBJ-J0165W,Mattias Olof Svanberg,pressure,55,1,opponent,False,948,58.02
+DFL-OBJ-J0165W,Mattias Olof Svanberg,synchronization,97,1,opponent,False,948,102.32
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,anticipation,480,2,opponent,True,5592,85.84
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,compactness,1114,2,opponent,True,5592,199.21
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,lpc,367,2,opponent,True,5592,65.63
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,pos,98,2,opponent,True,5592,17.53
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,pressure,129,2,opponent,True,5592,23.07
+DFL-OBJ-J016J2,Alejandro Grimaldo Garcia,synchronization,713,2,opponent,True,5592,127.5
+DFL-OBJ-J017LG,Cédric Adrian Zesiger,anticipation,191,2,opponent,True,3550,53.8
+DFL-OBJ-J017LG,Cédric Adrian Zesiger,compactness,57,2,opponent,True,3550,16.06
+DFL-OBJ-J017LG,Cédric Adrian Zesiger,lpc,148,2,opponent,True,3550,41.69
+DFL-OBJ-J017LG,Cédric Adrian Zesiger,pos,8,2,opponent,True,3550,2.25
+DFL-OBJ-J017LG,Cédric Adrian Zesiger,pressure,41,2,opponent,True,3550,11.55
+DFL-OBJ-J017LG,Cédric Adrian Zesiger,synchronization,288,2,opponent,True,3550,81.13
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,anticipation,374,2,opponent,True,6305,59.32
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,compactness,873,2,opponent,True,6305,138.46
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,lpc,397,2,opponent,True,6305,62.97
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,pos,57,2,opponent,True,6305,9.04
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,pressure,148,2,opponent,True,6305,23.47
+DFL-OBJ-J017TJ,Dimitrios Christos Giannoulis,synchronization,523,2,opponent,True,6305,82.95
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,anticipation,304,1,opponent,False,2393,127.04
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,compactness,548,1,opponent,False,2393,229.0
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,lpc,219,1,opponent,False,2393,91.52
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,pos,68,1,opponent,False,2393,28.42
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,pressure,75,1,opponent,False,2393,31.34
+DFL-OBJ-J017VJ,Arnaud Dominique Nordin,synchronization,283,1,opponent,False,2393,118.26
+DFL-OBJ-J01860,Aleix García Serrano,anticipation,435,2,opponent,True,5168,84.17
+DFL-OBJ-J01860,Aleix García Serrano,compactness,179,2,opponent,True,5168,34.64
+DFL-OBJ-J01860,Aleix García Serrano,lpc,432,2,opponent,True,5168,83.59
+DFL-OBJ-J01860,Aleix García Serrano,pos,68,2,opponent,True,5168,13.16
+DFL-OBJ-J01860,Aleix García Serrano,pressure,167,2,opponent,True,5168,32.31
+DFL-OBJ-J01860,Aleix García Serrano,synchronization,517,2,opponent,True,5168,100.04
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,anticipation,257,2,opponent,True,3172,81.02
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,compactness,845,2,opponent,True,3172,266.39
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,lpc,262,2,opponent,True,3172,82.6
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,pos,76,2,opponent,True,3172,23.96
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,pressure,75,2,opponent,True,3172,23.64
+DFL-OBJ-J018BS,Rasmus Nissen Kristensen,synchronization,330,2,opponent,True,3172,104.04
+DFL-OBJ-J019JX,Kevin Diks Bakarbessy,anticipation,125,2,opponent,True,3309,37.78
+DFL-OBJ-J019JX,Kevin Diks Bakarbessy,compactness,116,2,opponent,True,3309,35.06
+DFL-OBJ-J019JX,Kevin Diks Bakarbessy,lpc,122,2,opponent,True,3309,36.87
+DFL-OBJ-J019JX,Kevin Diks Bakarbessy,pos,6,2,opponent,True,3309,1.81
+DFL-OBJ-J019JX,Kevin Diks Bakarbessy,pressure,29,2,opponent,True,3309,8.76
+DFL-OBJ-J019JX,Kevin Diks Bakarbessy,synchronization,298,2,opponent,True,3309,90.06
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,anticipation,143,1,opponent,False,3827,37.37
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,compactness,49,1,opponent,False,3827,12.8
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,lpc,211,1,opponent,False,3827,55.13
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,pos,17,1,opponent,False,3827,4.44
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,pressure,63,1,opponent,False,3827,16.46
+DFL-OBJ-J019T5,Diogo Filipe Monteiro Pinto Leite,synchronization,374,1,opponent,False,3827,97.73
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,anticipation,208,1,opponent,False,2974,69.94
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,compactness,211,1,opponent,False,2974,70.95
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,lpc,153,1,opponent,False,2974,51.45
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,pos,9,1,opponent,False,2974,3.03
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,pressure,51,1,opponent,False,2974,17.15
+DFL-OBJ-J019UO,Stanley Pierre Nsoki,synchronization,217,1,opponent,False,2974,72.97
+DFL-OBJ-J019VX,Joël Pascal Schmied,anticipation,95,1,opponent,False,1520,62.5
+DFL-OBJ-J019VX,Joël Pascal Schmied,compactness,223,1,opponent,False,1520,146.71
+DFL-OBJ-J019VX,Joël Pascal Schmied,lpc,91,1,opponent,False,1520,59.87
+DFL-OBJ-J019VX,Joël Pascal Schmied,pos,12,1,opponent,False,1520,7.89
+DFL-OBJ-J019VX,Joël Pascal Schmied,pressure,33,1,opponent,False,1520,21.71
+DFL-OBJ-J019VX,Joël Pascal Schmied,synchronization,139,1,opponent,False,1520,91.45
+DFL-OBJ-J019XM,Andreas Schjölberg Hanche-Olsen,anticipation,115,1,opponent,False,2393,48.06
+DFL-OBJ-J019XM,Andreas Schjölberg Hanche-Olsen,compactness,33,1,opponent,False,2393,13.79
+DFL-OBJ-J019XM,Andreas Schjölberg Hanche-Olsen,lpc,137,1,opponent,False,2393,57.25
+DFL-OBJ-J019XM,Andreas Schjölberg Hanche-Olsen,pos,10,1,opponent,False,2393,4.18
+DFL-OBJ-J019XM,Andreas Schjölberg Hanche-Olsen,pressure,41,1,opponent,False,2393,17.13
+DFL-OBJ-J019XM,Andreas Schjölberg Hanche-Olsen,synchronization,246,1,opponent,False,2393,102.8
+DFL-OBJ-J019ZE,Jonas Older Wind,anticipation,422,1,opponent,False,2476,170.44
+DFL-OBJ-J019ZE,Jonas Older Wind,compactness,616,1,opponent,False,2476,248.79
+DFL-OBJ-J019ZE,Jonas Older Wind,lpc,313,1,opponent,False,2476,126.41
+DFL-OBJ-J019ZE,Jonas Older Wind,pos,168,1,opponent,False,2476,67.85
+DFL-OBJ-J019ZE,Jonas Older Wind,pressure,105,1,opponent,False,2476,42.41
+DFL-OBJ-J019ZE,Jonas Older Wind,synchronization,214,1,opponent,False,2476,86.43
+DFL-OBJ-J01AE6,Minjae Kim,anticipation,77,1,opponent,False,1846,41.71
+DFL-OBJ-J01AE6,Minjae Kim,compactness,65,1,opponent,False,1846,35.21
+DFL-OBJ-J01AE6,Minjae Kim,lpc,70,1,opponent,False,1846,37.92
+DFL-OBJ-J01AE6,Minjae Kim,pos,8,1,opponent,False,1846,4.33
+DFL-OBJ-J01AE6,Minjae Kim,pressure,13,1,opponent,False,1846,7.04
+DFL-OBJ-J01AE6,Minjae Kim,synchronization,116,1,opponent,False,1846,62.84
+DFL-OBJ-J01AUU,Adrian Beck,anticipation,138,2,opponent,True,1816,75.99
+DFL-OBJ-J01AUU,Adrian Beck,compactness,7,2,opponent,True,1816,3.85
+DFL-OBJ-J01AUU,Adrian Beck,lpc,180,2,opponent,True,1816,99.12
+DFL-OBJ-J01AUU,Adrian Beck,pos,32,2,opponent,True,1816,17.62
+DFL-OBJ-J01AUU,Adrian Beck,pressure,64,2,opponent,True,1816,35.24
+DFL-OBJ-J01AUU,Adrian Beck,synchronization,236,2,opponent,True,1816,129.96
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,anticipation,378,2,opponent,True,4573,82.66
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,compactness,992,2,opponent,True,4573,216.93
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,lpc,302,2,opponent,True,4573,66.04
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,pos,84,2,opponent,True,4573,18.37
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,pressure,126,2,opponent,True,4573,27.55
+DFL-OBJ-J01AZQ,Omar Haktab Traoré,synchronization,437,2,opponent,True,4573,95.56
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,anticipation,299,1,opponent,False,2006,149.05
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,compactness,121,1,opponent,False,2006,60.32
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,lpc,282,1,opponent,False,2006,140.58
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,pos,93,1,opponent,False,2006,46.36
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,pressure,82,1,opponent,False,2006,40.88
+DFL-OBJ-J01B7D,Martin Albert Frederic Terrier,synchronization,249,1,opponent,False,2006,124.13
+DFL-OBJ-J01BE1,Lovro Majer,anticipation,96,1,opponent,False,1064,90.23
+DFL-OBJ-J01BE1,Lovro Majer,compactness,7,1,opponent,False,1064,6.58
+DFL-OBJ-J01BE1,Lovro Majer,lpc,140,1,opponent,False,1064,131.58
+DFL-OBJ-J01BE1,Lovro Majer,pos,19,1,opponent,False,1064,17.86
+DFL-OBJ-J01BE1,Lovro Majer,pressure,45,1,opponent,False,1064,42.29
+DFL-OBJ-J01BE1,Lovro Majer,synchronization,130,1,opponent,False,1064,122.18
+DFL-OBJ-J01BGD,Danel Sinani,anticipation,928,2,opponent,True,3962,234.23
+DFL-OBJ-J01BGD,Danel Sinani,compactness,520,2,opponent,True,3962,131.25
+DFL-OBJ-J01BGD,Danel Sinani,lpc,811,2,opponent,True,3962,204.69
+DFL-OBJ-J01BGD,Danel Sinani,pos,485,2,opponent,True,3962,122.41
+DFL-OBJ-J01BGD,Danel Sinani,pressure,216,2,opponent,True,3962,54.52
+DFL-OBJ-J01BGD,Danel Sinani,synchronization,535,2,opponent,True,3962,135.03
+DFL-OBJ-J01BKL,Han-Noah Massengo,anticipation,157,2,opponent,True,2877,54.57
+DFL-OBJ-J01BKL,Han-Noah Massengo,compactness,40,2,opponent,True,2877,13.9
+DFL-OBJ-J01BKL,Han-Noah Massengo,lpc,215,2,opponent,True,2877,74.73
+DFL-OBJ-J01BKL,Han-Noah Massengo,pos,47,2,opponent,True,2877,16.34
+DFL-OBJ-J01BKL,Han-Noah Massengo,pressure,86,2,opponent,True,2877,29.89
+DFL-OBJ-J01BKL,Han-Noah Massengo,synchronization,307,2,opponent,True,2877,106.71
+DFL-OBJ-J01BSN,Felix Kalu Nmecha,anticipation,329,2,opponent,True,3120,105.45
+DFL-OBJ-J01BSN,Felix Kalu Nmecha,compactness,60,2,opponent,True,3120,19.23
+DFL-OBJ-J01BSN,Felix Kalu Nmecha,lpc,271,2,opponent,True,3120,86.86
+DFL-OBJ-J01BSN,Felix Kalu Nmecha,pos,77,2,opponent,True,3120,24.68
+DFL-OBJ-J01BSN,Felix Kalu Nmecha,pressure,120,2,opponent,True,3120,38.46
+DFL-OBJ-J01BSN,Felix Kalu Nmecha,synchronization,207,2,opponent,True,3120,66.35
+DFL-OBJ-J01BVQ,Alex Král,anticipation,39,1,opponent,False,604,64.57
+DFL-OBJ-J01BVQ,Alex Král,compactness,6,1,opponent,False,604,9.93
+DFL-OBJ-J01BVQ,Alex Král,lpc,70,1,opponent,False,604,115.89
+DFL-OBJ-J01BVQ,Alex Král,pos,20,1,opponent,False,604,33.11
+DFL-OBJ-J01BVQ,Alex Král,pressure,30,1,opponent,False,604,49.67
+DFL-OBJ-J01BVQ,Alex Král,synchronization,57,1,opponent,False,604,94.37
+DFL-OBJ-J01C07,Jens Dalsgaard Stage,anticipation,369,2,opponent,True,5489,67.23
+DFL-OBJ-J01C07,Jens Dalsgaard Stage,compactness,40,2,opponent,True,5489,7.29
+DFL-OBJ-J01C07,Jens Dalsgaard Stage,lpc,530,2,opponent,True,5489,96.56
+DFL-OBJ-J01C07,Jens Dalsgaard Stage,pos,104,2,opponent,True,5489,18.95
+DFL-OBJ-J01C07,Jens Dalsgaard Stage,pressure,172,2,opponent,True,5489,31.34
+DFL-OBJ-J01C07,Jens Dalsgaard Stage,synchronization,508,2,opponent,True,5489,92.55
+DFL-OBJ-J01C0A,Andreas Skov Olsen,anticipation,85,1,opponent,False,944,90.04
+DFL-OBJ-J01C0A,Andreas Skov Olsen,compactness,95,1,opponent,False,944,100.64
+DFL-OBJ-J01C0A,Andreas Skov Olsen,lpc,93,1,opponent,False,944,98.52
+DFL-OBJ-J01C0A,Andreas Skov Olsen,pos,47,1,opponent,False,944,49.79
+DFL-OBJ-J01C0A,Andreas Skov Olsen,pressure,43,1,opponent,False,944,45.55
+DFL-OBJ-J01C0A,Andreas Skov Olsen,synchronization,105,1,opponent,False,944,111.23
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,anticipation,544,2,opponent,True,6309,86.23
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,compactness,1417,2,opponent,True,6309,224.6
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,lpc,458,2,opponent,True,6309,72.59
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,pos,138,2,opponent,True,6309,21.87
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,pressure,183,2,opponent,True,6309,29.01
+DFL-OBJ-J01CAD,Derrick Arthur Köhn,synchronization,607,2,opponent,True,6309,96.21
+DFL-OBJ-J01CT9,Samuel Emmanuel Essende Mbongu,anticipation,191,1,opponent,False,1058,180.53
+DFL-OBJ-J01CT9,Samuel Emmanuel Essende Mbongu,compactness,368,1,opponent,False,1058,347.83
+DFL-OBJ-J01CT9,Samuel Emmanuel Essende Mbongu,lpc,187,1,opponent,False,1058,176.75
+DFL-OBJ-J01CT9,Samuel Emmanuel Essende Mbongu,pos,55,1,opponent,False,1058,51.98
+DFL-OBJ-J01CT9,Samuel Emmanuel Essende Mbongu,pressure,39,1,opponent,False,1058,36.86
+DFL-OBJ-J01CT9,Samuel Emmanuel Essende Mbongu,synchronization,157,1,opponent,False,1058,148.39
+DFL-OBJ-J01CX2,Younes Ebnoutalib,anticipation,89,1,opponent,False,612,145.42
+DFL-OBJ-J01CX2,Younes Ebnoutalib,compactness,13,1,opponent,False,612,21.24
+DFL-OBJ-J01CX2,Younes Ebnoutalib,lpc,49,1,opponent,False,612,80.07
+DFL-OBJ-J01CX2,Younes Ebnoutalib,pos,5,1,opponent,False,612,8.17
+DFL-OBJ-J01CX2,Younes Ebnoutalib,pressure,10,1,opponent,False,612,16.34
+DFL-OBJ-J01CX2,Younes Ebnoutalib,synchronization,28,1,opponent,False,612,45.75
+DFL-OBJ-J01D1W,Julian Jeffrey Gaston Chabot,anticipation,215,2,opponent,True,5150,41.75
+DFL-OBJ-J01D1W,Julian Jeffrey Gaston Chabot,compactness,160,2,opponent,True,5150,31.07
+DFL-OBJ-J01D1W,Julian Jeffrey Gaston Chabot,lpc,220,2,opponent,True,5150,42.72
+DFL-OBJ-J01D1W,Julian Jeffrey Gaston Chabot,pos,13,2,opponent,True,5150,2.52
+DFL-OBJ-J01D1W,Julian Jeffrey Gaston Chabot,pressure,50,2,opponent,True,5150,9.71
+DFL-OBJ-J01D1W,Julian Jeffrey Gaston Chabot,synchronization,303,2,opponent,True,5150,58.83
+DFL-OBJ-J01D4G,Franck Honorat,anticipation,721,2,opponent,True,5202,138.6
+DFL-OBJ-J01D4G,Franck Honorat,compactness,725,2,opponent,True,5202,139.37
+DFL-OBJ-J01D4G,Franck Honorat,lpc,650,2,opponent,True,5202,124.95
+DFL-OBJ-J01D4G,Franck Honorat,pos,254,2,opponent,True,5202,48.83
+DFL-OBJ-J01D4G,Franck Honorat,pressure,276,2,opponent,True,5202,53.06
+DFL-OBJ-J01D4G,Franck Honorat,synchronization,560,2,opponent,True,5202,107.65
+DFL-OBJ-J01D90,Wouter Burger,anticipation,451,2,opponent,True,5723,78.8
+DFL-OBJ-J01D90,Wouter Burger,compactness,70,2,opponent,True,5723,12.23
+DFL-OBJ-J01D90,Wouter Burger,lpc,610,2,opponent,True,5723,106.59
+DFL-OBJ-J01D90,Wouter Burger,pos,89,2,opponent,True,5723,15.55
+DFL-OBJ-J01D90,Wouter Burger,pressure,239,2,opponent,True,5723,41.76
+DFL-OBJ-J01D90,Wouter Burger,synchronization,504,2,opponent,True,5723,88.07
+DFL-OBJ-J01D9B,Ramon Hendriks,anticipation,225,2,opponent,True,4966,45.31
+DFL-OBJ-J01D9B,Ramon Hendriks,compactness,346,2,opponent,True,4966,69.67
+DFL-OBJ-J01D9B,Ramon Hendriks,lpc,252,2,opponent,True,4966,50.75
+DFL-OBJ-J01D9B,Ramon Hendriks,pos,11,2,opponent,True,4966,2.22
+DFL-OBJ-J01D9B,Ramon Hendriks,pressure,57,2,opponent,True,4966,11.48
+DFL-OBJ-J01D9B,Ramon Hendriks,synchronization,421,2,opponent,True,4966,84.78
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,anticipation,412,2,opponent,True,3610,114.13
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,compactness,654,2,opponent,True,3610,181.16
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,lpc,346,2,opponent,True,3610,95.84
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,pos,109,2,opponent,True,3610,30.19
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,pressure,101,2,opponent,True,3610,27.98
+DFL-OBJ-J01DA7,Luis Fernando Díaz Marulanda,synchronization,438,2,opponent,True,3610,121.33
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,anticipation,117,1,opponent,False,843,138.79
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,compactness,79,1,opponent,False,843,93.71
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,lpc,83,1,opponent,False,843,98.46
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,pos,24,1,opponent,False,843,28.47
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,pressure,21,1,opponent,False,843,24.91
+DFL-OBJ-J01DAB,Fabio Daniel Soares Silva,synchronization,112,1,opponent,False,843,132.86
+DFL-OBJ-J01DCO,Yukinari Sugawara,anticipation,535,2,opponent,True,6765,79.08
+DFL-OBJ-J01DCO,Yukinari Sugawara,compactness,1470,2,opponent,True,6765,217.29
+DFL-OBJ-J01DCO,Yukinari Sugawara,lpc,404,2,opponent,True,6765,59.72
+DFL-OBJ-J01DCO,Yukinari Sugawara,pos,93,2,opponent,True,6765,13.75
+DFL-OBJ-J01DCO,Yukinari Sugawara,pressure,128,2,opponent,True,6765,18.92
+DFL-OBJ-J01DCO,Yukinari Sugawara,synchronization,689,2,opponent,True,6765,101.85
+DFL-OBJ-J01DKU,Benedict Hollerbach,anticipation,402,1,opponent,False,1599,251.41
+DFL-OBJ-J01DKU,Benedict Hollerbach,compactness,296,1,opponent,False,1599,185.12
+DFL-OBJ-J01DKU,Benedict Hollerbach,lpc,308,1,opponent,False,1599,192.62
+DFL-OBJ-J01DKU,Benedict Hollerbach,pos,64,1,opponent,False,1599,40.03
+DFL-OBJ-J01DKU,Benedict Hollerbach,pressure,62,1,opponent,False,1599,38.77
+DFL-OBJ-J01DKU,Benedict Hollerbach,synchronization,214,1,opponent,False,1599,133.83
+DFL-OBJ-J01DNM,Nathaniel Brown,anticipation,565,2,opponent,True,5669,99.66
+DFL-OBJ-J01DNM,Nathaniel Brown,compactness,873,2,opponent,True,5669,154.0
+DFL-OBJ-J01DNM,Nathaniel Brown,lpc,388,2,opponent,True,5669,68.44
+DFL-OBJ-J01DNM,Nathaniel Brown,pos,82,2,opponent,True,5669,14.46
+DFL-OBJ-J01DNM,Nathaniel Brown,pressure,158,2,opponent,True,5669,27.87
+DFL-OBJ-J01DNM,Nathaniel Brown,synchronization,504,2,opponent,True,5669,88.9
+DFL-OBJ-J01DOV,Castello Junior Lukeba,anticipation,315,2,opponent,True,5555,56.71
+DFL-OBJ-J01DOV,Castello Junior Lukeba,compactness,98,2,opponent,True,5555,17.64
+DFL-OBJ-J01DOV,Castello Junior Lukeba,lpc,199,2,opponent,True,5555,35.82
+DFL-OBJ-J01DOV,Castello Junior Lukeba,pos,14,2,opponent,True,5555,2.52
+DFL-OBJ-J01DOV,Castello Junior Lukeba,pressure,75,2,opponent,True,5555,13.5
+DFL-OBJ-J01DOV,Castello Junior Lukeba,synchronization,309,2,opponent,True,5555,55.63
+DFL-OBJ-J01DVC,Denis Huseinbašić,anticipation,146,1,opponent,False,3427,42.6
+DFL-OBJ-J01DVC,Denis Huseinbašić,compactness,16,1,opponent,False,3427,4.67
+DFL-OBJ-J01DVC,Denis Huseinbašić,lpc,180,1,opponent,False,3427,52.52
+DFL-OBJ-J01DVC,Denis Huseinbašić,pos,24,1,opponent,False,3427,7.0
+DFL-OBJ-J01DVC,Denis Huseinbašić,pressure,75,1,opponent,False,3427,21.89
+DFL-OBJ-J01DVC,Denis Huseinbašić,synchronization,234,1,opponent,False,3427,68.28
+DFL-OBJ-J01DZW,Sacha Boey,anticipation,32,1,opponent,False,355,90.14
+DFL-OBJ-J01DZW,Sacha Boey,compactness,27,1,opponent,False,355,76.06
+DFL-OBJ-J01DZW,Sacha Boey,lpc,45,1,opponent,False,355,126.76
+DFL-OBJ-J01DZW,Sacha Boey,pos,2,1,opponent,False,355,5.63
+DFL-OBJ-J01DZW,Sacha Boey,pressure,18,1,opponent,False,355,50.7
+DFL-OBJ-J01DZW,Sacha Boey,synchronization,46,1,opponent,False,355,129.58
+DFL-OBJ-J01E9X,Karim David Adeyemi,anticipation,545,2,opponent,True,2619,208.09
+DFL-OBJ-J01E9X,Karim David Adeyemi,compactness,521,2,opponent,True,2619,198.93
+DFL-OBJ-J01E9X,Karim David Adeyemi,lpc,372,2,opponent,True,2619,142.04
+DFL-OBJ-J01E9X,Karim David Adeyemi,pos,159,2,opponent,True,2619,60.71
+DFL-OBJ-J01E9X,Karim David Adeyemi,pressure,110,2,opponent,True,2619,42.0
+DFL-OBJ-J01E9X,Karim David Adeyemi,synchronization,300,2,opponent,True,2619,114.55
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,anticipation,200,1,opponent,False,745,268.46
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,compactness,128,1,opponent,False,745,171.81
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,lpc,145,1,opponent,False,745,194.63
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,pos,80,1,opponent,False,745,107.38
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,pressure,45,1,opponent,False,745,60.4
+DFL-OBJ-J01EAG,Tiago Barreiros de Melo Tomás,synchronization,81,1,opponent,False,745,108.72
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,anticipation,557,1,opponent,False,2258,246.68
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,compactness,239,1,opponent,False,2258,105.85
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,lpc,499,1,opponent,False,2258,220.99
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,pos,205,1,opponent,False,2258,90.79
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,pressure,127,1,opponent,False,2258,56.24
+DFL-OBJ-J01EAQ,Mikkel Kaufmann Sörensen,synchronization,230,1,opponent,False,2258,101.86
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,anticipation,595,2,opponent,True,4491,132.49
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,compactness,829,2,opponent,True,4491,184.59
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,lpc,578,2,opponent,True,4491,128.7
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,pos,239,2,opponent,True,4491,53.22
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,pressure,187,2,opponent,True,4491,41.64
+DFL-OBJ-J01EAZ,Arijon Ibrahimović,synchronization,605,2,opponent,True,4491,134.71
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,anticipation,367,1,opponent,False,2830,129.68
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,compactness,332,1,opponent,False,2830,117.31
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,lpc,281,1,opponent,False,2830,99.29
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,pos,79,1,opponent,False,2830,27.92
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,pressure,92,1,opponent,False,2830,32.51
+DFL-OBJ-J01FDE,Arnaud Kalimuendo Muinga,synchronization,231,1,opponent,False,2830,81.63
+DFL-OBJ-J01FO9,Nicolas Seiwald,anticipation,308,2,opponent,True,5555,55.45
+DFL-OBJ-J01FO9,Nicolas Seiwald,compactness,22,2,opponent,True,5555,3.96
+DFL-OBJ-J01FO9,Nicolas Seiwald,lpc,354,2,opponent,True,5555,63.73
+DFL-OBJ-J01FO9,Nicolas Seiwald,pos,82,2,opponent,True,5555,14.76
+DFL-OBJ-J01FO9,Nicolas Seiwald,pressure,161,2,opponent,True,5555,28.98
+DFL-OBJ-J01FO9,Nicolas Seiwald,synchronization,435,2,opponent,True,5555,78.31
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,anticipation,772,2,opponent,True,5090,151.67
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,compactness,795,2,opponent,True,5090,156.19
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,lpc,578,2,opponent,True,5090,113.56
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,pos,260,2,opponent,True,5090,51.08
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,pressure,239,2,opponent,True,5090,46.95
+DFL-OBJ-J01FUR,Alexis Julian Claude-Maurice,synchronization,534,2,opponent,True,5090,104.91
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,anticipation,704,2,opponent,True,6198,113.59
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,compactness,1093,2,opponent,True,6198,176.35
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,lpc,720,2,opponent,True,6198,116.17
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,pos,295,2,opponent,True,6198,47.6
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,pressure,233,2,opponent,True,6198,37.59
+DFL-OBJ-J01FYE,Jakub Piotr Kamiński,synchronization,728,2,opponent,True,6198,117.46
+DFL-OBJ-J01FYN,Aurélio Gabriel Ulineia Buta,anticipation,99,1,opponent,False,456,217.11
+DFL-OBJ-J01FYN,Aurélio Gabriel Ulineia Buta,compactness,82,1,opponent,False,456,179.82
+DFL-OBJ-J01FYN,Aurélio Gabriel Ulineia Buta,lpc,55,1,opponent,False,456,120.61
+DFL-OBJ-J01FYN,Aurélio Gabriel Ulineia Buta,pos,3,1,opponent,False,456,6.58
+DFL-OBJ-J01FYN,Aurélio Gabriel Ulineia Buta,pressure,15,1,opponent,False,456,32.89
+DFL-OBJ-J01FYN,Aurélio Gabriel Ulineia Buta,synchronization,48,1,opponent,False,456,105.26
+DFL-OBJ-J01G0J,Adam Hložek,anticipation,61,1,opponent,False,500,122.0
+DFL-OBJ-J01G0J,Adam Hložek,compactness,66,1,opponent,False,500,132.0
+DFL-OBJ-J01G0J,Adam Hložek,lpc,86,1,opponent,False,500,172.0
+DFL-OBJ-J01G0J,Adam Hložek,pos,24,1,opponent,False,500,48.0
+DFL-OBJ-J01G0J,Adam Hložek,pressure,18,1,opponent,False,500,36.0
+DFL-OBJ-J01G0J,Adam Hložek,synchronization,61,1,opponent,False,500,122.0
+DFL-OBJ-J01G3P,Konstantinos Koulierakis,anticipation,335,2,opponent,True,6573,50.97
+DFL-OBJ-J01G3P,Konstantinos Koulierakis,compactness,135,2,opponent,True,6573,20.54
+DFL-OBJ-J01G3P,Konstantinos Koulierakis,lpc,279,2,opponent,True,6573,42.45
+DFL-OBJ-J01G3P,Konstantinos Koulierakis,pos,18,2,opponent,True,6573,2.74
+DFL-OBJ-J01G3P,Konstantinos Koulierakis,pressure,54,2,opponent,True,6573,8.22
+DFL-OBJ-J01G3P,Konstantinos Koulierakis,synchronization,445,2,opponent,True,6573,67.7
+DFL-OBJ-J01G5D,Lorenz Assignon,anticipation,150,1,opponent,False,2533,59.22
+DFL-OBJ-J01G5D,Lorenz Assignon,compactness,221,1,opponent,False,2533,87.25
+DFL-OBJ-J01G5D,Lorenz Assignon,lpc,169,1,opponent,False,2533,66.72
+DFL-OBJ-J01G5D,Lorenz Assignon,pos,25,1,opponent,False,2533,9.87
+DFL-OBJ-J01G5D,Lorenz Assignon,pressure,40,1,opponent,False,2533,15.79
+DFL-OBJ-J01G5D,Lorenz Assignon,synchronization,338,1,opponent,False,2533,133.44
+DFL-OBJ-J01G82,Fabian Rieder,anticipation,850,2,opponent,True,5869,144.83
+DFL-OBJ-J01G82,Fabian Rieder,compactness,539,2,opponent,True,5869,91.84
+DFL-OBJ-J01G82,Fabian Rieder,lpc,712,2,opponent,True,5869,121.32
+DFL-OBJ-J01G82,Fabian Rieder,pos,244,2,opponent,True,5869,41.57
+DFL-OBJ-J01G82,Fabian Rieder,pressure,294,2,opponent,True,5869,50.09
+DFL-OBJ-J01G82,Fabian Rieder,synchronization,676,2,opponent,True,5869,115.18
+DFL-OBJ-J01GHT,Luca Kerber,anticipation,200,1,opponent,False,1583,126.34
+DFL-OBJ-J01GHT,Luca Kerber,compactness,17,1,opponent,False,1583,10.74
+DFL-OBJ-J01GHT,Luca Kerber,lpc,209,1,opponent,False,1583,132.03
+DFL-OBJ-J01GHT,Luca Kerber,pos,63,1,opponent,False,1583,39.8
+DFL-OBJ-J01GHT,Luca Kerber,pressure,75,1,opponent,False,1583,47.38
+DFL-OBJ-J01GHT,Luca Kerber,synchronization,233,1,opponent,False,1583,147.19
+DFL-OBJ-J01GQO,Danilho Raimundo Doekhi,anticipation,280,2,opponent,True,7237,38.69
+DFL-OBJ-J01GQO,Danilho Raimundo Doekhi,compactness,133,2,opponent,True,7237,18.38
+DFL-OBJ-J01GQO,Danilho Raimundo Doekhi,lpc,276,2,opponent,True,7237,38.14
+DFL-OBJ-J01GQO,Danilho Raimundo Doekhi,pos,31,2,opponent,True,7237,4.28
+DFL-OBJ-J01GQO,Danilho Raimundo Doekhi,pressure,113,2,opponent,True,7237,15.61
+DFL-OBJ-J01GQO,Danilho Raimundo Doekhi,synchronization,486,2,opponent,True,7237,67.15
+DFL-OBJ-J01GSF,Ísak Bergmann Jóhannesson,anticipation,555,2,opponent,True,5286,104.99
+DFL-OBJ-J01GSF,Ísak Bergmann Jóhannesson,compactness,293,2,opponent,True,5286,55.43
+DFL-OBJ-J01GSF,Ísak Bergmann Jóhannesson,lpc,544,2,opponent,True,5286,102.91
+DFL-OBJ-J01GSF,Ísak Bergmann Jóhannesson,pos,119,2,opponent,True,5286,22.51
+DFL-OBJ-J01GSF,Ísak Bergmann Jóhannesson,pressure,185,2,opponent,True,5286,35.0
+DFL-OBJ-J01GSF,Ísak Bergmann Jóhannesson,synchronization,598,2,opponent,True,5286,113.13
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,anticipation,361,1,opponent,False,2089,172.81
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,compactness,539,1,opponent,False,2089,258.02
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,lpc,306,1,opponent,False,2089,146.48
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,pos,124,1,opponent,False,2089,59.36
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,pressure,64,1,opponent,False,2089,30.64
+DFL-OBJ-J01GTD,Jesper Gränge Lindström,synchronization,219,1,opponent,False,2089,104.83
+DFL-OBJ-J01GUA,András Schäfer,anticipation,204,2,opponent,True,2020,100.99
+DFL-OBJ-J01GUA,András Schäfer,compactness,99,2,opponent,True,2020,49.01
+DFL-OBJ-J01GUA,András Schäfer,lpc,228,2,opponent,True,2020,112.87
+DFL-OBJ-J01GUA,András Schäfer,pos,45,2,opponent,True,2020,22.28
+DFL-OBJ-J01GUA,András Schäfer,pressure,63,2,opponent,True,2020,31.19
+DFL-OBJ-J01GUA,András Schäfer,synchronization,284,2,opponent,True,2020,140.59
+DFL-OBJ-J01HCH,Connor Isaac Metcalfe,anticipation,82,1,opponent,False,415,197.59
+DFL-OBJ-J01HCH,Connor Isaac Metcalfe,compactness,21,1,opponent,False,415,50.6
+DFL-OBJ-J01HCH,Connor Isaac Metcalfe,lpc,65,1,opponent,False,415,156.63
+DFL-OBJ-J01HCH,Connor Isaac Metcalfe,pos,30,1,opponent,False,415,72.29
+DFL-OBJ-J01HCH,Connor Isaac Metcalfe,pressure,19,1,opponent,False,415,45.78
+DFL-OBJ-J01HCH,Connor Isaac Metcalfe,synchronization,33,1,opponent,False,415,79.52
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,anticipation,57,1,opponent,False,1246,45.75
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,compactness,228,1,opponent,False,1246,182.99
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,lpc,64,1,opponent,False,1246,51.36
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,pos,12,1,opponent,False,1246,9.63
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,pressure,12,1,opponent,False,1246,9.63
+DFL-OBJ-J01IB2,Jordy Makengo Basambundu,synchronization,100,1,opponent,False,1246,80.26
+DFL-OBJ-J01IB3,Yannik Engelhardt,anticipation,228,1,opponent,False,3036,75.1
+DFL-OBJ-J01IB3,Yannik Engelhardt,compactness,10,1,opponent,False,3036,3.29
+DFL-OBJ-J01IB3,Yannik Engelhardt,lpc,305,1,opponent,False,3036,100.46
+DFL-OBJ-J01IB3,Yannik Engelhardt,pos,70,1,opponent,False,3036,23.06
+DFL-OBJ-J01IB3,Yannik Engelhardt,pressure,139,1,opponent,False,3036,45.78
+DFL-OBJ-J01IB3,Yannik Engelhardt,synchronization,280,1,opponent,False,3036,92.23
+DFL-OBJ-J01ISO,Elias Saad,anticipation,208,1,opponent,False,1058,196.6
+DFL-OBJ-J01ISO,Elias Saad,compactness,187,1,opponent,False,1058,176.75
+DFL-OBJ-J01ISO,Elias Saad,lpc,154,1,opponent,False,1058,145.56
+DFL-OBJ-J01ISO,Elias Saad,pos,78,1,opponent,False,1058,73.72
+DFL-OBJ-J01ISO,Elias Saad,pressure,65,1,opponent,False,1058,61.44
+DFL-OBJ-J01ISO,Elias Saad,synchronization,135,1,opponent,False,1058,127.6
+DFL-OBJ-J01JJJ,Fabio Cristian Chiarodia,anticipation,81,1,opponent,False,2239,36.18
+DFL-OBJ-J01JJJ,Fabio Cristian Chiarodia,compactness,65,1,opponent,False,2239,29.03
+DFL-OBJ-J01JJJ,Fabio Cristian Chiarodia,lpc,77,1,opponent,False,2239,34.39
+DFL-OBJ-J01JJJ,Fabio Cristian Chiarodia,pos,4,1,opponent,False,2239,1.79
+DFL-OBJ-J01JJJ,Fabio Cristian Chiarodia,pressure,16,1,opponent,False,2239,7.15
+DFL-OBJ-J01JJJ,Fabio Cristian Chiarodia,synchronization,243,1,opponent,False,2239,108.53
+DFL-OBJ-J01K2F,Tom Bischof,anticipation,41,1,opponent,False,724,56.63
+DFL-OBJ-J01K2F,Tom Bischof,compactness,6,1,opponent,False,724,8.29
+DFL-OBJ-J01K2F,Tom Bischof,lpc,33,1,opponent,False,724,45.58
+DFL-OBJ-J01K2F,Tom Bischof,pos,10,1,opponent,False,724,13.81
+DFL-OBJ-J01K2F,Tom Bischof,pressure,13,1,opponent,False,724,17.96
+DFL-OBJ-J01K2F,Tom Bischof,synchronization,87,1,opponent,False,724,120.17
+DFL-OBJ-J01K2X,Anton Kade,anticipation,706,2,opponent,True,5842,120.85
+DFL-OBJ-J01K2X,Anton Kade,compactness,998,2,opponent,True,5842,170.83
+DFL-OBJ-J01K2X,Anton Kade,lpc,643,2,opponent,True,5842,110.07
+DFL-OBJ-J01K2X,Anton Kade,pos,217,2,opponent,True,5842,37.14
+DFL-OBJ-J01K2X,Anton Kade,pressure,191,2,opponent,True,5842,32.69
+DFL-OBJ-J01K2X,Anton Kade,synchronization,514,2,opponent,True,5842,87.98
+DFL-OBJ-J01K33,Patrick Wimmer,anticipation,308,1,opponent,False,1326,232.28
+DFL-OBJ-J01K33,Patrick Wimmer,compactness,514,1,opponent,False,1326,387.63
+DFL-OBJ-J01K33,Patrick Wimmer,lpc,228,1,opponent,False,1326,171.95
+DFL-OBJ-J01K33,Patrick Wimmer,pos,107,1,opponent,False,1326,80.69
+DFL-OBJ-J01K33,Patrick Wimmer,pressure,72,1,opponent,False,1326,54.3
+DFL-OBJ-J01K33,Patrick Wimmer,synchronization,196,1,opponent,False,1326,147.81
+DFL-OBJ-J01K9O,Bence Dardai,anticipation,79,1,opponent,False,1317,59.98
+DFL-OBJ-J01K9O,Bence Dardai,compactness,2,1,opponent,False,1317,1.52
+DFL-OBJ-J01K9O,Bence Dardai,lpc,123,1,opponent,False,1317,93.39
+DFL-OBJ-J01K9O,Bence Dardai,pos,23,1,opponent,False,1317,17.46
+DFL-OBJ-J01K9O,Bence Dardai,pressure,52,1,opponent,False,1317,39.48
+DFL-OBJ-J01K9O,Bence Dardai,synchronization,108,1,opponent,False,1317,82.0
+DFL-OBJ-J01KA5,Max Moerstedt,anticipation,91,1,opponent,False,289,314.88
+DFL-OBJ-J01KA5,Max Moerstedt,compactness,38,1,opponent,False,289,131.49
+DFL-OBJ-J01KA5,Max Moerstedt,lpc,55,1,opponent,False,289,190.31
+DFL-OBJ-J01KA5,Max Moerstedt,pos,3,1,opponent,False,289,10.38
+DFL-OBJ-J01KA5,Max Moerstedt,pressure,6,1,opponent,False,289,20.76
+DFL-OBJ-J01KA5,Max Moerstedt,synchronization,52,1,opponent,False,289,179.93
+DFL-OBJ-J01KAH,Aleksandar Pavlović,anticipation,443,2,opponent,True,5308,83.46
+DFL-OBJ-J01KAH,Aleksandar Pavlović,compactness,135,2,opponent,True,5308,25.43
+DFL-OBJ-J01KAH,Aleksandar Pavlović,lpc,519,2,opponent,True,5308,97.78
+DFL-OBJ-J01KAH,Aleksandar Pavlović,pos,61,2,opponent,True,5308,11.49
+DFL-OBJ-J01KAH,Aleksandar Pavlović,pressure,147,2,opponent,True,5308,27.69
+DFL-OBJ-J01KAH,Aleksandar Pavlović,synchronization,550,2,opponent,True,5308,103.62
+DFL-OBJ-J01KAI,Tom Alexander Rothe,anticipation,77,1,opponent,False,928,82.97
+DFL-OBJ-J01KAI,Tom Alexander Rothe,compactness,165,1,opponent,False,928,177.8
+DFL-OBJ-J01KAI,Tom Alexander Rothe,lpc,69,1,opponent,False,928,74.35
+DFL-OBJ-J01KAI,Tom Alexander Rothe,pos,20,1,opponent,False,928,21.55
+DFL-OBJ-J01KAI,Tom Alexander Rothe,pressure,31,1,opponent,False,928,33.41
+DFL-OBJ-J01KAI,Tom Alexander Rothe,synchronization,94,1,opponent,False,928,101.29
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,anticipation,580,1,opponent,False,2432,238.49
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,compactness,465,1,opponent,False,2432,191.2
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,lpc,380,1,opponent,False,2432,156.25
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,pos,153,1,opponent,False,2432,62.91
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,pressure,111,1,opponent,False,2432,45.64
+DFL-OBJ-J01KAJ,Keke Maximilian Topp,synchronization,252,1,opponent,False,2432,103.62
+DFL-OBJ-J01KAL,Lukas Ullrich,anticipation,262,1,opponent,False,2238,117.07
+DFL-OBJ-J01KAL,Lukas Ullrich,compactness,410,1,opponent,False,2238,183.2
+DFL-OBJ-J01KAL,Lukas Ullrich,lpc,163,1,opponent,False,2238,72.83
+DFL-OBJ-J01KAL,Lukas Ullrich,pos,29,1,opponent,False,2238,12.96
+DFL-OBJ-J01KAL,Lukas Ullrich,pressure,48,1,opponent,False,2238,21.45
+DFL-OBJ-J01KAL,Lukas Ullrich,synchronization,167,1,opponent,False,2238,74.62
+DFL-OBJ-J01KAN,Forzan Assan Ouédraogo,anticipation,158,1,opponent,False,1726,91.54
+DFL-OBJ-J01KAN,Forzan Assan Ouédraogo,compactness,30,1,opponent,False,1726,17.38
+DFL-OBJ-J01KAN,Forzan Assan Ouédraogo,lpc,155,1,opponent,False,1726,89.8
+DFL-OBJ-J01KAN,Forzan Assan Ouédraogo,pos,46,1,opponent,False,1726,26.65
+DFL-OBJ-J01KAN,Forzan Assan Ouédraogo,pressure,61,1,opponent,False,1726,35.34
+DFL-OBJ-J01KAN,Forzan Assan Ouédraogo,synchronization,181,1,opponent,False,1726,104.87
+DFL-OBJ-J01KAS,Aaron Zehnter,anticipation,299,1,opponent,False,3420,87.43
+DFL-OBJ-J01KAS,Aaron Zehnter,compactness,421,1,opponent,False,3420,123.1
+DFL-OBJ-J01KAS,Aaron Zehnter,lpc,256,1,opponent,False,3420,74.85
+DFL-OBJ-J01KAS,Aaron Zehnter,pos,50,1,opponent,False,3420,14.62
+DFL-OBJ-J01KAS,Aaron Zehnter,pressure,102,1,opponent,False,3420,29.82
+DFL-OBJ-J01KAS,Aaron Zehnter,synchronization,343,1,opponent,False,3420,100.29
+DFL-OBJ-J01KEB,Dženan Pejčinović,anticipation,521,1,opponent,False,2336,223.03
+DFL-OBJ-J01KEB,Dženan Pejčinović,compactness,380,1,opponent,False,2336,162.67
+DFL-OBJ-J01KEB,Dženan Pejčinović,lpc,421,1,opponent,False,2336,180.22
+DFL-OBJ-J01KEB,Dženan Pejčinović,pos,122,1,opponent,False,2336,52.23
+DFL-OBJ-J01KEB,Dženan Pejčinović,pressure,119,1,opponent,False,2336,50.94
+DFL-OBJ-J01KEB,Dženan Pejčinović,synchronization,368,1,opponent,False,2336,157.53
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,anticipation,254,1,opponent,False,1106,229.66
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,compactness,212,1,opponent,False,1106,191.68
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,lpc,183,1,opponent,False,1106,165.46
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,pos,40,1,opponent,False,1106,36.17
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,pressure,56,1,opponent,False,1106,50.63
+DFL-OBJ-J01KEM,Nelson Felix Patrick Weiper,synchronization,152,1,opponent,False,1106,137.43
+DFL-OBJ-J01KEV,Mert Kömür,anticipation,477,1,opponent,False,2133,223.63
+DFL-OBJ-J01KEV,Mert Kömür,compactness,422,1,opponent,False,2133,197.84
+DFL-OBJ-J01KEV,Mert Kömür,lpc,399,1,opponent,False,2133,187.06
+DFL-OBJ-J01KEV,Mert Kömür,pos,180,1,opponent,False,2133,84.39
+DFL-OBJ-J01KEV,Mert Kömür,pressure,105,1,opponent,False,2133,49.23
+DFL-OBJ-J01KEV,Mert Kömür,synchronization,313,1,opponent,False,2133,146.74
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,anticipation,755,2,opponent,True,4489,168.19
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,compactness,706,2,opponent,True,4489,157.27
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,lpc,597,2,opponent,True,4489,132.99
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,pos,301,2,opponent,True,4489,67.05
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,pressure,231,2,opponent,True,4489,51.46
+DFL-OBJ-J01KK4,Antonio Eromonsele Nordby Nusa,synchronization,462,2,opponent,True,4489,102.92
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,anticipation,283,2,opponent,True,5669,49.92
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,compactness,313,2,opponent,True,5669,55.21
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,lpc,269,2,opponent,True,5669,47.45
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,pos,10,2,opponent,True,5669,1.76
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,pressure,83,2,opponent,True,5669,14.64
+DFL-OBJ-J01KLQ,Aurèle Florian Amenda,synchronization,581,2,opponent,True,5669,102.49
+DFL-OBJ-J01KLU,Nicolas Jackson,anticipation,254,1,opponent,False,1251,203.04
+DFL-OBJ-J01KLU,Nicolas Jackson,compactness,190,1,opponent,False,1251,151.88
+DFL-OBJ-J01KLU,Nicolas Jackson,lpc,188,1,opponent,False,1251,150.28
+DFL-OBJ-J01KLU,Nicolas Jackson,pos,37,1,opponent,False,1251,29.58
+DFL-OBJ-J01KLU,Nicolas Jackson,pressure,52,1,opponent,False,1251,41.57
+DFL-OBJ-J01KLU,Nicolas Jackson,synchronization,103,1,opponent,False,1251,82.33
+DFL-OBJ-J01KO9,Jarell Amorin Quansah,anticipation,320,2,opponent,True,5592,57.22
+DFL-OBJ-J01KO9,Jarell Amorin Quansah,compactness,391,2,opponent,True,5592,69.92
+DFL-OBJ-J01KO9,Jarell Amorin Quansah,lpc,348,2,opponent,True,5592,62.23
+DFL-OBJ-J01KO9,Jarell Amorin Quansah,pos,25,2,opponent,True,5592,4.47
+DFL-OBJ-J01KO9,Jarell Amorin Quansah,pressure,70,2,opponent,True,5592,12.52
+DFL-OBJ-J01KO9,Jarell Amorin Quansah,synchronization,525,2,opponent,True,5592,93.88
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,anticipation,352,2,opponent,True,4967,70.87
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,compactness,601,2,opponent,True,4967,121.0
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,lpc,313,2,opponent,True,4967,63.02
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,pos,52,2,opponent,True,4967,10.47
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,pressure,143,2,opponent,True,4967,28.79
+DFL-OBJ-J01KUJ,Arkadiusz Pyrka,synchronization,509,2,opponent,True,4967,102.48
+DFL-OBJ-J01L5I,Chrislain Iris Aurel Matsima,anticipation,146,1,opponent,False,3191,45.75
+DFL-OBJ-J01L5I,Chrislain Iris Aurel Matsima,compactness,39,1,opponent,False,3191,12.22
+DFL-OBJ-J01L5I,Chrislain Iris Aurel Matsima,lpc,123,1,opponent,False,3191,38.55
+DFL-OBJ-J01L5I,Chrislain Iris Aurel Matsima,pos,3,1,opponent,False,3191,0.94
+DFL-OBJ-J01L5I,Chrislain Iris Aurel Matsima,pressure,28,1,opponent,False,3191,8.77
+DFL-OBJ-J01L5I,Chrislain Iris Aurel Matsima,synchronization,247,1,opponent,False,3191,77.41
+DFL-OBJ-J01LB6,Youssoupha Niang,anticipation,179,1,opponent,False,1510,118.54
+DFL-OBJ-J01LB6,Youssoupha Niang,compactness,245,1,opponent,False,1510,162.25
+DFL-OBJ-J01LB6,Youssoupha Niang,lpc,154,1,opponent,False,1510,101.99
+DFL-OBJ-J01LB6,Youssoupha Niang,pos,52,1,opponent,False,1510,34.44
+DFL-OBJ-J01LB6,Youssoupha Niang,pressure,42,1,opponent,False,1510,27.81
+DFL-OBJ-J01LB6,Youssoupha Niang,synchronization,175,1,opponent,False,1510,115.89
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,anticipation,440,2,opponent,True,3487,126.18
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,compactness,357,2,opponent,True,3487,102.38
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,lpc,396,2,opponent,True,3487,113.56
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,pos,101,2,opponent,True,3487,28.96
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,pressure,125,2,opponent,True,3487,35.85
+DFL-OBJ-J01LMN,Can Yılmaz Uzun,synchronization,512,2,opponent,True,3487,146.83
+DFL-OBJ-J01LTJ,Elias Niklas Baum,anticipation,31,1,opponent,False,191,162.3
+DFL-OBJ-J01LTJ,Elias Niklas Baum,compactness,13,1,opponent,False,191,68.06
+DFL-OBJ-J01LTJ,Elias Niklas Baum,lpc,19,1,opponent,False,191,99.48
+DFL-OBJ-J01LTJ,Elias Niklas Baum,pos,1,1,opponent,False,191,5.24
+DFL-OBJ-J01LTJ,Elias Niklas Baum,pressure,7,1,opponent,False,191,36.65
+DFL-OBJ-J01LTJ,Elias Niklas Baum,synchronization,40,1,opponent,False,191,209.42
+DFL-OBJ-J01MZS,James Hoban Sands,anticipation,600,2,opponent,True,6194,96.87
+DFL-OBJ-J01MZS,James Hoban Sands,compactness,28,2,opponent,True,6194,4.52
+DFL-OBJ-J01MZS,James Hoban Sands,lpc,735,2,opponent,True,6194,118.66
+DFL-OBJ-J01MZS,James Hoban Sands,pos,163,2,opponent,True,6194,26.32
+DFL-OBJ-J01MZS,James Hoban Sands,pressure,326,2,opponent,True,6194,52.63
+DFL-OBJ-J01MZS,James Hoban Sands,synchronization,599,2,opponent,True,6194,96.71
+DFL-OBJ-J01N1P,Rodrigo Duarte Ribeiro,anticipation,40,1,opponent,False,463,86.39
+DFL-OBJ-J01N1P,Rodrigo Duarte Ribeiro,compactness,86,1,opponent,False,463,185.75
+DFL-OBJ-J01N1P,Rodrigo Duarte Ribeiro,lpc,41,1,opponent,False,463,88.55
+DFL-OBJ-J01N1P,Rodrigo Duarte Ribeiro,pos,13,1,opponent,False,463,28.08
+DFL-OBJ-J01N1P,Rodrigo Duarte Ribeiro,pressure,12,1,opponent,False,463,25.92
+DFL-OBJ-J01N1P,Rodrigo Duarte Ribeiro,synchronization,61,1,opponent,False,463,131.75
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,anticipation,166,1,opponent,False,1724,96.29
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,compactness,544,1,opponent,False,1724,315.55
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,lpc,143,1,opponent,False,1724,82.95
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,pos,56,1,opponent,False,1724,32.48
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,pressure,80,1,opponent,False,1724,46.4
+DFL-OBJ-J01N5L,Saint-Cyr Johan Bakayoko,synchronization,206,1,opponent,False,1724,119.49
+DFL-OBJ-J01N62,Badredine Bouanani,anticipation,370,1,opponent,False,2218,166.82
+DFL-OBJ-J01N62,Badredine Bouanani,compactness,472,1,opponent,False,2218,212.8
+DFL-OBJ-J01N62,Badredine Bouanani,lpc,330,1,opponent,False,2218,148.78
+DFL-OBJ-J01N62,Badredine Bouanani,pos,85,1,opponent,False,2218,38.32
+DFL-OBJ-J01N62,Badredine Bouanani,pressure,70,1,opponent,False,2218,31.56
+DFL-OBJ-J01N62,Badredine Bouanani,synchronization,226,1,opponent,False,2218,101.89
+DFL-OBJ-J01N8X,Rav Wiebe van den Berg,anticipation,89,1,opponent,False,2913,30.55
+DFL-OBJ-J01N8X,Rav Wiebe van den Berg,compactness,59,1,opponent,False,2913,20.25
+DFL-OBJ-J01N8X,Rav Wiebe van den Berg,lpc,123,1,opponent,False,2913,42.22
+DFL-OBJ-J01N8X,Rav Wiebe van den Berg,pos,3,1,opponent,False,2913,1.03
+DFL-OBJ-J01N8X,Rav Wiebe van den Berg,pressure,23,1,opponent,False,2913,7.9
+DFL-OBJ-J01N8X,Rav Wiebe van den Berg,synchronization,203,1,opponent,False,2913,69.69
+DFL-OBJ-J01NA3,Ernest Poku,anticipation,51,1,opponent,False,452,112.83
+DFL-OBJ-J01NA3,Ernest Poku,compactness,47,1,opponent,False,452,103.98
+DFL-OBJ-J01NA3,Ernest Poku,lpc,35,1,opponent,False,452,77.43
+DFL-OBJ-J01NA3,Ernest Poku,pos,9,1,opponent,False,452,19.91
+DFL-OBJ-J01NA3,Ernest Poku,pressure,8,1,opponent,False,452,17.7
+DFL-OBJ-J01NA3,Ernest Poku,synchronization,34,1,opponent,False,452,75.22
+DFL-OBJ-J01NAE,Jan Bürger,anticipation,169,1,opponent,False,2089,80.9
+DFL-OBJ-J01NAE,Jan Bürger,compactness,238,1,opponent,False,2089,113.93
+DFL-OBJ-J01NAE,Jan Bürger,lpc,134,1,opponent,False,2089,64.15
+DFL-OBJ-J01NAE,Jan Bürger,pos,33,1,opponent,False,2089,15.8
+DFL-OBJ-J01NAE,Jan Bürger,pressure,49,1,opponent,False,2089,23.46
+DFL-OBJ-J01NAE,Jan Bürger,synchronization,186,1,opponent,False,2089,89.04
+DFL-OBJ-J01NAG,Felipe Marlon Chávez Somocursio,anticipation,31,1,opponent,False,335,92.54
+DFL-OBJ-J01NAG,Felipe Marlon Chávez Somocursio,compactness,5,1,opponent,False,335,14.93
+DFL-OBJ-J01NAG,Felipe Marlon Chávez Somocursio,lpc,49,1,opponent,False,335,146.27
+DFL-OBJ-J01NAG,Felipe Marlon Chávez Somocursio,pos,21,1,opponent,False,335,62.69
+DFL-OBJ-J01NAG,Felipe Marlon Chávez Somocursio,pressure,18,1,opponent,False,335,53.73
+DFL-OBJ-J01NAG,Felipe Marlon Chávez Somocursio,synchronization,32,1,opponent,False,335,95.52
+DFL-OBJ-J01ND7,Brajan Gruda,anticipation,425,1,opponent,False,1750,242.86
+DFL-OBJ-J01ND7,Brajan Gruda,compactness,150,1,opponent,False,1750,85.71
+DFL-OBJ-J01ND7,Brajan Gruda,lpc,258,1,opponent,False,1750,147.43
+DFL-OBJ-J01ND7,Brajan Gruda,pos,64,1,opponent,False,1750,36.57
+DFL-OBJ-J01ND7,Brajan Gruda,pressure,62,1,opponent,False,1750,35.43
+DFL-OBJ-J01ND7,Brajan Gruda,synchronization,197,1,opponent,False,1750,112.57
+DFL-OBJ-J01ND9,Aljoscha Kemlein,anticipation,229,1,opponent,False,2974,77.0
+DFL-OBJ-J01ND9,Aljoscha Kemlein,lpc,294,1,opponent,False,2974,98.86
+DFL-OBJ-J01ND9,Aljoscha Kemlein,pos,52,1,opponent,False,2974,17.48
+DFL-OBJ-J01ND9,Aljoscha Kemlein,pressure,134,1,opponent,False,2974,45.06
+DFL-OBJ-J01ND9,Aljoscha Kemlein,synchronization,328,1,opponent,False,2974,110.29
+DFL-OBJ-J01NP1,Abdoul Karim Coulibaly,anticipation,393,2,opponent,True,6765,58.09
+DFL-OBJ-J01NP1,Abdoul Karim Coulibaly,compactness,128,2,opponent,True,6765,18.92
+DFL-OBJ-J01NP1,Abdoul Karim Coulibaly,lpc,281,2,opponent,True,6765,41.54
+DFL-OBJ-J01NP1,Abdoul Karim Coulibaly,pos,10,2,opponent,True,6765,1.48
+DFL-OBJ-J01NP1,Abdoul Karim Coulibaly,pressure,60,2,opponent,True,6765,8.87
+DFL-OBJ-J01NP1,Abdoul Karim Coulibaly,synchronization,516,2,opponent,True,6765,76.27
+DFL-OBJ-J01NU1,Samuel-Germain Kinduelu Mbangula Tshifunda,anticipation,8,1,opponent,False,206,38.83
+DFL-OBJ-J01NU1,Samuel-Germain Kinduelu Mbangula Tshifunda,compactness,46,1,opponent,False,206,223.3
+DFL-OBJ-J01NU1,Samuel-Germain Kinduelu Mbangula Tshifunda,lpc,22,1,opponent,False,206,106.8
+DFL-OBJ-J01NU1,Samuel-Germain Kinduelu Mbangula Tshifunda,pressure,5,1,opponent,False,206,24.27
+DFL-OBJ-J01NU1,Samuel-Germain Kinduelu Mbangula Tshifunda,synchronization,17,1,opponent,False,206,82.52
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,anticipation,168,1,opponent,False,3153,53.28
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,compactness,1099,1,opponent,False,3153,348.56
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,lpc,173,1,opponent,False,3153,54.87
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,pos,24,1,opponent,False,3153,7.61
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,pressure,61,1,opponent,False,3153,19.35
+DFL-OBJ-J01NZP,Jeanuël Merick Belocian,synchronization,267,1,opponent,False,3153,84.68
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,anticipation,159,1,opponent,False,3069,51.81
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,compactness,511,1,opponent,False,3069,166.5
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,lpc,146,1,opponent,False,3069,47.57
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,pos,38,1,opponent,False,3069,12.38
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,pressure,77,1,opponent,False,3069,25.09
+DFL-OBJ-J01NZR,Saël Kumbedi Kumbedi,synchronization,272,1,opponent,False,3069,88.63
+DFL-OBJ-J01O02,Ezechiel Banzuzi,anticipation,254,2,opponent,True,2089,121.59
+DFL-OBJ-J01O02,Ezechiel Banzuzi,compactness,16,2,opponent,True,2089,7.66
+DFL-OBJ-J01O02,Ezechiel Banzuzi,lpc,204,2,opponent,True,2089,97.65
+DFL-OBJ-J01O02,Ezechiel Banzuzi,pos,84,2,opponent,True,2089,40.21
+DFL-OBJ-J01O02,Ezechiel Banzuzi,pressure,108,2,opponent,True,2089,51.7
+DFL-OBJ-J01O02,Ezechiel Banzuzi,synchronization,191,2,opponent,True,2089,91.43
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,anticipation,285,2,opponent,True,3185,89.48
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,compactness,44,2,opponent,True,3185,13.81
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,lpc,389,2,opponent,True,3185,122.14
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,pos,78,2,opponent,True,3185,24.49
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,pressure,90,2,opponent,True,3185,28.26
+DFL-OBJ-J01OBQ,Oscar Winther Höjlund,synchronization,406,2,opponent,True,3185,127.47
+DFL-OBJ-J01OYI,Derry Lionel Scherhant,anticipation,61,1,opponent,False,847,72.02
+DFL-OBJ-J01OYI,Derry Lionel Scherhant,compactness,37,1,opponent,False,847,43.68
+DFL-OBJ-J01OYI,Derry Lionel Scherhant,lpc,75,1,opponent,False,847,88.55
+DFL-OBJ-J01OYI,Derry Lionel Scherhant,pos,11,1,opponent,False,847,12.99
+DFL-OBJ-J01OYI,Derry Lionel Scherhant,pressure,14,1,opponent,False,847,16.53
+DFL-OBJ-J01OYI,Derry Lionel Scherhant,synchronization,123,1,opponent,False,847,145.22
+DFL-OBJ-J01Q2V,Budu Zivzivadze,anticipation,115,1,opponent,False,925,124.32
+DFL-OBJ-J01Q2V,Budu Zivzivadze,compactness,20,1,opponent,False,925,21.62
+DFL-OBJ-J01Q2V,Budu Zivzivadze,lpc,101,1,opponent,False,925,109.19
+DFL-OBJ-J01Q2V,Budu Zivzivadze,pos,8,1,opponent,False,925,8.65
+DFL-OBJ-J01Q2V,Budu Zivzivadze,pressure,20,1,opponent,False,925,21.62
+DFL-OBJ-J01Q2V,Budu Zivzivadze,synchronization,67,1,opponent,False,925,72.43
+DFL-OBJ-J01QJA,Senne Maaike Lynen,anticipation,512,2,opponent,True,6765,75.68
+DFL-OBJ-J01QJA,Senne Maaike Lynen,compactness,38,2,opponent,True,6765,5.62
+DFL-OBJ-J01QJA,Senne Maaike Lynen,lpc,584,2,opponent,True,6765,86.33
+DFL-OBJ-J01QJA,Senne Maaike Lynen,pos,81,2,opponent,True,6765,11.97
+DFL-OBJ-J01QJA,Senne Maaike Lynen,pressure,229,2,opponent,True,6765,33.85
+DFL-OBJ-J01QJA,Senne Maaike Lynen,synchronization,655,2,opponent,True,6765,96.82
+DFL-OBJ-J01QPQ,Ibrahim Maza,anticipation,522,2,opponent,True,5377,97.08
+DFL-OBJ-J01QPQ,Ibrahim Maza,compactness,517,2,opponent,True,5377,96.15
+DFL-OBJ-J01QPQ,Ibrahim Maza,lpc,554,2,opponent,True,5377,103.03
+DFL-OBJ-J01QPQ,Ibrahim Maza,pos,178,2,opponent,True,5377,33.1
+DFL-OBJ-J01QPQ,Ibrahim Maza,pressure,199,2,opponent,True,5377,37.01
+DFL-OBJ-J01QPQ,Ibrahim Maza,synchronization,611,2,opponent,True,5377,113.63
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,anticipation,413,2,opponent,True,4087,101.05
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,compactness,1089,2,opponent,True,4087,266.45
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,lpc,307,2,opponent,True,4087,75.12
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,pos,88,2,opponent,True,4087,21.53
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,pressure,128,2,opponent,True,4087,31.32
+DFL-OBJ-J01QRR,Montrell Amare Culbreath,synchronization,436,2,opponent,True,4087,106.68
+DFL-OBJ-J01QVA,Shuto Machino,anticipation,141,2,opponent,True,642,219.63
+DFL-OBJ-J01QVA,Shuto Machino,compactness,220,2,opponent,True,642,342.68
+DFL-OBJ-J01QVA,Shuto Machino,lpc,135,2,opponent,True,642,210.28
+DFL-OBJ-J01QVA,Shuto Machino,pos,27,2,opponent,True,642,42.06
+DFL-OBJ-J01QVA,Shuto Machino,pressure,18,2,opponent,True,642,28.04
+DFL-OBJ-J01QVA,Shuto Machino,synchronization,91,2,opponent,True,642,141.74
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,anticipation,436,2,opponent,True,3066,142.2
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,compactness,434,2,opponent,True,3066,141.55
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,lpc,408,2,opponent,True,3066,133.07
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,pos,148,2,opponent,True,3066,48.27
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,pressure,97,2,opponent,True,3066,31.64
+DFL-OBJ-J01R3Q,Carney Chibueze Chukwuemeka,synchronization,352,2,opponent,True,3066,114.81
+DFL-OBJ-J01R3R,Michael Akpovie Olise,anticipation,691,2,opponent,True,5308,130.18
+DFL-OBJ-J01R3R,Michael Akpovie Olise,compactness,1126,2,opponent,True,5308,212.13
+DFL-OBJ-J01R3R,Michael Akpovie Olise,lpc,625,2,opponent,True,5308,117.75
+DFL-OBJ-J01R3R,Michael Akpovie Olise,pos,186,2,opponent,True,5308,35.04
+DFL-OBJ-J01R3R,Michael Akpovie Olise,pressure,171,2,opponent,True,5308,32.22
+DFL-OBJ-J01R3R,Michael Akpovie Olise,synchronization,618,2,opponent,True,5308,116.43
+DFL-OBJ-J01R6O,Kacper Potulski,anticipation,116,1,opponent,False,3337,34.76
+DFL-OBJ-J01R6O,Kacper Potulski,compactness,122,1,opponent,False,3337,36.56
+DFL-OBJ-J01R6O,Kacper Potulski,lpc,210,1,opponent,False,3337,62.93
+DFL-OBJ-J01R6O,Kacper Potulski,pos,3,1,opponent,False,3337,0.9
+DFL-OBJ-J01R6O,Kacper Potulski,pressure,24,1,opponent,False,3337,7.19
+DFL-OBJ-J01R6O,Kacper Potulski,synchronization,230,1,opponent,False,3337,68.92
+DFL-OBJ-J01RF2,Bilal El Khannouss,anticipation,418,2,opponent,True,3144,132.95
+DFL-OBJ-J01RF2,Bilal El Khannouss,compactness,393,2,opponent,True,3144,125.0
+DFL-OBJ-J01RF2,Bilal El Khannouss,lpc,411,2,opponent,True,3144,130.73
+DFL-OBJ-J01RF2,Bilal El Khannouss,pos,100,2,opponent,True,3144,31.81
+DFL-OBJ-J01RF2,Bilal El Khannouss,pressure,103,2,opponent,True,3144,32.76
+DFL-OBJ-J01RF2,Bilal El Khannouss,synchronization,426,2,opponent,True,3144,135.5
+DFL-OBJ-J01RKL,Joel Chima Fujita,anticipation,1136,2,opponent,True,6194,183.4
+DFL-OBJ-J01RKL,Joel Chima Fujita,compactness,938,2,opponent,True,6194,151.44
+DFL-OBJ-J01RKL,Joel Chima Fujita,lpc,800,2,opponent,True,6194,129.16
+DFL-OBJ-J01RKL,Joel Chima Fujita,pos,376,2,opponent,True,6194,60.7
+DFL-OBJ-J01RKL,Joel Chima Fujita,pressure,318,2,opponent,True,6194,51.34
+DFL-OBJ-J01RKL,Joel Chima Fujita,synchronization,697,2,opponent,True,6194,112.53
+DFL-OBJ-J01S1Y,Hennes Behrens,anticipation,127,1,opponent,False,3158,40.22
+DFL-OBJ-J01S1Y,Hennes Behrens,compactness,565,1,opponent,False,3158,178.91
+DFL-OBJ-J01S1Y,Hennes Behrens,lpc,162,1,opponent,False,3158,51.3
+DFL-OBJ-J01S1Y,Hennes Behrens,pos,20,1,opponent,False,3158,6.33
+DFL-OBJ-J01S1Y,Hennes Behrens,pressure,50,1,opponent,False,3158,15.83
+DFL-OBJ-J01S1Y,Hennes Behrens,synchronization,289,1,opponent,False,3158,91.51
+DFL-OBJ-J01SZZ,Moritz Jenz,anticipation,81,1,opponent,False,2581,31.38
+DFL-OBJ-J01SZZ,Moritz Jenz,compactness,52,1,opponent,False,2581,20.15
+DFL-OBJ-J01SZZ,Moritz Jenz,lpc,79,1,opponent,False,2581,30.61
+DFL-OBJ-J01SZZ,Moritz Jenz,pos,6,1,opponent,False,2581,2.32
+DFL-OBJ-J01SZZ,Moritz Jenz,pressure,20,1,opponent,False,2581,7.75
+DFL-OBJ-J01SZZ,Moritz Jenz,synchronization,135,1,opponent,False,2581,52.31
+DFL-OBJ-J01T26,Alexander Prass,anticipation,94,2,opponent,True,1434,65.55
+DFL-OBJ-J01T26,Alexander Prass,compactness,194,2,opponent,True,1434,135.29
+DFL-OBJ-J01T26,Alexander Prass,lpc,131,2,opponent,True,1434,91.35
+DFL-OBJ-J01T26,Alexander Prass,pos,30,2,opponent,True,1434,20.92
+DFL-OBJ-J01T26,Alexander Prass,pressure,47,2,opponent,True,1434,32.78
+DFL-OBJ-J01T26,Alexander Prass,synchronization,205,2,opponent,True,1434,142.96
+DFL-OBJ-J01T3R,Cenk Özkacar,anticipation,274,2,opponent,True,6340,43.22
+DFL-OBJ-J01T3R,Cenk Özkacar,compactness,199,2,opponent,True,6340,31.39
+DFL-OBJ-J01T3R,Cenk Özkacar,lpc,260,2,opponent,True,6340,41.01
+DFL-OBJ-J01T3R,Cenk Özkacar,pos,8,2,opponent,True,6340,1.26
+DFL-OBJ-J01T3R,Cenk Özkacar,pressure,50,2,opponent,True,6340,7.89
+DFL-OBJ-J01T3R,Cenk Özkacar,synchronization,570,2,opponent,True,6340,89.91
+DFL-OBJ-J01TL9,Victor Okoh Boniface,anticipation,98,1,opponent,False,474,206.75
+DFL-OBJ-J01TL9,Victor Okoh Boniface,compactness,47,1,opponent,False,474,99.16
+DFL-OBJ-J01TL9,Victor Okoh Boniface,lpc,64,1,opponent,False,474,135.02
+DFL-OBJ-J01TL9,Victor Okoh Boniface,pos,20,1,opponent,False,474,42.19
+DFL-OBJ-J01TL9,Victor Okoh Boniface,pressure,10,1,opponent,False,474,21.1
+DFL-OBJ-J01TL9,Victor Okoh Boniface,synchronization,51,1,opponent,False,474,107.59
+DFL-OBJ-J01TMV,Robin Hranáč,anticipation,232,2,opponent,True,4225,54.91
+DFL-OBJ-J01TMV,Robin Hranáč,compactness,145,2,opponent,True,4225,34.32
+DFL-OBJ-J01TMV,Robin Hranáč,lpc,225,2,opponent,True,4225,53.25
+DFL-OBJ-J01TMV,Robin Hranáč,pos,9,2,opponent,True,4225,2.13
+DFL-OBJ-J01TMV,Robin Hranáč,pressure,72,2,opponent,True,4225,17.04
+DFL-OBJ-J01TMV,Robin Hranáč,synchronization,361,2,opponent,True,4225,85.44
+DFL-OBJ-J01TOE,Valentin Andres Stanislas Gendrey,anticipation,56,1,opponent,False,290,193.1
+DFL-OBJ-J01TOE,Valentin Andres Stanislas Gendrey,compactness,51,1,opponent,False,290,175.86
+DFL-OBJ-J01TOE,Valentin Andres Stanislas Gendrey,lpc,20,1,opponent,False,290,68.97
+DFL-OBJ-J01TOE,Valentin Andres Stanislas Gendrey,pos,1,1,opponent,False,290,3.45
+DFL-OBJ-J01TOE,Valentin Andres Stanislas Gendrey,pressure,8,1,opponent,False,290,27.59
+DFL-OBJ-J01TOE,Valentin Andres Stanislas Gendrey,synchronization,56,1,opponent,False,290,193.1
+DFL-OBJ-J01TOV,Yuito Suzuki,anticipation,530,1,opponent,False,2829,187.35
+DFL-OBJ-J01TOV,Yuito Suzuki,compactness,168,1,opponent,False,2829,59.38
+DFL-OBJ-J01TOV,Yuito Suzuki,lpc,506,1,opponent,False,2829,178.86
+DFL-OBJ-J01TOV,Yuito Suzuki,pos,111,1,opponent,False,2829,39.24
+DFL-OBJ-J01TOV,Yuito Suzuki,pressure,121,1,opponent,False,2829,42.77
+DFL-OBJ-J01TOV,Yuito Suzuki,synchronization,285,1,opponent,False,2829,100.74
+DFL-OBJ-J01TPA,Jean-Mattéo Bahoya Négoce,anticipation,243,2,opponent,True,2477,98.1
+DFL-OBJ-J01TPA,Jean-Mattéo Bahoya Négoce,compactness,174,2,opponent,True,2477,70.25
+DFL-OBJ-J01TPA,Jean-Mattéo Bahoya Négoce,lpc,243,2,opponent,True,2477,98.1
+DFL-OBJ-J01TPA,Jean-Mattéo Bahoya Négoce,pos,78,2,opponent,True,2477,31.49
+DFL-OBJ-J01TPA,Jean-Mattéo Bahoya Négoce,pressure,90,2,opponent,True,2477,36.33
+DFL-OBJ-J01TPA,Jean-Mattéo Bahoya Négoce,synchronization,233,2,opponent,True,2477,94.07
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,anticipation,138,1,opponent,False,2399,57.52
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,compactness,273,1,opponent,False,2399,113.8
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,lpc,85,1,opponent,False,2399,35.43
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,pos,5,1,opponent,False,2399,2.08
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,pressure,29,1,opponent,False,2399,12.09
+DFL-OBJ-J01TQX,Ameen Al-Dakhil,synchronization,190,1,opponent,False,2399,79.2
+DFL-OBJ-J01TR0,Olivier Deman,anticipation,161,1,opponent,False,3431,46.93
+DFL-OBJ-J01TR0,Olivier Deman,compactness,467,1,opponent,False,3431,136.11
+DFL-OBJ-J01TR0,Olivier Deman,lpc,225,1,opponent,False,3431,65.58
+DFL-OBJ-J01TR0,Olivier Deman,pos,34,1,opponent,False,3431,9.91
+DFL-OBJ-J01TR0,Olivier Deman,pressure,73,1,opponent,False,3431,21.28
+DFL-OBJ-J01TR0,Olivier Deman,synchronization,478,1,opponent,False,3431,139.32
+DFL-OBJ-J01U0S,Tidiam Diadie Stephan Gomis,anticipation,93,1,opponent,False,828,112.32
+DFL-OBJ-J01U0S,Tidiam Diadie Stephan Gomis,compactness,173,1,opponent,False,828,208.94
+DFL-OBJ-J01U0S,Tidiam Diadie Stephan Gomis,lpc,118,1,opponent,False,828,142.51
+DFL-OBJ-J01U0S,Tidiam Diadie Stephan Gomis,pos,37,1,opponent,False,828,44.69
+DFL-OBJ-J01U0S,Tidiam Diadie Stephan Gomis,pressure,38,1,opponent,False,828,45.89
+DFL-OBJ-J01U0S,Tidiam Diadie Stephan Gomis,synchronization,113,1,opponent,False,828,136.47
+DFL-OBJ-J01U5H,Lazar Jovanović,anticipation,35,1,opponent,False,181,193.37
+DFL-OBJ-J01U5H,Lazar Jovanović,compactness,3,1,opponent,False,181,16.57
+DFL-OBJ-J01U5H,Lazar Jovanović,lpc,44,1,opponent,False,181,243.09
+DFL-OBJ-J01U5H,Lazar Jovanović,pos,6,1,opponent,False,181,33.15
+DFL-OBJ-J01U5H,Lazar Jovanović,pressure,4,1,opponent,False,181,22.1
+DFL-OBJ-J01U5H,Lazar Jovanović,synchronization,23,1,opponent,False,181,127.07
+DFL-OBJ-J01U8K,Adam Daghim,anticipation,530,2,opponent,True,4484,118.2
+DFL-OBJ-J01U8K,Adam Daghim,compactness,671,2,opponent,True,4484,149.64
+DFL-OBJ-J01U8K,Adam Daghim,lpc,461,2,opponent,True,4484,102.81
+DFL-OBJ-J01U8K,Adam Daghim,pos,128,2,opponent,True,4484,28.55
+DFL-OBJ-J01U8K,Adam Daghim,pressure,133,2,opponent,True,4484,29.66
+DFL-OBJ-J01U8K,Adam Daghim,synchronization,685,2,opponent,True,4484,152.77
+DFL-OBJ-J01U8L,Conrad Harder Weibel Schandorf,anticipation,88,2,opponent,True,294,299.32
+DFL-OBJ-J01U8L,Conrad Harder Weibel Schandorf,compactness,52,2,opponent,True,294,176.87
+DFL-OBJ-J01U8L,Conrad Harder Weibel Schandorf,lpc,107,2,opponent,True,294,363.95
+DFL-OBJ-J01U8L,Conrad Harder Weibel Schandorf,pos,27,2,opponent,True,294,91.84
+DFL-OBJ-J01U8L,Conrad Harder Weibel Schandorf,pressure,15,2,opponent,True,294,51.02
+DFL-OBJ-J01U8L,Conrad Harder Weibel Schandorf,synchronization,102,2,opponent,True,294,346.94
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,anticipation,271,2,opponent,True,2582,104.96
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,compactness,349,2,opponent,True,2582,135.17
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,lpc,146,2,opponent,True,2582,56.55
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,pos,11,2,opponent,True,2582,4.26
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,pressure,60,2,opponent,True,2582,23.24
+DFL-OBJ-J01UCR,Sebastian Söraas Sebulonsen,synchronization,224,2,opponent,True,2582,86.75
+DFL-OBJ-J01UD5,Lennart Karl,anticipation,382,2,opponent,True,2042,187.07
+DFL-OBJ-J01UD5,Lennart Karl,compactness,358,2,opponent,True,2042,175.32
+DFL-OBJ-J01UD5,Lennart Karl,lpc,305,2,opponent,True,2042,149.36
+DFL-OBJ-J01UD5,Lennart Karl,pos,103,2,opponent,True,2042,50.44
+DFL-OBJ-J01UD5,Lennart Karl,pressure,79,2,opponent,True,2042,38.69
+DFL-OBJ-J01UD5,Lennart Karl,synchronization,195,2,opponent,True,2042,95.49
+DFL-OBJ-J01UNL,Arthur Augusto de Matos Soares,anticipation,65,1,opponent,False,1053,61.73
+DFL-OBJ-J01UNL,Arthur Augusto de Matos Soares,compactness,154,1,opponent,False,1053,146.25
+DFL-OBJ-J01UNL,Arthur Augusto de Matos Soares,lpc,70,1,opponent,False,1053,66.48
+DFL-OBJ-J01UNL,Arthur Augusto de Matos Soares,pos,20,1,opponent,False,1053,18.99
+DFL-OBJ-J01UNL,Arthur Augusto de Matos Soares,pressure,36,1,opponent,False,1053,34.19
+DFL-OBJ-J01UNL,Arthur Augusto de Matos Soares,synchronization,140,1,opponent,False,1053,132.95
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,anticipation,382,2,opponent,True,5370,71.14
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,compactness,70,2,opponent,True,5370,13.04
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,lpc,501,2,opponent,True,5370,93.3
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,pos,82,2,opponent,True,5370,15.27
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,pressure,181,2,opponent,True,5370,33.71
+DFL-OBJ-J01UP1,Jobe Samuel Patrick Bellingham,synchronization,363,2,opponent,True,5370,67.6
+DFL-OBJ-J01US3,Eliesse Ben Seghir,anticipation,56,1,opponent,False,1053,53.18
+DFL-OBJ-J01US3,Eliesse Ben Seghir,compactness,360,1,opponent,False,1053,341.88
+DFL-OBJ-J01US3,Eliesse Ben Seghir,lpc,58,1,opponent,False,1053,55.08
+DFL-OBJ-J01US3,Eliesse Ben Seghir,pos,38,1,opponent,False,1053,36.09
+DFL-OBJ-J01US3,Eliesse Ben Seghir,pressure,31,1,opponent,False,1053,29.44
+DFL-OBJ-J01US3,Eliesse Ben Seghir,synchronization,90,1,opponent,False,1053,85.47
+DFL-OBJ-J01UYY,Kōta Takai,anticipation,20,1,opponent,False,373,53.62
+DFL-OBJ-J01UYY,Kōta Takai,compactness,13,1,opponent,False,373,34.85
+DFL-OBJ-J01UYY,Kōta Takai,lpc,16,1,opponent,False,373,42.9
+DFL-OBJ-J01UYY,Kōta Takai,pos,1,1,opponent,False,373,2.68
+DFL-OBJ-J01UYY,Kōta Takai,pressure,10,1,opponent,False,373,26.81
+DFL-OBJ-J01UYY,Kōta Takai,synchronization,16,1,opponent,False,373,42.9
+DFL-OBJ-J01VX4,Hugo Emanuel Larsson,anticipation,329,2,opponent,True,4400,74.77
+DFL-OBJ-J01VX4,Hugo Emanuel Larsson,compactness,178,2,opponent,True,4400,40.45
+DFL-OBJ-J01VX4,Hugo Emanuel Larsson,lpc,426,2,opponent,True,4400,96.82
+DFL-OBJ-J01VX4,Hugo Emanuel Larsson,pos,63,2,opponent,True,4400,14.32
+DFL-OBJ-J01VX4,Hugo Emanuel Larsson,pressure,168,2,opponent,True,4400,38.18
+DFL-OBJ-J01VX4,Hugo Emanuel Larsson,synchronization,430,2,opponent,True,4400,97.73
+DFL-OBJ-J01VYC,Livan Baha Burcu,anticipation,157,1,opponent,False,1074,146.18
+DFL-OBJ-J01VYC,Livan Baha Burcu,compactness,68,1,opponent,False,1074,63.31
+DFL-OBJ-J01VYC,Livan Baha Burcu,lpc,89,1,opponent,False,1074,82.87
+DFL-OBJ-J01VYC,Livan Baha Burcu,pos,55,1,opponent,False,1074,51.21
+DFL-OBJ-J01VYC,Livan Baha Burcu,pressure,58,1,opponent,False,1074,54.0
+DFL-OBJ-J01VYC,Livan Baha Burcu,synchronization,111,1,opponent,False,1074,103.35
+DFL-OBJ-J01VZA,Jovan Milošević,anticipation,435,1,opponent,False,1848,235.39
+DFL-OBJ-J01VZA,Jovan Milošević,compactness,292,1,opponent,False,1848,158.01
+DFL-OBJ-J01VZA,Jovan Milošević,lpc,315,1,opponent,False,1848,170.45
+DFL-OBJ-J01VZA,Jovan Milošević,pos,92,1,opponent,False,1848,49.78
+DFL-OBJ-J01VZA,Jovan Milošević,pressure,62,1,opponent,False,1848,33.55
+DFL-OBJ-J01VZA,Jovan Milošević,synchronization,227,1,opponent,False,1848,122.84
+DFL-OBJ-J01W5Q,Louis Oppie,anticipation,324,2,opponent,True,6194,52.31
+DFL-OBJ-J01W5Q,Louis Oppie,compactness,1290,2,opponent,True,6194,208.27
+DFL-OBJ-J01W5Q,Louis Oppie,lpc,290,2,opponent,True,6194,46.82
+DFL-OBJ-J01W5Q,Louis Oppie,pos,43,2,opponent,True,6194,6.94
+DFL-OBJ-J01W5Q,Louis Oppie,pressure,95,2,opponent,True,6194,15.34
+DFL-OBJ-J01W5Q,Louis Oppie,synchronization,582,2,opponent,True,6194,93.96
+DFL-OBJ-J01WS3,Ilyas Ansah,anticipation,1228,2,opponent,True,5646,217.5
+DFL-OBJ-J01WS3,Ilyas Ansah,compactness,415,2,opponent,True,5646,73.5
+DFL-OBJ-J01WS3,Ilyas Ansah,lpc,926,2,opponent,True,5646,164.01
+DFL-OBJ-J01WS3,Ilyas Ansah,pos,477,2,opponent,True,5646,84.48
+DFL-OBJ-J01WS3,Ilyas Ansah,pressure,351,2,opponent,True,5646,62.17
+DFL-OBJ-J01WS3,Ilyas Ansah,synchronization,558,2,opponent,True,5646,98.83
+DFL-OBJ-J01WX3,Johan Manzambi,anticipation,430,2,opponent,True,4375,98.29
+DFL-OBJ-J01WX3,Johan Manzambi,compactness,134,2,opponent,True,4375,30.63
+DFL-OBJ-J01WX3,Johan Manzambi,lpc,434,2,opponent,True,4375,99.2
+DFL-OBJ-J01WX3,Johan Manzambi,pos,95,2,opponent,True,4375,21.71
+DFL-OBJ-J01WX3,Johan Manzambi,pressure,148,2,opponent,True,4375,33.83
+DFL-OBJ-J01WX3,Johan Manzambi,synchronization,391,2,opponent,True,4375,89.37
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,anticipation,169,1,opponent,False,2119,79.75
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,compactness,152,1,opponent,False,2119,71.73
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,lpc,64,1,opponent,False,2119,30.2
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,pos,7,1,opponent,False,2119,3.3
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,pressure,17,1,opponent,False,2119,8.02
+DFL-OBJ-J01XA7,Bruno Ifechukwu Ogbus,synchronization,215,1,opponent,False,2119,101.46
+DFL-OBJ-J01XEE,Farès Chaïbi,anticipation,125,1,opponent,False,1016,123.03
+DFL-OBJ-J01XEE,Farès Chaïbi,compactness,85,1,opponent,False,1016,83.66
+DFL-OBJ-J01XEE,Farès Chaïbi,lpc,118,1,opponent,False,1016,116.14
+DFL-OBJ-J01XEE,Farès Chaïbi,pos,18,1,opponent,False,1016,17.72
+DFL-OBJ-J01XEE,Farès Chaïbi,pressure,48,1,opponent,False,1016,47.24
+DFL-OBJ-J01XEE,Farès Chaïbi,synchronization,104,1,opponent,False,1016,102.36
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,anticipation,567,2,opponent,True,6340,89.43
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,compactness,814,2,opponent,True,6340,128.39
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,lpc,486,2,opponent,True,6340,76.66
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,pos,66,2,opponent,True,6340,10.41
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,pressure,175,2,opponent,True,6340,27.6
+DFL-OBJ-J01XHG,Kristoffer Lund Hansen,synchronization,685,2,opponent,True,6340,108.04
+DFL-OBJ-J01XKB,William Cole Campbell,anticipation,37,1,opponent,False,287,128.92
+DFL-OBJ-J01XKB,William Cole Campbell,compactness,114,1,opponent,False,287,397.21
+DFL-OBJ-J01XKB,William Cole Campbell,lpc,48,1,opponent,False,287,167.25
+DFL-OBJ-J01XKB,William Cole Campbell,pos,5,1,opponent,False,287,17.42
+DFL-OBJ-J01XKB,William Cole Campbell,pressure,8,1,opponent,False,287,27.87
+DFL-OBJ-J01XKB,William Cole Campbell,synchronization,32,1,opponent,False,287,111.5
+DFL-OBJ-J01YBZ,Noahkai Dominic Banks,anticipation,143,1,opponent,False,3191,44.81
+DFL-OBJ-J01YBZ,Noahkai Dominic Banks,compactness,476,1,opponent,False,3191,149.17
+DFL-OBJ-J01YBZ,Noahkai Dominic Banks,lpc,147,1,opponent,False,3191,46.07
+DFL-OBJ-J01YBZ,Noahkai Dominic Banks,pos,15,1,opponent,False,3191,4.7
+DFL-OBJ-J01YBZ,Noahkai Dominic Banks,pressure,50,1,opponent,False,3191,15.67
+DFL-OBJ-J01YBZ,Noahkai Dominic Banks,synchronization,317,1,opponent,False,3191,99.34
+DFL-OBJ-J01ZQD,Saïd El Mala,anticipation,645,2,opponent,True,3283,196.47
+DFL-OBJ-J01ZQD,Saïd El Mala,compactness,635,2,opponent,True,3283,193.42
+DFL-OBJ-J01ZQD,Saïd El Mala,lpc,394,2,opponent,True,3283,120.01
+DFL-OBJ-J01ZQD,Saïd El Mala,pos,201,2,opponent,True,3283,61.22
+DFL-OBJ-J01ZQD,Saïd El Mala,pressure,143,2,opponent,True,3283,43.56
+DFL-OBJ-J01ZQD,Saïd El Mala,synchronization,351,2,opponent,True,3283,106.91
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,anticipation,883,2,opponent,True,6291,140.36
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,compactness,883,2,opponent,True,6291,140.36
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,lpc,884,2,opponent,True,6291,140.52
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,pos,239,2,opponent,True,6291,37.99
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,pressure,259,2,opponent,True,6291,41.17
+DFL-OBJ-J0208Z,Cameron Mitchel Puertas Castro,synchronization,666,2,opponent,True,6291,105.87
+DFL-OBJ-J020ID,Luca Reggiani,anticipation,52,1,opponent,False,1424,36.52
+DFL-OBJ-J020ID,Luca Reggiani,compactness,93,1,opponent,False,1424,65.31
+DFL-OBJ-J020ID,Luca Reggiani,lpc,46,1,opponent,False,1424,32.3
+DFL-OBJ-J020ID,Luca Reggiani,pos,6,1,opponent,False,1424,4.21
+DFL-OBJ-J020ID,Luca Reggiani,pressure,18,1,opponent,False,1424,12.64
+DFL-OBJ-J020ID,Luca Reggiani,synchronization,114,1,opponent,False,1424,80.06
+DFL-OBJ-J020KQ,Leopold Querfeld,anticipation,332,2,opponent,True,7237,45.88
+DFL-OBJ-J020KQ,Leopold Querfeld,compactness,70,2,opponent,True,7237,9.67
+DFL-OBJ-J020KQ,Leopold Querfeld,lpc,348,2,opponent,True,7237,48.09
+DFL-OBJ-J020KQ,Leopold Querfeld,pos,17,2,opponent,True,7237,2.35
+DFL-OBJ-J020KQ,Leopold Querfeld,pressure,112,2,opponent,True,7237,15.48
+DFL-OBJ-J020KQ,Leopold Querfeld,synchronization,416,2,opponent,True,7237,57.48
+DFL-OBJ-J020YN,Marco Grüll,anticipation,537,2,opponent,True,4711,113.99
+DFL-OBJ-J020YN,Marco Grüll,compactness,543,2,opponent,True,4711,115.26
+DFL-OBJ-J020YN,Marco Grüll,lpc,523,2,opponent,True,4711,111.02
+DFL-OBJ-J020YN,Marco Grüll,pos,163,2,opponent,True,4711,34.6
+DFL-OBJ-J020YN,Marco Grüll,pressure,116,2,opponent,True,4711,24.62
+DFL-OBJ-J020YN,Marco Grüll,synchronization,455,2,opponent,True,4711,96.58
+DFL-OBJ-J02110,Albian Hajdari,anticipation,285,2,opponent,True,5723,49.8
+DFL-OBJ-J02110,Albian Hajdari,compactness,747,2,opponent,True,5723,130.53
+DFL-OBJ-J02110,Albian Hajdari,lpc,271,2,opponent,True,5723,47.35
+DFL-OBJ-J02110,Albian Hajdari,pos,29,2,opponent,True,5723,5.07
+DFL-OBJ-J02110,Albian Hajdari,pressure,72,2,opponent,True,5723,12.58
+DFL-OBJ-J02110,Albian Hajdari,synchronization,492,2,opponent,True,5723,85.97
+DFL-OBJ-J021AR,Martijn Kaars,anticipation,485,2,opponent,True,2334,207.8
+DFL-OBJ-J021AR,Martijn Kaars,compactness,559,2,opponent,True,2334,239.5
+DFL-OBJ-J021AR,Martijn Kaars,lpc,496,2,opponent,True,2334,212.51
+DFL-OBJ-J021AR,Martijn Kaars,pos,239,2,opponent,True,2334,102.4
+DFL-OBJ-J021AR,Martijn Kaars,pressure,128,2,opponent,True,2334,54.84
+DFL-OBJ-J021AR,Martijn Kaars,synchronization,430,2,opponent,True,2334,184.23
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,anticipation,91,2,opponent,True,1746,52.12
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,compactness,287,2,opponent,True,1746,164.38
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,lpc,87,2,opponent,True,1746,49.83
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,pos,20,2,opponent,True,1746,11.45
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,pressure,32,2,opponent,True,1746,18.33
+DFL-OBJ-J021B9,Nikolas Konrad Veratschnig,synchronization,174,2,opponent,True,1746,99.66
+DFL-OBJ-J021EE,Kaishu Sano,anticipation,415,2,opponent,True,5730,72.43
+DFL-OBJ-J021EE,Kaishu Sano,compactness,11,2,opponent,True,5730,1.92
+DFL-OBJ-J021EE,Kaishu Sano,lpc,545,2,opponent,True,5730,95.11
+DFL-OBJ-J021EE,Kaishu Sano,pos,92,2,opponent,True,5730,16.06
+DFL-OBJ-J021EE,Kaishu Sano,pressure,183,2,opponent,True,5730,31.94
+DFL-OBJ-J021EE,Kaishu Sano,synchronization,479,2,opponent,True,5730,83.6
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,anticipation,580,2,opponent,True,3158,183.66
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,compactness,671,2,opponent,True,3158,212.48
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,lpc,450,2,opponent,True,3158,142.5
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,pos,178,2,opponent,True,3158,56.36
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,pressure,127,2,opponent,True,3158,40.22
+DFL-OBJ-J021ET,Mohamed El Amine Amoura,synchronization,308,2,opponent,True,3158,97.53
+DFL-OBJ-J021YE,Arthur Largura Chaves,anticipation,164,1,opponent,False,3114,52.67
+DFL-OBJ-J021YE,Arthur Largura Chaves,compactness,120,1,opponent,False,3114,38.54
+DFL-OBJ-J021YE,Arthur Largura Chaves,lpc,176,1,opponent,False,3114,56.52
+DFL-OBJ-J021YE,Arthur Largura Chaves,pos,13,1,opponent,False,3114,4.17
+DFL-OBJ-J021YE,Arthur Largura Chaves,pressure,48,1,opponent,False,3114,15.41
+DFL-OBJ-J021YE,Arthur Largura Chaves,synchronization,297,1,opponent,False,3114,95.38
+DFL-OBJ-J021ZE,Andrej Ilić,anticipation,1529,2,opponent,True,7237,211.28
+DFL-OBJ-J021ZE,Andrej Ilić,compactness,1700,2,opponent,True,7237,234.9
+DFL-OBJ-J021ZE,Andrej Ilić,lpc,1159,2,opponent,True,7237,160.15
+DFL-OBJ-J021ZE,Andrej Ilić,pos,512,2,opponent,True,7237,70.75
+DFL-OBJ-J021ZE,Andrej Ilić,pressure,349,2,opponent,True,7237,48.22
+DFL-OBJ-J021ZE,Andrej Ilić,synchronization,867,2,opponent,True,7237,119.8
+DFL-OBJ-J0231Z,Bazoumana Toure,anticipation,513,2,opponent,True,4563,112.43
+DFL-OBJ-J0231Z,Bazoumana Toure,compactness,996,2,opponent,True,4563,218.28
+DFL-OBJ-J0231Z,Bazoumana Toure,lpc,458,2,opponent,True,4563,100.37
+DFL-OBJ-J0231Z,Bazoumana Toure,pos,145,2,opponent,True,4563,31.78
+DFL-OBJ-J0231Z,Bazoumana Toure,pressure,131,2,opponent,True,4563,28.71
+DFL-OBJ-J0231Z,Bazoumana Toure,synchronization,448,2,opponent,True,4563,98.18
+DFL-OBJ-J02324,Daniel Jonathan Svensson,anticipation,341,2,opponent,True,4527,75.33
+DFL-OBJ-J02324,Daniel Jonathan Svensson,compactness,695,2,opponent,True,4527,153.52
+DFL-OBJ-J02324,Daniel Jonathan Svensson,lpc,347,2,opponent,True,4527,76.65
+DFL-OBJ-J02324,Daniel Jonathan Svensson,pos,74,2,opponent,True,4527,16.35
+DFL-OBJ-J02324,Daniel Jonathan Svensson,pressure,153,2,opponent,True,4527,33.8
+DFL-OBJ-J02324,Daniel Jonathan Svensson,synchronization,531,2,opponent,True,4527,117.3
+DFL-OBJ-J0244R,Ricky-Jade Jones,anticipation,357,1,opponent,False,1640,217.68
+DFL-OBJ-J0244R,Ricky-Jade Jones,compactness,442,1,opponent,False,1640,269.51
+DFL-OBJ-J0244R,Ricky-Jade Jones,lpc,273,1,opponent,False,1640,166.46
+DFL-OBJ-J0244R,Ricky-Jade Jones,pos,127,1,opponent,False,1640,77.44
+DFL-OBJ-J0244R,Ricky-Jade Jones,pressure,66,1,opponent,False,1640,40.24
+DFL-OBJ-J0244R,Ricky-Jade Jones,synchronization,233,1,opponent,False,1640,142.07
+DFL-OBJ-J0244U,Ayoube Amaimouni-Echghouyab,anticipation,58,1,opponent,False,612,94.77
+DFL-OBJ-J0244U,Ayoube Amaimouni-Echghouyab,compactness,63,1,opponent,False,612,102.94
+DFL-OBJ-J0244U,Ayoube Amaimouni-Echghouyab,lpc,59,1,opponent,False,612,96.41
+DFL-OBJ-J0244U,Ayoube Amaimouni-Echghouyab,pos,3,1,opponent,False,612,4.9
+DFL-OBJ-J0244U,Ayoube Amaimouni-Echghouyab,pressure,7,1,opponent,False,612,11.44
+DFL-OBJ-J0244U,Ayoube Amaimouni-Echghouyab,synchronization,72,1,opponent,False,612,117.65
+DFL-OBJ-J0244Y,Leon Avdullahu,anticipation,457,2,opponent,True,5723,79.85
+DFL-OBJ-J0244Y,Leon Avdullahu,compactness,74,2,opponent,True,5723,12.93
+DFL-OBJ-J0244Y,Leon Avdullahu,lpc,511,2,opponent,True,5723,89.29
+DFL-OBJ-J0244Y,Leon Avdullahu,pos,61,2,opponent,True,5723,10.66
+DFL-OBJ-J0244Y,Leon Avdullahu,pressure,168,2,opponent,True,5723,29.36
+DFL-OBJ-J0244Y,Leon Avdullahu,synchronization,502,2,opponent,True,5723,87.72
+DFL-OBJ-J0244Z,Adam Kölle,anticipation,46,1,opponent,False,562,81.85
+DFL-OBJ-J0244Z,Adam Kölle,lpc,59,1,opponent,False,562,104.98
+DFL-OBJ-J0244Z,Adam Kölle,pos,7,1,opponent,False,562,12.46
+DFL-OBJ-J0244Z,Adam Kölle,pressure,17,1,opponent,False,562,30.25
+DFL-OBJ-J0244Z,Adam Kölle,synchronization,59,1,opponent,False,562,104.98
+DFL-OBJ-J02452,Mathias Pereira Lage,anticipation,677,2,opponent,True,4815,140.6
+DFL-OBJ-J02452,Mathias Pereira Lage,compactness,622,2,opponent,True,4815,129.18
+DFL-OBJ-J02452,Mathias Pereira Lage,lpc,697,2,opponent,True,4815,144.76
+DFL-OBJ-J02452,Mathias Pereira Lage,pos,224,2,opponent,True,4815,46.52
+DFL-OBJ-J02452,Mathias Pereira Lage,pressure,200,2,opponent,True,4815,41.54
+DFL-OBJ-J02452,Mathias Pereira Lage,synchronization,602,2,opponent,True,4815,125.03
+DFL-OBJ-J02471,Vinicius de Souza Costa,anticipation,333,2,opponent,True,5256,63.36
+DFL-OBJ-J02471,Vinicius de Souza Costa,compactness,35,2,opponent,True,5256,6.66
+DFL-OBJ-J02471,Vinicius de Souza Costa,lpc,406,2,opponent,True,5256,77.25
+DFL-OBJ-J02471,Vinicius de Souza Costa,pos,42,2,opponent,True,5256,7.99
+DFL-OBJ-J02471,Vinicius de Souza Costa,pressure,168,2,opponent,True,5256,31.96
+DFL-OBJ-J02471,Vinicius de Souza Costa,synchronization,540,2,opponent,True,5256,102.74
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,anticipation,404,1,opponent,False,2220,181.98
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,compactness,398,1,opponent,False,2220,179.28
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,lpc,363,1,opponent,False,2220,163.51
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,pos,124,1,opponent,False,2220,55.86
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,pressure,115,1,opponent,False,2220,51.8
+DFL-OBJ-J0248A,Andréas William Edwin Hountondji,synchronization,395,1,opponent,False,2220,177.93
+DFL-OBJ-J024A2,Christian Michel Kofane,anticipation,619,1,opponent,False,2683,230.71
+DFL-OBJ-J024A2,Christian Michel Kofane,compactness,464,1,opponent,False,2683,172.94
+DFL-OBJ-J024A2,Christian Michel Kofane,lpc,398,1,opponent,False,2683,148.34
+DFL-OBJ-J024A2,Christian Michel Kofane,pos,88,1,opponent,False,2683,32.8
+DFL-OBJ-J024A2,Christian Michel Kofane,pressure,76,1,opponent,False,2683,28.33
+DFL-OBJ-J024A2,Christian Michel Kofane,synchronization,297,1,opponent,False,2683,110.7
+DFL-OBJ-J024CC,Yan Diomande,anticipation,385,2,opponent,True,3593,107.15
+DFL-OBJ-J024CC,Yan Diomande,compactness,1003,2,opponent,True,3593,279.15
+DFL-OBJ-J024CC,Yan Diomande,lpc,369,2,opponent,True,3593,102.7
+DFL-OBJ-J024CC,Yan Diomande,pos,111,2,opponent,True,3593,30.89
+DFL-OBJ-J024CC,Yan Diomande,pressure,120,2,opponent,True,3593,33.4
+DFL-OBJ-J024CC,Yan Diomande,synchronization,419,2,opponent,True,3593,116.62
+DFL-OBJ-J024FD,José María Andrés Baixauli,anticipation,418,2,opponent,True,4405,94.89
+DFL-OBJ-J024FD,José María Andrés Baixauli,compactness,23,2,opponent,True,4405,5.22
+DFL-OBJ-J024FD,José María Andrés Baixauli,lpc,481,2,opponent,True,4405,109.19
+DFL-OBJ-J024FD,José María Andrés Baixauli,pos,59,2,opponent,True,4405,13.39
+DFL-OBJ-J024FD,José María Andrés Baixauli,pressure,135,2,opponent,True,4405,30.65
+DFL-OBJ-J024FD,José María Andrés Baixauli,synchronization,418,2,opponent,True,4405,94.89
+DFL-OBJ-J024J2,Aarón Anselmino,anticipation,14,1,opponent,False,254,55.12
+DFL-OBJ-J024J2,Aarón Anselmino,lpc,15,1,opponent,False,254,59.06
+DFL-OBJ-J024J2,Aarón Anselmino,pos,3,1,opponent,False,254,11.81
+DFL-OBJ-J024J2,Aarón Anselmino,pressure,6,1,opponent,False,254,23.62
+DFL-OBJ-J024J2,Aarón Anselmino,synchronization,24,1,opponent,False,254,94.49
+DFL-OBJ-J024K2,Yannik Wagner,anticipation,53,1,opponent,False,562,94.31
+DFL-OBJ-J024K2,Yannik Wagner,compactness,98,1,opponent,False,562,174.38
+DFL-OBJ-J024K2,Yannik Wagner,lpc,58,1,opponent,False,562,103.2
+DFL-OBJ-J024K2,Yannik Wagner,pos,15,1,opponent,False,562,26.69
+DFL-OBJ-J024K2,Yannik Wagner,pressure,24,1,opponent,False,562,42.7
+DFL-OBJ-J024K2,Yannik Wagner,synchronization,67,1,opponent,False,562,119.22
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,anticipation,1007,2,opponent,True,5261,191.41
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,compactness,865,2,opponent,True,5261,164.42
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,lpc,976,2,opponent,True,5261,185.52
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,pos,361,2,opponent,True,5261,68.62
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,pressure,264,2,opponent,True,5261,50.18
+DFL-OBJ-J024LV,Rômulo José Cardoso da Cruz,synchronization,870,2,opponent,True,5261,165.37
+DFL-OBJ-J024SS,Ignacio Ezequiel Agustín Fernández Carballo,anticipation,21,1,opponent,False,215,97.67
+DFL-OBJ-J024SS,Ignacio Ezequiel Agustín Fernández Carballo,compactness,10,1,opponent,False,215,46.51
+DFL-OBJ-J024SS,Ignacio Ezequiel Agustín Fernández Carballo,lpc,31,1,opponent,False,215,144.19
+DFL-OBJ-J024SS,Ignacio Ezequiel Agustín Fernández Carballo,pos,9,1,opponent,False,215,41.86
+DFL-OBJ-J024SS,Ignacio Ezequiel Agustín Fernández Carballo,pressure,9,1,opponent,False,215,41.86
+DFL-OBJ-J024SS,Ignacio Ezequiel Agustín Fernández Carballo,synchronization,46,1,opponent,False,215,213.95
+DFL-OBJ-J024SW,Jenson Seelt,anticipation,199,1,opponent,False,3420,58.19
+DFL-OBJ-J024SW,Jenson Seelt,compactness,27,1,opponent,False,3420,7.89
+DFL-OBJ-J024SW,Jenson Seelt,lpc,143,1,opponent,False,3420,41.81
+DFL-OBJ-J024SW,Jenson Seelt,pos,5,1,opponent,False,3420,1.46
+DFL-OBJ-J024SW,Jenson Seelt,pressure,25,1,opponent,False,3420,7.31
+DFL-OBJ-J024SW,Jenson Seelt,synchronization,246,1,opponent,False,3420,71.93
+DFL-OBJ-J0257J,Jeremy Alberto Arévalo Mera,anticipation,46,1,opponent,False,214,214.95
+DFL-OBJ-J0257J,Jeremy Alberto Arévalo Mera,compactness,10,1,opponent,False,214,46.73
+DFL-OBJ-J0257J,Jeremy Alberto Arévalo Mera,lpc,40,1,opponent,False,214,186.92
+DFL-OBJ-J0257J,Jeremy Alberto Arévalo Mera,pos,11,1,opponent,False,214,51.4
+DFL-OBJ-J0257J,Jeremy Alberto Arévalo Mera,pressure,15,1,opponent,False,214,70.09
+DFL-OBJ-J0257J,Jeremy Alberto Arévalo Mera,synchronization,15,1,opponent,False,214,70.09
+DFL-OBJ-J0258E,Kento Shiogai,anticipation,210,1,opponent,False,817,257.04
+DFL-OBJ-J0258E,Kento Shiogai,compactness,77,1,opponent,False,817,94.25
+DFL-OBJ-J0258E,Kento Shiogai,lpc,121,1,opponent,False,817,148.1
+DFL-OBJ-J0258E,Kento Shiogai,pos,48,1,opponent,False,817,58.75
+DFL-OBJ-J0258E,Kento Shiogai,pressure,30,1,opponent,False,817,36.72
+DFL-OBJ-J0258E,Kento Shiogai,synchronization,87,1,opponent,False,817,106.49
+DFL-OBJ-J0259C,Uchenna Ogundu,anticipation,4,1,opponent,False,157,25.48
+DFL-OBJ-J0259C,Uchenna Ogundu,compactness,26,1,opponent,False,157,165.61
+DFL-OBJ-J0259C,Uchenna Ogundu,lpc,8,1,opponent,False,157,50.96
+DFL-OBJ-J0259C,Uchenna Ogundu,pressure,2,1,opponent,False,157,12.74
+DFL-OBJ-J0259C,Uchenna Ogundu,synchronization,20,1,opponent,False,157,127.39
+DFL-OBJ-J0259D,Jonas Adjei Adjetey,anticipation,141,1,opponent,False,3153,44.72
+DFL-OBJ-J0259D,Jonas Adjei Adjetey,compactness,157,1,opponent,False,3153,49.79
+DFL-OBJ-J0259D,Jonas Adjei Adjetey,lpc,229,1,opponent,False,3153,72.63
+DFL-OBJ-J0259D,Jonas Adjei Adjetey,pos,28,1,opponent,False,3153,8.88
+DFL-OBJ-J0259D,Jonas Adjei Adjetey,pressure,61,1,opponent,False,3153,19.35
+DFL-OBJ-J0259D,Jonas Adjei Adjetey,synchronization,351,1,opponent,False,3153,111.32

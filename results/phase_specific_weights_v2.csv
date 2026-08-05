@@ -1,0 +1,31 @@
+phase,metric,weight
+pooled (reference),pressure,0.14790107861300203
+pooled (reference),compactness,0.20469982549201357
+pooled (reference),lpc,0.13566764822375593
+pooled (reference),pos,0.19035170245080849
+pooled (reference),anticipation,0.22858784538732044
+pooled (reference),synchronization,0.09279189983309952
+high_press,pressure,0.16278558620340244
+high_press,compactness,0.201057655865115
+high_press,lpc,0.13431523712509655
+high_press,pos,0.18315776822889315
+high_press,anticipation,0.23397382523651492
+high_press,synchronization,0.08470992734097799
+mid_press,pressure,0.15527132404947555
+mid_press,compactness,0.18600980218050683
+mid_press,lpc,0.13046505001872352
+mid_press,pos,0.18897579053898703
+mid_press,anticipation,0.23194830269461558
+mid_press,synchronization,0.10732973051769144
+low_press,pressure,0.14741810431594563
+low_press,compactness,0.20118316499236139
+low_press,lpc,0.15971152676922817
+low_press,pos,0.16453331411304958
+low_press,anticipation,0.22697318072563943
+low_press,synchronization,0.10018070908377587
+transition,pressure,0.1681303955389302
+transition,compactness,0.12265813591618462
+transition,lpc,0.12971371782001717
+transition,pos,0.21244616900873387
+transition,anticipation,0.2384914976003353
+transition,synchronization,0.12856008411579883
