@@ -25,11 +25,10 @@ with st.expander("6 attempts before this was trustworthy: what changed each time
            *more* tied to pitch zone than TPR was.
         4. **The actual fix: control for ROLE, not position.** A striker's zone and a center-back's zone
            aren't just spatially different, they're categorically different jobs. Grouping into 8 broad
-           roles from StatsBomb's own Starting XI data brought the correlation to **-0.107**, effectively
-           resolved.
+           roles brought the correlation to **-0.123**, effectively resolved.
         """
     )
-    st.caption("Residual: within-role position correlation isn't fully zero for every role (Full Back -0.53, Center Back -0.37); smaller than the original confound by a wide margin, but real.")
+    st.caption("Residual: within-role position correlation isn't fully zero for every role (Full Back -0.62, Center Back -0.40); smaller than the original confound by a wide margin, but real.")
 
 df = load_csv("opponent_playmaker_impact_role_controlled_summary.csv")
 min_touches = st.slider("Minimum touches", 5, 50, 15)
@@ -40,17 +39,26 @@ role_filter = st.selectbox("Filter by role", roles)
 if role_filter != "All":
     confident = confident[confident["role"] == role_filter]
 
+# Fixed role -> color mapping, not color_discrete_sequence's default cycling: the two charts
+# below show different top-12 subsets of players, so with a plain sequence, plotly assigns
+# colors by each role's own order-of-first-appearance PER CHART, not by role identity -- found
+# to actually paint "Defensive Mid" pink on the left chart and green on the right, "Full Back"
+# gold on the left and pink on the right, the exact same role in two different colors depending
+# on which chart you're looking at. A fixed map keeps every role's color identical everywhere.
+ALL_ROLES = ["Goalkeeper", "Center Back", "Full Back", "Defensive Mid", "Central Mid", "Attacking Mid", "Winger", "Forward"]
+ROLE_COLORS = dict(zip(ALL_ROLES, CATEGORICAL_SEQUENCE))
+
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("**Most pressed relative to same-role peers**")
     most_pressed = confident.sort_values("role_adjusted_dist").head(12)
-    fig = px.bar(most_pressed.sort_values("role_adjusted_dist", ascending=False), x="role_adjusted_dist", y="player_name", orientation="h", color="role", color_discrete_sequence=CATEGORICAL_SEQUENCE, labels={"role_adjusted_dist": "m vs. role baseline", "player_name": ""})
+    fig = px.bar(most_pressed.sort_values("role_adjusted_dist", ascending=False), x="role_adjusted_dist", y="player_name", orientation="h", color="role", color_discrete_map=ROLE_COLORS, labels={"role_adjusted_dist": "m vs. role baseline", "player_name": ""})
     fig.update_layout(height=420)
     st.plotly_chart(fig, width="stretch")
 with col2:
     st.markdown("**Most space relative to same-role peers**")
     most_space = confident.sort_values("role_adjusted_dist", ascending=False).head(12)
-    fig = px.bar(most_space.sort_values("role_adjusted_dist"), x="role_adjusted_dist", y="player_name", orientation="h", color="role", color_discrete_sequence=CATEGORICAL_SEQUENCE, labels={"role_adjusted_dist": "m vs. role baseline", "player_name": ""})
+    fig = px.bar(most_space.sort_values("role_adjusted_dist"), x="role_adjusted_dist", y="player_name", orientation="h", color="role", color_discrete_map=ROLE_COLORS, labels={"role_adjusted_dist": "m vs. role baseline", "player_name": ""})
     fig.update_layout(height=420)
     st.plotly_chart(fig, width="stretch")
 

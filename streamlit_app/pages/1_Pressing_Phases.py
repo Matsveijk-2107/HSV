@@ -52,11 +52,16 @@ st.error(
     "real conceded chances, that's exactly when it hurts."
 )
 
+# Labels kept short on purpose: at common laptop widths (1280-1440px) the original longer
+# labels pushed the 4th tab's right edge past the viewport entirely, off-screen with only a
+# small scroll arrow hinting more tabs existed -- confirmed with a real headless-browser
+# measurement, not assumed. The full framing for each tab lives in the markdown/warning boxes
+# right below it, so shortening the label loses no information, just the redundant restating of it.
 tab1, tab2, tab3, tab4 = st.tabs([
-    "What Actually Causes It, by Phase",
-    "How Much Each Dimension Varies (NOT importance)",
-    "Who's the Problem, by Phase",
-    "Season Pooled (Methodology & Robustness)",
+    "What Causes It, by Phase",
+    "Variance by Dimension (Not Cause)",
+    "Who's the Problem",
+    "Season Pooled (Methodology)",
 ])
 
 with tab1:

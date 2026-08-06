@@ -5,6 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import plotly.graph_objects as go
 import streamlit as st
+from scipy.stats import linregress
 from utils import CRITICAL_COLOR, DIMENSION_LABELS, LOGO_PATH, VALIDATED_COLOR, load_csv, page_header
 
 # Every number on this page is read from an already-validated result CSV used elsewhere in this
@@ -57,15 +58,41 @@ with col1:
     sync_players = load_csv("synchronization_attribution_hsv_players.csv")
     sync_players["confident"] = (sync_players["times_responsible"] >= 5) & (sync_players["matches"] >= 3)
     top_sync = sync_players[sync_players["confident"]].sort_values("times_responsible", ascending=False).iloc[0]
-    st.metric(top_sync["player_name"], f"{int(top_sync['times_responsible'])} times responsible", f"{int(top_sync['matches'])} matches, corroborated by the independent Weakness Finder method")
-    st.caption("See **Synchronization Attribution** for the full list and the per-frame visual spot-checks.")
+    # Metric value and delta both kept short: st.metric truncates both lines with a hard
+    # ellipsis past a certain width, not just the value -- found here first with a longer
+    # descriptive delta ("responsible; 20 matches, corroborated by the independent...", clipped),
+    # confirmed again on the Best Defender / Weakness Finder tiles below. Descriptive phrasing
+    # moves into the existing caption underneath instead, which wraps normally across lines.
+    st.metric(top_sync["player_name"], f"{int(top_sync['times_responsible'])} times", f"{int(top_sync['matches'])} matches")
+    st.caption(
+        "Responsible for the most flagged breakdowns, corroborated by the independent Weakness "
+        "Finder method. See **Synchronization Attribution** for the full list and the per-frame "
+        "visual spot-checks."
+    )
 with col2:
     st.markdown("**Most consistently well-positioned**")
     best_players = load_csv("best_defender_summary_hsv_players.csv")
     best_players["confident"] = (best_players["times_best"] >= 10) & (best_players["matches"] >= 3)
     top_best = best_players[best_players["confident"]].sort_values("times_best", ascending=False).iloc[0]
-    st.metric(top_best["player_name"], f"{int(top_best['times_best'])} times closest to the block", f"{int(top_best['matches'])} matches, +{top_best['diff_m']:.1f}m tighter than their own normal positioning")
-    st.caption("See **Best Defender**. Note some players (e.g. high-minutes starters) appear on both this list and the flagged list above, for different moments. That's a real pattern, not a contradiction.")
+    st.metric(top_best["player_name"], f"{int(top_best['times_best'])} times", f"{int(top_best['matches'])} matches, +{top_best['diff_m']:.1f}m")
+    st.caption(
+        "Closest to the block most often, and genuinely tighter than their own normal "
+        "positioning. See **Best Defender**. Note some players (e.g. high-minutes starters) "
+        "appear on both this list and the flagged list above, for different moments. That's a "
+        "real pattern, not a contradiction."
+    )
+
+st.markdown("### Is pressing trending up or down over the season?")
+trend = load_csv("season_trend_by_matchday.csv")
+tpr_trend = linregress(trend["matchday"], trend["avg_tpr"])
+sync_trend = linregress(trend["matchday"], trend["avg_synchronization"])
+tc1, tc2 = st.columns(2)
+tc1.metric("TPR across all 34 matchdays", f"r = {tpr_trend.rvalue:.3f}", f"p = {tpr_trend.pvalue:.3f} (not significant)", delta_color="off")
+tc2.metric("Synchronization across all 34 matchdays", f"r = {sync_trend.rvalue:.3f}", f"p = {sync_trend.pvalue:.3f} (not significant)", delta_color="off")
+st.caption(
+    "Flat, not trending either way: neither dimension shows a statistically significant "
+    "change over the season. See **Season Patterns** (Season Trend tab) for the full chart, by matchday."
+)
 
 st.markdown("### A concrete, coachable cue")
 triggers = load_csv("missed_press_trigger_events.csv")
@@ -83,7 +110,7 @@ st.caption(
 
 st.markdown("---")
 st.markdown("### Go deeper")
-nc1, nc2, nc3 = st.columns(3)
+nc1, nc2, nc3, nc4 = st.columns(4)
 with nc1:
     with st.container(border=True):
         st.markdown(
@@ -106,6 +133,13 @@ with nc3:
             "- Opponent Playmaker Impact\n"
             "- Match Explorer\n"
             "- Visual Examples"
+        )
+with nc4:
+    with st.container(border=True):
+        st.markdown(
+            "**Season & situation**\n\n"
+            "- Season Patterns\n"
+            "- Restarts, Triggers & Recovery"
         )
 
 st.caption(

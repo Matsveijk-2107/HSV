@@ -19,9 +19,12 @@ page_header(
 
 baseline_tpr = load_app_csv("overall_baseline_tpr.csv")["overall_baseline_tpr"].iloc[0]
 
+# Labels kept short on purpose: the original longer labels pushed this 4-tab bar's right edge
+# past common laptop viewport widths (1280-1440px), confirmed with a real headless-browser
+# measurement. Full framing for each tab is in its own markdown text just below.
 tab1, tab2, tab3, tab4 = st.tabs([
-    "Restart Pressing (corners/throw-ins/goal kicks)",
-    "Missed-Press-Trigger (backpass to keeper)",
+    "Restart Pressing",
+    "Missed-Press-Trigger",
     "Does TPR Predict Recovery?",
     "HSV vs. Opponent Recovery Speed",
 ])

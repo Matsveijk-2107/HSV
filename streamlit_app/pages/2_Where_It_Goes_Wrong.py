@@ -23,7 +23,10 @@ st.error(
     "Synchronization has passed the actual causal test."
 )
 
-tab1, tab2, tab3 = st.tabs(["Validated: Which Dimension Actually Causes It (HSV vs. Opponents)", "Team Profile: Strong vs. Weak Dimensions", "Per-Player: Which Dimension, By Player"])
+# Labels kept short on purpose: the original longer labels pushed this 3-tab bar's right edge
+# past common laptop viewport widths (1280-1440px), confirmed with a real headless-browser
+# measurement. Full framing for each tab is in its own markdown text just below.
+tab1, tab2, tab3 = st.tabs(["Validated Cause (HSV vs. Opponents)", "Team Profile: Strengths & Weaknesses", "Per-Player Breakdown"])
 
 with tab1:
     st.markdown(

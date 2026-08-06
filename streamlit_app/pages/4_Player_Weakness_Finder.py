@@ -44,9 +44,18 @@ if not confident.empty:
     biggest_gap = confident.iloc[0]
     most_flagged = confident.sort_values("times_flagged", ascending=False).iloc[0]
     c1, c2, c3 = st.columns(3)
-    c1.metric("Most flagged (confident tier)", most_flagged["player_name"], f"{int(most_flagged['times_flagged'])} times, {int(most_flagged['matches'])} matches")
+    # Player name as the metric's label, not its value: st.metric's value line doesn't wrap and
+    # hard-truncates with an ellipsis on longer names; the label line wraps cleanly instead, and
+    # stays safe regardless of name length (see the identical fix on Best Defender). Category
+    # framing moved to its own caption above the tile: with 3 narrow columns, the delta line
+    # truncated too once it also had to carry that framing.
+    with c1:
+        st.caption("Most flagged (confident tier)")
+        st.metric(most_flagged["player_name"], f"{int(most_flagged['times_flagged'])} times", f"{int(most_flagged['matches'])} matches", delta_color="off")
     c2.metric("Its diff_m", f"{most_flagged['diff_m']:+.1f} m", "vs. their own normal positioning", delta_color="off")
-    c3.metric("Largest diff_m (confident tier)", biggest_gap["player_name"], f"{biggest_gap['diff_m']:+.1f} m over {int(biggest_gap['times_flagged'])} flags", delta_color="off")
+    with c3:
+        st.caption("Largest diff_m (confident tier)")
+        st.metric(biggest_gap["player_name"], f"{biggest_gap['diff_m']:+.1f} m", f"over {int(biggest_gap['times_flagged'])} flags", delta_color="off")
 
 st.markdown("#### Confident-tier players: volume vs. genuine effect")
 st.caption("Read this as a gradient, not a hard cutoff: top-right (high flags, high diff_m) are the strongest findings. Bottom-right (high flags, low diff_m) means frequently flagged but not actually worse than their own normal positioning, just their normal role.")

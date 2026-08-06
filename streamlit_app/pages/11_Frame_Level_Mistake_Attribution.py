@@ -7,7 +7,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-from utils import DIMENSIONS, DIMENSION_LABELS, HSV_COLOR, LOGO_PATH, OPPONENT_COLOR, page_header
+from utils import DIMENSIONS, DIMENSION_LABELS, HSV_COLOR, LOGO_PATH, OPPONENT_COLOR, download_csv_button, page_header
 
 # This page's data lives in the same results/ directory as the rest of the
 # app (dimension_mistake_attribution.py / aggregate_dimension_mistakes.py),
@@ -110,12 +110,11 @@ else:
 
 tab1, tab2 = st.tabs(["Confident", "Exploratory (below confidence bar)"])
 with tab1:
-    st.dataframe(
-        confident[["player_name", "mistakes_per_1000_frames", "times_flagged", "matches"]].rename(
-            columns={"player_name": "Player", "mistakes_per_1000_frames": "Rate /1000 frames", "times_flagged": "Times flagged", "matches": "Matches"}
-        ),
-        hide_index=True, width="stretch",
+    confident_table = confident[["player_name", "mistakes_per_1000_frames", "times_flagged", "matches"]].rename(
+        columns={"player_name": "Player", "mistakes_per_1000_frames": "Rate /1000 frames", "times_flagged": "Times flagged", "matches": "Matches"}
     )
+    st.dataframe(confident_table, hide_index=True, width="stretch")
+    download_csv_button(confident_table, "Download confident-tier table (CSV)", f"frame_level_mistakes_{side_key}_{dim}.csv")
 with tab2:
     st.caption("Real data, smaller sample: treat as suggestive, not confirmed.")
     st.dataframe(
