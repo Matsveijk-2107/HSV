@@ -19,7 +19,7 @@ with st.expander("6 attempts before this was trustworthy: what changed each time
         1. **First pass (TPR, match baseline):** correlation between a player's average pitch position and
            their "impact" score was **0.855**: the "suppresses the press" list was literally every
            goalkeeper, the "increases it" list literally every forward. Pure pitch geometry.
-        2. **3-zone position control:** correlation only dropped to 0.717.
+        2. **3-zone position control:** correlation only dropped to 0.673.
         3. **Switched to real nearest-HSV-defender distance** (a tracking-XML rebuild, not TPR) with 10m
            x-bins: -0.723. A 2D x/y grid: -0.650. Barely better; nearest-defender distance is, if anything,
            *more* tied to pitch zone than TPR was.
